@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 124
+layout: post
+title: Anybody wanna recliner'
+wordpress_url: http://blog.sideline.ca/2005/04/06/anybody-wanna-recliner/
+---
+<p>Available to give away:  one free recliner!</p>
+<p><a href="http://my.aream.ca/blogs/images/IMG_7355.JPG"><img height="128" alt="IMG_7355" src="http://my.aream.ca/blogs/images/IMG_7355_thumb.jpg" width="96" border="0" /></a> <a href="http://my.aream.ca/blogs/images/IMG_7356.JPG"><img height="96" alt="IMG_7356" src="http://my.aream.ca/blogs/images/IMG_7356_thumb.jpg" width="128" border="0" /></a> <a href="http://my.aream.ca/blogs/images/IMG_7357.JPG"><img height="128" alt="IMG_7357" src="http://my.aream.ca/blogs/images/IMG_7357_thumb.jpg" width="96" border="0" /></a> <a href="http://my.aream.ca/blogs/images/IMG_7358.JPG"><img height="96" alt="IMG_7358" src="http://my.aream.ca/blogs/images/IMG_7358_thumb.jpg" width="128" border="0" /></a> <a href="http://my.aream.ca/blogs/images/IMG_7359.JPG"><img height="96" alt="IMG_7359" src="http://my.aream.ca/blogs/images/IMG_7359_thumb.jpg" width="128" border="0" /></a></p>

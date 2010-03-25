@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 197
+layout: post
+title: Options
+wordpress_url: http://blog.sideline.ca/2005/10/31/options/
+---
+<p>Now that the TWU membership has turned down the deal that their leaders finally brought to them after almost 5 years of negotiations, I'm stuck in a bit of a selfish bind.</p>
+<p>Since the beginning of the strike/lockout back in July, I've been on an Emergency Operations Preparedness (EOP) job assignment.  That means that TELUS has temporarily switched my job away from the job for which I was hired and sent me to fill a union member's job.</p>
+<p>My first assignment was to a group called Assignment.  I was only 5 floors away from where I usually work so I was still able to have some interaction with my developers.  However, I was on 12'hour shifts for 6 days a week, so I didn't have much time to spend with Sam.</p>
+<p>My second assignment was at the Norwood Central Office.  The hours are good here, but I'm completely out of the building where I normally work.  That means that the only interaction that I have with my guys is via e-mail.</p>
+<p>Most of this isn't a big deal for most people.  From what I hear, most managers love getting reassigned because it means that they can get away from the grind of having to solve problems and answer questions.  Basically, it means that they can get away from managing.</p>
+<p>I don't want that.  I enjoy working with the people that I work with.  I enjoy making decisions when required.  I enjoy coaching others to bring out the best in them.  My job is my hobby and I like it like that.</p>
+<p>So, now I have to think about options.  I'm not sure what will occur now that the union has rejected this offer.  Are we in for 6 more months of labour unrest and EOP'  If so, I really don't want to be away from IT for that long.  I've already requested to be returned to my pre-EOP position but it was turned down.  Since then, I haven't heard a peep out of my boss.  I guess he thinks that if he doesn't talk to me then there won't be a problem.</p>
+<p>I'm pretty sure he counted wrong there.  With a hot IT market here in Edmonton, I'm damn positive that I could go back to development and make more money than I'm currently making as a manager.  But money isn't even remotely my primary motivation.  Happiness is.  I want to do the job that I was hired for.  I want to work in the field that I spent all that time in school for.</p>
+<p>Another option is that I could just suck it up and stay in my EOP job until the strike is over. I have a task-based job with zero stress and I still make the same money as I did as a manager.  Most people would love that and think that I'm a fool for complaining.  They might even be right <a href="http://managementcraft.typepad.com/management_craft/2005/09/how_to_enjoy_yo.html">to say that's hooey</a>.</p>
+<p>I've felt like leaving for a long time now, but I wasn't sure if I was wanting it <a href="http://managementcraft.typepad.com/management_craft/2005/09/when_is_it_time.html">for the right reasons</a>.  Having that debate raging in my head hasn't been helped by this latest EOP fiasco.</p>
+<p>I guess this blog doesn't solve much for me.  In the end, it's just creating a bunch of <a href="http://managementcraft.typepad.com/management_craft/2005/09/how_to_enjoy_yo.html">mucky muck</a>.  But at least it's a way for me to get everything out of my head and into writing.</p>

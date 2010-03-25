@@ -1,0 +1,65 @@
+--- 
+wordpress_id: 302
+layout: post
+title: AJAX with acts_as_commentable
+wordpress_url: http://blog.sideline.ca/2007/04/08/ajax-with-acts_as_commentable/
+---
+<p>I had fun this weekend with AJAX-ifying an implementation of the <a href="http://www.juixe.com/techknow/index.php/2006/06/18/acts-as-commentable-plugin/">acts_as_commentable</a> plugin.  After reading (and implementing) <a href="http://www.naffis.com/blog/articles/2006/08/31/rails-ajax-star-rating-system">Dave Naffis' article</a> on adding AJAX to the <a href="http://agilewebdevelopment.com/plugins/acts_as_rateable">acts_as_rateable plugin</a>, I was inspired to do the same with comments.</p>
+
+<p>Well, actually, I was inspired to <a href="http://www.google.com/search?q=acts_as_commentable%20ajax">google the problem</a> to see if anybody else had done it.  But imagine my glee when I found out that I could be the first to write about it!</p>
+
+<p>Before I get into this, let me first qualify my skills.  I am a complete newbie to RoR.  There.  That's out of the way.  Now let's get going.</p>
+
+<p>First of all, follow the links above to install the acts_as_commentable plugin, run your migration and add the <em>acts_as_commentable</em> line to your model.  The links above explain it well so I don't want to repeat their work.  If you have any problems with this part then please leave a comment and I'll help you out as best I can.</p>
+
+<p>Next you need to add some code to your view.  In my case, I was displaying an individual map to the user and they were able to make comments on it.  Code needed to be added that would display existing comments as well as adding a form to allow for new comments.  This is what I added to maps/show.rhtml:</p>
+
+[ruby]
+<h5>Comments</h5>
+<div id="comments">
+	<% @map.comments.each do |comment|%>
+	  <%= render :partial => "comment/comment", :locals => {:comment => comment } %>			
+	<% end %>
+</div>
+<h5>Leave a comment</h5>
+<% remote_form_for :comment, :url=>{:controller=>"comment", :action=>"new", :id=>@map.id } do |f| %>
+	Title: <%= f.text_field "title" %><br>
+	Comment:<br>
+	<%= f.text_area "comment", :rows=>5, :cols=>35 %><br>
+	<%= submit_tag "Add Comment"%>
+<% end %>
+[/ruby]
+
+<p>This code simply creates a div named <em>comments</em> that contains (oddly enough) all of the comments for a map.  It's important to use a named div here for the AJAX part that will be coming up.  In addition to the named div, there is also a form that uses the AJAXy version of a form called <em>remote_form_for</em>.  The remote form posts a comment to the <em>new</em> action of the <em>comment</em> controller.  In addition to passing the comment information, <em>@map.id</em> is also passed to ensure that the new comment can be attached to the map that is currently being viewed.</p>
+
+<p>OK...with the view covered, we're off to see the controller.  Here's the code for <em>comment_controller.rb</em>:
+
+[ruby]
+class CommentController < ApplicationController
+  def new
+    @map = Map.find(params[:id])
+    
+    @comment = Comment.new(params[:comment])
+    @comment.created_at = Time.now
+    @map.comments << @comment
+    render :layout=>false
+  end
+end
+[/ruby]
+
+<p>To start with, CommentController grabs the <em>@map.id</em> that was passed from the view.  Then it creates a new comment, adds a timestamp and assigns the comment to the map.  An implicit save is called here.  Finally, it ensures that any layouts being used are not rendered.  Because this is a remote form using AJAX, Javascript will be replacing the typical HTML return value so the layout isn't needed.</p>
+
+<p>In Rails, every action in a controller typically has a view.  As we just stated, the view in this case isn't HTML but is instead Javascript.  That means that the view is named <em>new.rjs</em> rather than <em>new.rhtml</em>.  Here's the code:</p>
+
+[ruby]
+page.insert_html :bottom, 'comments', :partial => 'comment/comment', :locals => {:comment => @comment}
+page.visual_effect :highlight, 'comments', :duration => 3
+[/ruby]
+
+<p>Pretty basic, eh?  This simply adds a new comment to the bottom of the current list of comments and then applies a visual highlight so that the user knows something changed.  If you look carefully, you'll see that the second parameter in each method call is <em>'comments'</em>.  This is referring to the named div that we talked about earlier.</p>
+
+<p>One other thing to note is that the rjs file doesn't render out the HTML for the new comment.  Instead, it passes that job off to a partial.  Through a bit of parsing and a lot of convention, it knows to look for that partial in <em>views/comment/_comment.rhtml</em>.  That also happens to be the same partial that the comment list used to render itself in maps/show.rhtml.</p>
+
+<p>That's basically it.  I hit a few stumbling blocks that I'll talk about in future posts.  One of them was the difference in variable names between <em>comment</em> and <em>@comment</em>.  I also had a tough time figuring out how to debug something like this so I'll look into some options in the future (I've heard that <a href="https://addons.mozilla.org/en-US/firefox/addon/1843">FireBug</a> might be useful).</p>
+
+<p>This is the most code that I've added to one post.  Let me know if any of this makes sense.  I'm expecting that I'll have to make some edits to make the process more clear.  In the meantime, give this a try.  It's easy!</p>

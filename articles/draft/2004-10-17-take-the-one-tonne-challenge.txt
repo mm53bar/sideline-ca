@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 65
+layout: post
+title: Take the One-Tonne Challenge
+wordpress_url: http://blog.sideline.ca/2004/10/17/take-the-one-tonne-challenge/
+---
+<p>I just took the <a href="http://www.climatechange.gc.ca/onetonne/english/index.asp">One-Tonne Challenge</a> from Environment Canada.  Man, did we suck!  I thought that we would do pretty well, but here's the results:</p><p><img alt="" hspace="5" src="http://my.aream.ca/blogs/images/our_greenhouse_gases.jpg" align="baseline" border="0" /><img alt="" hspace="5" src="http://my.aream.ca/blogs/images/greenhouse_comparison.jpg" align="baseline" border="0" /></p><p>However, some of the questions were a bit loaded:  for example, they assumed that I didn't leave grass clippings on the lawn.  They assumed that our attic wasn't insulated (it's one of the few parts of the house that is!).  We've been looking into getting a new furnace lately and that will help us reduce our emissions by over a tonne.  Nuts!</p>

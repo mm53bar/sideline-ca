@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 193
+layout: post
+title: 8th Grade Math
+wordpress_url: http://blog.sideline.ca/2005/10/28/8th-grade-math/
+---
+<p>aaahhh'the lovely days of 8th Grade.  Back when I was a geek without even knowing what a geek was.  Back when I was old enough to take a bus to school.  Back in the days of those great Cariboo College math contests that meant a road trip to Kamloops.  Back when I first started to listen to Duran Duran and Billy Idol.  I was too cool for school.</p>
+<table cellspacing="0" cellpadding="2" width="350" align="center" border="0">
+<tbody>
+<tr>
+<td align="middle" bgcolor="#cddeff"><font face="Georgia, Times New Roman, Times, serif"><strong>You Passed 8th Grade Math</strong> </font></td></tr>
+<tr>
+<td bgcolor="#ebf2ff">
+<img height="100" src="http://images.blogthings.com/couldyoupasseighthgrademathquiz/passed.jpg" width="100" /><font color="#000000">Congratulations, you got 10/10 correct! </font></td></tr></tbody></table>
+<div align="center"><a href="http://www.blogthings.com/couldyoupasseighthgrademathquiz/">Could You Pass 8th Grade Math'</a></div>

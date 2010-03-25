@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 122
+layout: post
+title: Test of CS 1.0 with BlogJet
+wordpress_url: http://blog.sideline.ca/2005/03/22/test-of-cs-10-with-blogjet/
+---
+<p>I've recently moved my blog over to CS 1.0 from .Text.  I just installed the MetaBlog API for BlogJet support, so hopefully it works!<img src="http://my.aream.ca/blogs/images/smile18.gif" /></p>
+<p> </p>

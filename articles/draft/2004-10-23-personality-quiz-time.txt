@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 74
+layout: post
+title: Personality quiz time
+wordpress_url: http://blog.sideline.ca/2004/10/23/personality-quiz-time/
+---
+<p>via <a href="http://blogs.geekdojo.net/pdbartlett/archive/2004/10/21/3510.aspx">Paul Bartlett</a></p><p><a href="http://www.bbspot.com/News/2004/10/extension_quiz.php"><img height="90" alt="You are .mpg You live life like it was a movie.  Constantly in motion, you bring pleasure to many, but are often hidden away." src="http://www.bbspot.com/Images/News_Features/2004/10/file_extensions/mpg.jpg" width="300" border="0" /><br />Which File Extension are You'</a> </p><p>Wow - that's deep.  They sure got my number!</p>

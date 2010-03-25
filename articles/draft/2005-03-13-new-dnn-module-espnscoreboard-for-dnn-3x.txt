@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 112
+layout: post
+title: "New DNN module:  EspnScoreboard for DNN 3.x"
+wordpress_url: http://blog.sideline.ca/2005/03/13/new-dnn-module-espnscoreboard-for-dnn-3x/
+---
+<p>I'm just finishing up a port of my EspnScoreboard modules from 2.x to 3.x.  Here's a couple of screenshots:</p>
+<p><a href="http://my.aream.ca/blogs/images/EspnScoreboard_main.png"><img height="240" alt="EspnScoreboard_main" src="http://my.aream.ca/blogs/images/EspnScoreboard_main_thumb.jpg" width="87" border="0" /></a> <a href="http://my.aream.ca/blogs/images/EspnScoreboard_feeds.png"></a><a href="http://my.aream.ca/blogs/images/EspnScoreboard_nhl.png"><img height="240" alt="EspnScoreboard_nhl" src="http://my.aream.ca/blogs/images/EspnScoreboard_nhl_thumb.jpg" width="87" border="0" /></a> <a href="http://my.aream.ca/blogs/images/EspnScoreboard_nogames.png"><img height="67" alt="EspnScoreboard_nogames" src="http://my.aream.ca/blogs/images/EspnScoreboard_nogames_thumb1.jpg" width="128" border="0" /></a> <a href="http://my.aream.ca/blogs/images/EspnScoreboard_feeds.png"><img height="107" alt="EspnScoreboard_feeds" src="http://my.aream.ca/blogs/images/EspnScoreboard_feeds_thumb1.jpg" width="128" border="0" /></a><a href="http://my.aream.ca/blogs/images/EspnScoreboard_feeds.png"></a></p>

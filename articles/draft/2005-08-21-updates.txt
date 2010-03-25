@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 171
+layout: post
+title: Updates
+wordpress_url: http://blog.sideline.ca/2005/08/21/updates/
+---
+It's been busy since my last post.  Let's see...what's happened....
+<ul>
+<li>TELUS' union has gone on strike (or been locked out depending on who you listen to).  I'm not union, but I've had to pick up some of the slack within TELUS since all of the union folks decided to set up shop outside on the sidewalk.  I've been put onto 12-hour shifts for 6 days a week.  Luckily, a big chunk of the union folks are getting fed up with the union and are crossing so I've been able to get 2 days off for each of the past 2 weeks.  We'll see if that continues.  While the timing means that I don't get to spend any time with Sheila and Sammy, the extra cash from 34.5 OT hours per week is nice.</li>
+<li>Mom and Dad came to visit us.  While Mom was busy with Sam, Dad and I (with the help of Murray) ripped down the old deck and put up a new one.  It's pretty damn nice if I do say so myself.</li>
+<li>Matt came to visit!  Matt is a friend of ours that we met when we were in Africa.  After leaving Africa, Matt came to Ottawa to learn how to fly.  Now that's done that, he's heading back to Africa.  He was able to visit us for a few days before heading off to Vancouver to visit with some other friends.  After that, it's back home to Glasgow for a month before he enlists in Encounter duty again.  Good luck Matt!</li>
+<li>Changes at work.  We've had one developer leave voluntarily and one not so voluntarily.  But it all means change and hiring new folks.  Hiring is always fun.  Going through an interview and having to represent the company always helps to remind me of the good things about my job.  </li>
+<li>Changes in process at work.  We've been barely getting by for the last few years when it comes to any kind of software development process.  That just doesn't cut it anymore so we're switching to something a bit more agile.  Given that we're a MS shop, MSF for Agile makes sense once Visual Studio Team System is released.  In the meantime, we'll just have to wing it.  But ANYTHING is better than what we had before.</li>
+</ul>
+Anyways, with all of this stuff (especially the OT) along with getting used to having Sammy, I'm tired!  Sheila's not exactly a picture of alertness either.  I've heard that the strike is going to last a long time so I don't know if any kind of relief is in sight.
+
+But enough about me...how are you doing'

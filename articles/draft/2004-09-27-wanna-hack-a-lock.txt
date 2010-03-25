@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 32
+layout: post
+title: Wanna hack a lock'
+wordpress_url: http://blog.sideline.ca/2004/09/27/wanna-hack-a-lock/
+---
+Use a ballpoint pen to open up your Kryptonite bike lock.  There's a video too at <a href="http://www.engadget.com/entry/7796925370303347/">http://www.engadget.com/entry/7796925370303347/</a>.
+<br /><br />
+I can't really tell how they do it (I'm guessing there's sound that I can't hear), but it looks like they take the insert out of the pen and just use the rigid plastic part to pick the lock.  NIce!
