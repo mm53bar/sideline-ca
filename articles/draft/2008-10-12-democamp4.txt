@@ -1,9 +1,0 @@
---- 
-wordpress_id: 348
-layout: post
-title: DemoCamp4
-wordpress_url: http://blog.sideline.ca/2008/10/12/democamp4/
----
-<p>I'll be attending <a href="http://barcamp.pbwiki.com/DemoCampEdmonton4" title="BarCamp wiki / DemoCampEdmonton4">DemoCamp4</a> on October 29th.  I managed to make it out to <a href="http://barcamp.pbwiki.com/DemoCampEdmonton3" title="BarCamp wiki / DemoCampEdmonton3">DemoCamp3</a> and really enjoyed the presentations.  Even better was the networking and beer afterwards.</p>
-
-<p>Hope to see you there!</p>

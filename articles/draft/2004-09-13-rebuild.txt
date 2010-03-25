@@ -1,9 +1,0 @@
---- 
-wordpress_id: 11
-layout: post
-title: Rebuild&#8230;
-wordpress_url: http://blog.sideline.ca/2004/09/13/rebuild/
----
-Since TELUS was kind enough to block port 80 on my ADSL account (please note the heavy sarcasm!), I've had to move this site over to port 8080. If you're reading this, you've already figured that out.
-<p>Before I knew what changes TELUS had put in place, I thought that I had picked up some spyware. So, I rebuilt my machine using Windows Server 2003. When the same problem was still around, I clued in what was up. A quick Google search brought up forums posts from lots of other affected customers.</p>
-<p>Oh well...the site was only for friends and family anyways. It will live on!</p>

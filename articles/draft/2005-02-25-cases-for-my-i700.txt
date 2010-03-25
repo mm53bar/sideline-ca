@@ -1,9 +1,0 @@
---- 
-wordpress_id: 105
-layout: post
-title: Cases for my i700
-wordpress_url: http://blog.sideline.ca/2005/02/25/cases-for-my-i700/
----
-<p>I've got a Samsung i700 Pocket PC Phone through work.  It's a nice little toy, but the case that it comes with is a pain in the butt.  I found <a href="http://www.mobiletechreview.com/tips/Samsung_i700_cases.htm">a good review of cases</a>, but I'm not sure which one to order.  It's frustrating to have to hold the case over when I'm talking on the phone, but it seems that most of them force you to do that.  </p>
-<p>The <a href="http://www.ebcases.com/Search.bok'category=Samsung%20i700">Slipper Case </a>seems to be the easiest to open, but I'm not a big fan of the way it covers up part of the front of the PDA.  The <a href="http://www.mobileplanet.com/private/covertec/product.asp'ref=SX4403&amp;amp;unit=S.I700">Covertec</a> and <a href="http://www.pielframa.com/SPH_i700_available_colors.htm">Piel Frama</a> cases don't have that problem, but they seem a little bigger and bulkier.</p>
-<p>Decisions, decisions!</p>

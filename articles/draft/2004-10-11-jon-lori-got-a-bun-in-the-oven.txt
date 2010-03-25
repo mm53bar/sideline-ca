@@ -1,7 +1,0 @@
---- 
-wordpress_id: 55
-layout: post
-title: Jon &#38; Lori got a bun in the oven
-wordpress_url: http://blog.sideline.ca/2004/10/11/jon-lori-got-a-bun-in-the-oven/
----
-<p>Just got a call tonight - Jon and Lori are preggo and expecting their kid on May 5th.  Call it Cinquo de Mayo, call it 05/05/05 (is that 05<sup>3</sup>') but Sheila and I will be an auntie and uncle again!</p>

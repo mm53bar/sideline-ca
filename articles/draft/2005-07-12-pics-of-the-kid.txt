@@ -1,7 +1,0 @@
---- 
-wordpress_id: 166
-layout: post
-title: Pics of the kid
-wordpress_url: http://blog.sideline.ca/2005/07/12/pics-of-the-kid/
----
-<p>I've uploaded the pics from <a href="http://my.aream.ca/blogs/mike/archive/2005/07/10/15109.aspx">a tiring night and day</a> and <a href="http://my.aream.ca/blogs/mike/archive/2005/07/11/15111.aspx">another tiring night and day</a> to <a href="http://my.aream.ca/photos/mikes_pics/category1185.aspx">http://my.aream.ca/photos/mikes_pics/category1185.aspx</a>.  Enjoy.  I'm going to sleep.</p>

@@ -1,8 +1,0 @@
---- 
-wordpress_id: 19
-layout: post
-title: Javascript and .Net
-wordpress_url: http://blog.sideline.ca/2004/09/15/javascript-and-net/
----
-<p>One of my favourite questions to ask developers during an interview is "How much Javascript do you know'". Most developers don't have much experience with client-side scripting and have no idea what I'm talking about when I ask about cross-DOM functionality.</p>
-<p>We use a lot of Javascript here to interact with the MapGuide ActiveX API. However, I don't think that a lot of us have much experience with Javascript in .Net (other than a bit of validation here and there). The article at <a href="http://msdn.microsoft.com/asp.net/using/building/web/default.aspx'pull=/library/en-us/dnaspp/html/ClientSideScript.asp">http://msdn.microsoft.com/asp.net/using/building/web/default.aspx'pull=/library/en-us/dnaspp/html/ClientSideScript.asp</a> has a great walkthrough on how to use .Net to help you out with your Javascript needs. In fact, I can't believe how easy it is to inject Javascript into server-side code these days. </p>

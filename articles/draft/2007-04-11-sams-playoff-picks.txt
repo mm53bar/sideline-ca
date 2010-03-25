@@ -1,7 +1,0 @@
---- 
-wordpress_id: 307
-layout: post
-title: Sam's Playoff Picks
-wordpress_url: http://blog.sideline.ca/2007/04/11/sams-playoff-picks/
----
-For those of you that know me personally, you probably know my son, Sam.  I've just posted <a href="http://www.aream.ca/2007/04/11/sams-playoff-picks/">Sam's picks for the first round of the playoffs</a> on <a href="http://www.aream.ca">my personal blog</a>.  It looks like he stands a good chance of doing well against <a href="http://www.tsn.ca/nhl/feature/?fid=11007&amp;hubname=">Maggie the Monkey</a>!

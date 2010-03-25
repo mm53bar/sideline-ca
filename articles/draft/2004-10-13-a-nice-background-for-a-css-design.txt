@@ -1,7 +1,0 @@
---- 
-wordpress_id: 62
-layout: post
-title: A nice background for a css design
-wordpress_url: http://blog.sideline.ca/2004/10/13/a-nice-background-for-a-css-design/
----
-<p>This is a nice background image for a CSS design...it could be used at the bottom of a story to give the text some 3D effect.</p><p><img alt="" hspace="0" src="http://my.aream.ca/blogs/images/paragraf_back.jpg" align="baseline" border="0" /></p>
