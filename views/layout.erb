@@ -1,27 +1,40 @@
+<!doctype html>
 <html>
   <head>
-  <link rel="stylesheet" type="text/css" href="/css/serious.css">
-  <link rel="stylesheet" type="text/css" href="/css/coderay.css">
-  <link rel="alternate" type="application/atom+xml" title="<%= Serious.title %>" href="<%= Serious.feed_url %>" />
-  <title><%= @article ? @article.title + " - " : "" %><%= Serious.title %></title>
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/css/coderay.css">    
+    <link rel="alternate" type="application/atom+xml" title="<%= Serious.title %>" href="<%= Serious.feed_url %>" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+    <title><%= @article ? @article.title + " - " : "" %><%= Serious.title %></title>
   </head>
-  
-  <body>
-    <div id="header">
-      <h1><a href="/"><%= Serious.title %></a></h1>
+  <body id="<%= @page_type if @page_type %>">
+  <div id="wrapper">
+    <header class="main clear">
+      <h1 id="title"><a href="/">Sideline</a></h1>
+      <div id="tagline">
+        <h2>Coding on the side.</h2>
+      </div>
+      <div id="nav">
+        <ul>
+          <li class="home"><a href="/">Home</a></li>
+          <li class="articles"><a href="/articles">Articles</a></li>
+          <li class="archives"><a href="/archives">Archives</a></li>
+          <li class="about"><a href="/about">About</a></li>
+          <li class="contact"><a href="/contact">Contact</a></li>
+        </ul>
+      </div>
+    </header>
+    <div id="content">  
+      <section>
+        <%= render_partial :site_description %>
+        <%= yield %> 
+      </section>      
     </div>
-    
-    <div id="container">
-      <%= yield %>
-    </div>
-    
-    <div id="footer">
-      <p>
-        This blog is <a href="http://github.com/colszowka/serious">serious</a>.
-      </p>
-    </div>
-    
-    <%= render_partial :google_analytics if Serious.google_analytics %> 
+    <%= render_partial :sidebar %>
+    <footer>
+      <p class="right">Copyright 2010 Sideline Consulting Inc.</p>
+      <p>Site design based on <a href="http://thethemefoundry.com/vigilance/">Vigilance Theme</a> by <a href="http://thethemefoundry.com">The Theme Foundry</a>. This blog is <a href="http://github.com/colszowka/serious">serious</a>.</p>
+    </footer>  
+    <%= render_partial :google_analytics if Serious.google_analytics %>   
   </body>
 </html>
-

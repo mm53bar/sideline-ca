@@ -1,12 +1,7 @@
-<ul id="articles">
-  <% @recent.each do |article| %>
-    <li>
-      <%= render_article article, true %>
-    </li>
-  <% end %>
-</ul>
-<h3><a href="/archives">Older posts</a></h3>
-<%= render_archived @archived %>
+<% @page_type = 'articles' %>
 
-<h3><a href="/pages">Pages</a></h3>
-<%= render_archived Serious::Page.all %>
+<section id="articles">
+  <% @recent.each do |article| %>
+    <%= render_article article, true %>
+  <% end %>
+</section>
