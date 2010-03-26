@@ -4,17 +4,7 @@ layout: post
 title: What is a ~!'
 wordpress_url: http://blog.sideline.ca/2006/02/24/what-is-a/
 
-<p>I've noticed that any time I read <a href="http://graysmatter.codivation.com/default.aspx">Justice's blog</a> these days, it's more for the exclamation count than for the actual content.  He took it to the next level with <a href="http://graysmatter.codivation.com/NETWizardsMarch14thEVERYTHINGWILLCHANGE.aspx">his most recent entry</a>.  Not only did he achieve a whopping exclamation count of 17 but he also introduced a whole new system of punctuation:  the ~!.</p>
-<p>I'm not really sure what this combination of tilde and an exclamation point is.  Usually the ~ is short for 'approximately'.  Does a ~! mean that he's approximately excited'  Or did his fingers just slip on the keyboard'  After all the ~ and the ! are dangerously close together.</p>
-<p>Regardless, you've got to admire this much enthusiasm in a guy that doesn't drink!!!!~!~~!!!</p>
-<p><em></em></p>
---- 
-wordpress_id: 222
-layout: post
-title: What is a ~!'
-wordpress_url: http://blog.sideline.ca/2006/02/24/what-is-a/
-
-<p>I've noticed that any time I read <a href="http://graysmatter.codivation.com/default.aspx">Justice's blog</a> these days, it's more for the exclamation count than for the actual content.  He took it to the next level with <a href="http://graysmatter.codivation.com/NETWizardsMarch14thEVERYTHINGWILLCHANGE.aspx">his most recent entry</a>.  Not only did he achieve a whopping exclamation count of 17 but he also introduced a whole new system of punctuation:  the ~!.</p>
-<p>I'm not really sure what this combination of tilde and an exclamation point is.  Usually the ~ is short for 'approximately'.  Does a ~! mean that he's approximately excited'  Or did his fingers just slip on the keyboard'  After all the ~ and the ! are dangerously close together.</p>
+<p>I've noticed that any time I read <a href="http://graysmatter.codivation.com/default.aspx">Justice's blog</a> these days, it's more for the exclamation count than for the actual content.Â  He took it to the next level with <a href="http://graysmatter.codivation.com/NETWizardsMarch14thEVERYTHINGWILLCHANGE.aspx">his most recent entry</a>.Â  Not only did he achieve a whopping exclamation count of 17 but he also introduced a whole new system of punctuation:Â  the ~!.</p>
+<p>I'm not really sure what this combination of tilde and an exclamation point is.Â  Usually the ~Â is short for 'approximately'.Â  Does a ~! mean that he's approximately excited'Â  Or did his fingers just slip on the keyboard'Â  After all the ~ and the ! are dangerously close together.</p>
 <p>Regardless, you've got to admire this much enthusiasm in a guy that doesn't drink!!!!~!~~!!!</p>
 <p><em></em></p>

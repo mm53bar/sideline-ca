@@ -4,79 +4,38 @@ layout: post
 title: Sammy Update
 wordpress_url: http://blog.sideline.ca/2005/09/14/sammy-update/
 
-We took Sammy in the other day for his 2-month shots.  The poor
+We took Sammy in the other day for his 2-month shots.Â  The poor
 little guy got 3 shots in total - 2 in one leg and the third in the
-other leg.  He cried pretty good during the shots (who wouldn't')
-but calmed down pretty quickly and was smiling again.  So far
+other leg.Â  He cried pretty good during the shots (who wouldn't')
+but calmed down pretty quickly and was smiling again.Â  So far
 we've noticed a bit of tenderness but some baby Tylenol takes care of
 that.<br />
 <br />
 We also had him weighed and measured - he's 60 centimetres tall
-(roughly 2 feet) and weighs a whopping 15 pounds, 8 ounces.  That
+(roughly 2 feet) and weighs a whopping 15 pounds, 8 ounces.Â  That
 puts him in the 75th percentile for height but over the 95th percentile
-for weight.  There's nothing wrong with that since he can use all
+for weight.Â  There's nothing wrong with that since he can use all
 the weight that he can get.<br />
 <br />
-Overall, he's doing pretty well.  He's finally starting to settle
+Overall, he's doing pretty well.Â  He's finally starting to settle
 into a routine and he's actually sleeping 6 to 7 hours some
-nights.  Auntie Tara bought him a swing on her recent visit and
-that has been a godsend.  He tends to take quite a few of his naps
-in the swing.  As well, he's sleeping better with the mobile in
-his crib.  He used to play whenever the mobile is on, but now it
+nights.Â  Auntie Tara bought him a swing on her recent visit and
+that has been a godsend.Â  He tends to take quite a few of his naps
+in the swing.Â  As well, he's sleeping better with the mobile in
+his crib.Â  He used to play whenever the mobile is on, but now it
 seems to be helpful at putting him to sleep in the wee hours of the
 morning when Sheila has to get up with him.<br />
 <br />
-We've been trying to stay up to date with uploading photos.  I've
-got a feed of the latest photos on the main page of aream.ca.  We
-store all of our photos with Flickr.com now.  You can access them
+We've been trying to stay up to date with uploading photos.Â  I've
+got a feed of the latest photos on the main page of aream.ca.Â  We
+store all of our photos with Flickr.com now.Â  You can access them
 by 1) clicking on the photos at aream.ca, or 2) going directly to
-www.flickr.com/photos/aream.  Flickr has some great slideshows and
+www.flickr.com/photos/aream.Â  Flickr has some great slideshows and
 other ways to view the photos.<br />
 <br />
 We're planning our first mini-vacation with Sammy right now - we'll be
-going to Canmore during the long weekend in November.  It'll be
+going to Canmore during the long weekend in November.Â  It'll be
 his first time in the mountains, his first time in a national park and
 we might even go for a quick drive across the border to take him into
-BC for the first time.  We'll be sure to post photos afterwards.<br />
-<br />
---- 
-wordpress_id: 178
-layout: post
-title: Sammy Update
-wordpress_url: http://blog.sideline.ca/2005/09/14/sammy-update/
-
-We took Sammy in the other day for his 2-month shots.  The poor
-little guy got 3 shots in total - 2 in one leg and the third in the
-other leg.  He cried pretty good during the shots (who wouldn't')
-but calmed down pretty quickly and was smiling again.  So far
-we've noticed a bit of tenderness but some baby Tylenol takes care of
-that.<br />
-<br />
-We also had him weighed and measured - he's 60 centimetres tall
-(roughly 2 feet) and weighs a whopping 15 pounds, 8 ounces.  That
-puts him in the 75th percentile for height but over the 95th percentile
-for weight.  There's nothing wrong with that since he can use all
-the weight that he can get.<br />
-<br />
-Overall, he's doing pretty well.  He's finally starting to settle
-into a routine and he's actually sleeping 6 to 7 hours some
-nights.  Auntie Tara bought him a swing on her recent visit and
-that has been a godsend.  He tends to take quite a few of his naps
-in the swing.  As well, he's sleeping better with the mobile in
-his crib.  He used to play whenever the mobile is on, but now it
-seems to be helpful at putting him to sleep in the wee hours of the
-morning when Sheila has to get up with him.<br />
-<br />
-We've been trying to stay up to date with uploading photos.  I've
-got a feed of the latest photos on the main page of aream.ca.  We
-store all of our photos with Flickr.com now.  You can access them
-by 1) clicking on the photos at aream.ca, or 2) going directly to
-www.flickr.com/photos/aream.  Flickr has some great slideshows and
-other ways to view the photos.<br />
-<br />
-We're planning our first mini-vacation with Sammy right now - we'll be
-going to Canmore during the long weekend in November.  It'll be
-his first time in the mountains, his first time in a national park and
-we might even go for a quick drive across the border to take him into
-BC for the first time.  We'll be sure to post photos afterwards.<br />
+BC for the first time.Â  We'll be sure to post photos afterwards.<br />
 <br />

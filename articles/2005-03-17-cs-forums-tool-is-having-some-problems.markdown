@@ -4,11 +4,4 @@ layout: post
 title: CS Forums tool is having some problems'
 wordpress_url: http://blog.sideline.ca/2005/03/17/cs-forums-tool-is-having-some-problems/
 
-hmmm'<a href="http://www.communityserver.org/forums/476741/ShowPost.aspx">this thread</a> makes me want to wait a bit before upgrading the forums at work!
---- 
-wordpress_id: 118
-layout: post
-title: CS Forums tool is having some problems'
-wordpress_url: http://blog.sideline.ca/2005/03/17/cs-forums-tool-is-having-some-problems/
-
-hmmm'<a href="http://www.communityserver.org/forums/476741/ShowPost.aspx">this thread</a> makes me want to wait a bit before upgrading the forums at work!
+hmmm'<a href="http://www.communityserver.org/forums/476741/ShowPost.aspx">this thread</a> makes meÂ want toÂ wait a bit before upgrading the forums at work!

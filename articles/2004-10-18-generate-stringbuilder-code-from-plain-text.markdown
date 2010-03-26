@@ -4,11 +4,4 @@ layout: post
 title: Generate StringBuilder Code from Plain Text
 wordpress_url: http://blog.sideline.ca/2004/10/18/generate-stringbuilder-code-from-plain-text/
 
-<p>This is a <a href="http://www.knowdotnet.com/articles/TextToStringBuilder.html">nice little freebie</a> - it allows you to generate the full stringbuilder code (either VB.Net or C#) from some sample text that you have.  Sweet if you were dumping some javascript or sql code into a string for god knows what reason!  Maybe you want to get yourself a spot on the <a href="http://thedailywtf.com/">dailyWTF</a>'</p><p>Seriously though, there are times when you have to build big strings and this would help.</p>
---- 
-wordpress_id: 67
-layout: post
-title: Generate StringBuilder Code from Plain Text
-wordpress_url: http://blog.sideline.ca/2004/10/18/generate-stringbuilder-code-from-plain-text/
-
-<p>This is a <a href="http://www.knowdotnet.com/articles/TextToStringBuilder.html">nice little freebie</a> - it allows you to generate the full stringbuilder code (either VB.Net or C#) from some sample text that you have.  Sweet if you were dumping some javascript or sql code into a string for god knows what reason!  Maybe you want to get yourself a spot on the <a href="http://thedailywtf.com/">dailyWTF</a>'</p><p>Seriously though, there are times when you have to build big strings and this would help.</p>
+<p>This is a <a href="http://www.knowdotnet.com/articles/TextToStringBuilder.html">nice little freebie</a> - it allows you to generate the full stringbuilder code (either VB.Net or C#) from some sample text that you have.Â  Sweet if you were dumping some javascript or sql code into a string for god knows what reason!Â  Maybe you want to get yourself a spot on the <a href="http://thedailywtf.com/">dailyWTF</a>'</p><p>Seriously though, there are times when you have to build big strings and this would help.</p>

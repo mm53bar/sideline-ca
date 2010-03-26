@@ -5,10 +5,3 @@ title: BlogJet has mp3 support too!
 wordpress_url: http://blog.sideline.ca/2004/10/03/blogjet-has-mp3-support-too/
 
 <p></p><p><strong>Now playing:</strong> <a href="http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults'artistTerm=matthew good band">matthew good band</a> - <a href="http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults'songTerm=sort of a protest song&amp;amp;artistTerm=matthew good band">sort of a protest song</a></p>
---- 
-wordpress_id: 39
-layout: post
-title: BlogJet has mp3 support too!
-wordpress_url: http://blog.sideline.ca/2004/10/03/blogjet-has-mp3-support-too/
-
-<p></p><p><strong>Now playing:</strong> <a href="http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults'artistTerm=matthew good band">matthew good band</a> - <a href="http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults'songTerm=sort of a protest song&amp;amp;artistTerm=matthew good band">sort of a protest song</a></p>

@@ -4,13 +4,5 @@ layout: post
 title: Web 2.0 is hot!
 wordpress_url: http://blog.sideline.ca/2006/03/02/web-20-is-hot/
 
-<p>Finally, <a href="http://www.solomodels.com/">a Web 2.0 site</a> that <a href="http://igloocoder.com/archive/2006/01/06/149.aspx">IglooCoder</a> and I can agree on.  If this is what Web 2.0 looks like, then bring it on.</p>
-<p>&amp;gt;&amp;gt; via <a href="http://www.techcrunch.com/2006/02/28/solomodels-ajax-perfection/">TechCrunch</a></p>
---- 
-wordpress_id: 225
-layout: post
-title: Web 2.0 is hot!
-wordpress_url: http://blog.sideline.ca/2006/03/02/web-20-is-hot/
-
-<p>Finally, <a href="http://www.solomodels.com/">a Web 2.0 site</a> that <a href="http://igloocoder.com/archive/2006/01/06/149.aspx">IglooCoder</a> and I can agree on.  If this is what Web 2.0 looks like, then bring it on.</p>
+<p>Finally, <a href="http://www.solomodels.com/">a Web 2.0 site</a> that <a href="http://igloocoder.com/archive/2006/01/06/149.aspx">IglooCoder</a> and I can agree on.Â  If this is what Web 2.0 looks like, then bring it on.</p>
 <p>&amp;gt;&amp;gt; via <a href="http://www.techcrunch.com/2006/02/28/solomodels-ajax-perfection/">TechCrunch</a></p>

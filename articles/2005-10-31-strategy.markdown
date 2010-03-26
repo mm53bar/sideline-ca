@@ -5,12 +5,4 @@ title: Strategy
 wordpress_url: http://blog.sideline.ca/2005/10/31/strategy/
 
 <p>A lot of my recent desire to leave my current job can be summed up by this little cartoon:<img alt="" hspace="10" src="http://www.dilbert.com/comics/dilbert/archive/images/dilbert2732610051031.gif" vspace="5" border="0" /></p>
-<p>I really don't see any coherent strategy at work.  Most of my first year as a software development manager has been spent fighting with the other managers to figure out what our project managers are supposed to do.  Crazy.</p>
---- 
-wordpress_id: 198
-layout: post
-title: Strategy
-wordpress_url: http://blog.sideline.ca/2005/10/31/strategy/
-
-<p>A lot of my recent desire to leave my current job can be summed up by this little cartoon:<img alt="" hspace="10" src="http://www.dilbert.com/comics/dilbert/archive/images/dilbert2732610051031.gif" vspace="5" border="0" /></p>
-<p>I really don't see any coherent strategy at work.  Most of my first year as a software development manager has been spent fighting with the other managers to figure out what our project managers are supposed to do.  Crazy.</p>
+<p>I really don't see any coherent strategy at work.Â  Most of my first year as a software development manager has been spent fighting with the other managers to figure out what our project managers are supposed to do.Â  Crazy.</p>

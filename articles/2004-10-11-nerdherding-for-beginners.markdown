@@ -4,11 +4,4 @@ layout: post
 title: Nerdherding for Beginners
 wordpress_url: http://blog.sideline.ca/2004/10/11/nerdherding-for-beginners/
 
-<p><a href="http://www.nerdherding.net/">Nerdherding for Beginners</a></p><p><em>An interesting site with some good things to say about running software teams.  Definitely add this to my list of blogs.</em></p>
---- 
-wordpress_id: 56
-layout: post
-title: Nerdherding for Beginners
-wordpress_url: http://blog.sideline.ca/2004/10/11/nerdherding-for-beginners/
-
-<p><a href="http://www.nerdherding.net/">Nerdherding for Beginners</a></p><p><em>An interesting site with some good things to say about running software teams.  Definitely add this to my list of blogs.</em></p>
+<p><a href="http://www.nerdherding.net/">Nerdherding for Beginners</a></p><p><em>An interesting site with some good things to say about running software teams.Â  Definitely add this to my list of blogs.</em></p>

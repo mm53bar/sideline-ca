@@ -4,19 +4,8 @@ layout: post
 title: Screenshots of the Pick&#8217;Em Scoresheet and CFL 2005 SkedPack
 wordpress_url: http://blog.sideline.ca/2005/07/04/screenshots-of-the-pickem-scoresheet-and-cfl-2005-skedpack/
 
-<p><a href="http://my.aream.ca/blogs/images/PickEmScoresheet.Png"><img height="104" alt="PickEmScoresheet with CFL 2005 SkedPak" hspace="5" src="http://my.aream.ca/blogs/images/PickEmScoresheet_thumb.jpg" width="128" align="left" border="0" /></a>Pick 'Em allows for admins to upload schedules in a pre-defined XML format.  These schedules sit in the default portal repository.  As the admin is configuring a new Pick 'Em pool, a schedule file is picked.  Pick 'Em parses that schedule and builds all of the required entries for the Weeks and Games tables.</p>
-<p>Pick 'Em can also use any images that are uploaded.  As long as the images match the team names from the schedule, then they are loaded and used in the scoresheet.  These images must be listed in the default portal repository.</p>
-<p>The sweet thing about DNN is that it supports unpacking of zip files.  So, if the schedule XML is zipped up along with all of the required images, then you have a nice little schedule pack.  For Pick 'Em, I'm calling them SkedPaks.</p>
-<p>I've attached a screenshot of the Scoresheet screen with the CFL 2005 SkedPak installed.  I've also attached the SkedPak.  The SkedPak should work just fine with Pick 'Em v2 for DNN 2.x.</p>
-<p><a href="http://my.aream.ca/blogs/images/CFL_2005_SkedPak.zip">File Attachment: CFL_2005_SkedPak.zip (12 KB)</a></p>
---- 
-wordpress_id: 160
-layout: post
-title: Screenshots of the Pick&#8217;Em Scoresheet and CFL 2005 SkedPack
-wordpress_url: http://blog.sideline.ca/2005/07/04/screenshots-of-the-pickem-scoresheet-and-cfl-2005-skedpack/
-
-<p><a href="http://my.aream.ca/blogs/images/PickEmScoresheet.Png"><img height="104" alt="PickEmScoresheet with CFL 2005 SkedPak" hspace="5" src="http://my.aream.ca/blogs/images/PickEmScoresheet_thumb.jpg" width="128" align="left" border="0" /></a>Pick 'Em allows for admins to upload schedules in a pre-defined XML format.  These schedules sit in the default portal repository.  As the admin is configuring a new Pick 'Em pool, a schedule file is picked.  Pick 'Em parses that schedule and builds all of the required entries for the Weeks and Games tables.</p>
-<p>Pick 'Em can also use any images that are uploaded.  As long as the images match the team names from the schedule, then they are loaded and used in the scoresheet.  These images must be listed in the default portal repository.</p>
-<p>The sweet thing about DNN is that it supports unpacking of zip files.  So, if the schedule XML is zipped up along with all of the required images, then you have a nice little schedule pack.  For Pick 'Em, I'm calling them SkedPaks.</p>
-<p>I've attached a screenshot of the Scoresheet screen with the CFL 2005 SkedPak installed.  I've also attached the SkedPak.  The SkedPak should work just fine with Pick 'Em v2 for DNN 2.x.</p>
+<p><a href="http://my.aream.ca/blogs/images/PickEmScoresheet.Png"><img height="104" alt="PickEmScoresheet with CFL 2005 SkedPak" hspace="5" src="http://my.aream.ca/blogs/images/PickEmScoresheet_thumb.jpg" width="128" align="left" border="0" /></a>Pick 'Em allows for admins to upload schedules in a pre-defined XML format.Â  These schedules sit in the default portal repository.Â  As the admin is configuring a new Pick 'Em pool, a schedule file is picked.Â  Pick 'Em parses that schedule and builds all of the required entries for the Weeks and Games tables.</p>
+<p>Pick 'Em can also use any images that are uploaded.Â  As long as the images match the team names from the schedule, then they are loaded and used in the scoresheet.Â  These images must be listed in the default portal repository.</p>
+<p>The sweet thing about DNN is that it supports unpacking of zip files.Â  So, if the schedule XML is zipped up along with all of the required images, then you have a nice little schedule pack.Â  For Pick 'Em, I'm calling them SkedPaks.</p>
+<p>I've attached a screenshot of the Scoresheet screen with the CFL 2005 SkedPak installed.Â  I've also attached the SkedPak.Â  The SkedPak should work just fine with Pick 'Em v2 for DNN 2.x.</p>
 <p><a href="http://my.aream.ca/blogs/images/CFL_2005_SkedPak.zip">File Attachment: CFL_2005_SkedPak.zip (12 KB)</a></p>

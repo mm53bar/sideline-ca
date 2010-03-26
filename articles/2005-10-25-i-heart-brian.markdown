@@ -4,19 +4,8 @@ layout: post
 title: I Heart Brian
 wordpress_url: http://blog.sideline.ca/2005/10/25/i-heart-brian/
 
-<p>Reading <a href="http://www.prvsoftware.ca:8081/cs/blogs/mikes_dump/archive/2005/10/24/197.aspx">Mike's article on unsecured wireless networks</a> reminded me of my first reassignment during this lovely labour problem that TELUS is having right now.  </p>
-<p>I was sent up to a group that does Assignment.  They're kind of like middlemen ' they take orders that were entered into the system by CSR's and assign them as jobs to people out in the field that actually do the work.</p>
-<p>Anyways, the job was dullllllllllll.  I don't think I added enough l's to emphasize just how boring this job was.  It was even worse when they assigned us computers to use that had nothing fun installed on them.  Luckily, I had my trusty laptop with me but the cube they put me in only had one internet connection.  I couldn't really disconnect the crap computer that they had assigned me because it needed the connection for those rare situations that I actually had work to do.</p>
-<p>Luckily, my laptop has built in wifi, so I took a look around for networks.  Some fellow who named his network 'Brian' obviously understood my pain and left his wireless network unsecured.  While I didn't get the fastest connection on it, I was able to fire up my rss aggregator and surf to my heart's content.</p>
-<p>Thanks Brian.  You saved me from infinite boredom.  Sorry if I pushed you beyond your bandwidth limits.</p>
---- 
-wordpress_id: 188
-layout: post
-title: I Heart Brian
-wordpress_url: http://blog.sideline.ca/2005/10/25/i-heart-brian/
-
-<p>Reading <a href="http://www.prvsoftware.ca:8081/cs/blogs/mikes_dump/archive/2005/10/24/197.aspx">Mike's article on unsecured wireless networks</a> reminded me of my first reassignment during this lovely labour problem that TELUS is having right now.  </p>
-<p>I was sent up to a group that does Assignment.  They're kind of like middlemen ' they take orders that were entered into the system by CSR's and assign them as jobs to people out in the field that actually do the work.</p>
-<p>Anyways, the job was dullllllllllll.  I don't think I added enough l's to emphasize just how boring this job was.  It was even worse when they assigned us computers to use that had nothing fun installed on them.  Luckily, I had my trusty laptop with me but the cube they put me in only had one internet connection.  I couldn't really disconnect the crap computer that they had assigned me because it needed the connection for those rare situations that I actually had work to do.</p>
-<p>Luckily, my laptop has built in wifi, so I took a look around for networks.  Some fellow who named his network 'Brian' obviously understood my pain and left his wireless network unsecured.  While I didn't get the fastest connection on it, I was able to fire up my rss aggregator and surf to my heart's content.</p>
-<p>Thanks Brian.  You saved me from infinite boredom.  Sorry if I pushed you beyond your bandwidth limits.</p>
+<p>Reading <a href="http://www.prvsoftware.ca:8081/cs/blogs/mikes_dump/archive/2005/10/24/197.aspx">Mike's article on unsecured wireless networks</a> reminded me of my first reassignment during this lovely labour problem that TELUS is having right now.Â  </p>
+<p>I was sent up to aÂ group that doesÂ Assignment.Â  They're kind of like middlemen 'Â they take orders that were entered into the system by CSR's andÂ assign them as jobs to people out in the field that actually do the work.</p>
+<p>Anyways, the job was dullllllllllll.Â  I don't think I added enoughÂ l's to emphasize just how boring this job was.Â  It was even worse when they assigned us computers to use that had nothing fun installed on them.Â  Luckily, I had my trusty laptop with me but the cube they put me inÂ only had one internet connection.Â Â I couldn't really disconnect the crap computer that they had assigned meÂ because itÂ needed the connection for those rare situations that I actually had work to do.</p>
+<p>Luckily, my laptop has built in wifi, so I took a look around for networks.Â  Some fellow who named his network 'Brian'Â obviously understood my pain and left his wireless network unsecured.Â  While I didn't get the fastest connection on it, I was able to fire up my rss aggregator and surf to my heart's content.</p>
+<p>Thanks Brian.Â  You saved me from infinite boredom.Â  Sorry if I pushed you beyond your bandwidth limits.</p>

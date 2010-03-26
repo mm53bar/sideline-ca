@@ -7,12 +7,3 @@ wordpress_url: http://blog.sideline.ca/2004/10/06/moving-text-from-single-to-mul
 Since Sheila will soon start blogging as well (trust me - she's got lots of opinions!), I'm going to move this install of .Text from a single user to a multi user.  The current URL will now become the aggregate blog containing all of our posts.  Maybe we'll also get Tanna to start typing up some stuff'
 
 For my poor memory, here's a forum post that will help:  <a href="http://www.asp.net/Forums/ShowPost.aspx'tabindex=1&amp;amp;PostID=646447">http://www.asp.net/Forums/ShowPost.aspx'tabindex=1&amp;amp;PostID=646447</a>
---- 
-wordpress_id: 49
-layout: post
-title: Moving .Text from single to multi
-wordpress_url: http://blog.sideline.ca/2004/10/06/moving-text-from-single-to-multi/
-
-Since Sheila will soon start blogging as well (trust me - she's got lots of opinions!), I'm going to move this install of .Text from a single user to a multi user.  The current URL will now become the aggregate blog containing all of our posts.  Maybe we'll also get Tanna to start typing up some stuff'
-
-For my poor memory, here's a forum post that will help:  <a href="http://www.asp.net/Forums/ShowPost.aspx'tabindex=1&amp;amp;PostID=646447">http://www.asp.net/Forums/ShowPost.aspx'tabindex=1&amp;amp;PostID=646447</a>

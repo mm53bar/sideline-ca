@@ -4,13 +4,5 @@ layout: post
 title: From the Circulation Department&#8230;
 wordpress_url: http://blog.sideline.ca/2005/06/29/from-the-circulation-department/
 
-<p><a href="http://my.aream.ca/blogs/images/IMG_7537.JPG"></a>We recently cancelled our subscription to the <a href="http://www.edmontonsun.com/">Edmonton Sun</a> (damn right-wing farmers) to take advantage of a TELUS Perk with the <a href="http://www.canada.com/national/nationalpost/index.html">National Post</a> (damn right-wing Ontarians).  </p>
-<p>Today, we received our refund from the Sun, but not quite in the form that we expected!  </p><br />
---- 
-wordpress_id: 156
-layout: post
-title: From the Circulation Department&#8230;
-wordpress_url: http://blog.sideline.ca/2005/06/29/from-the-circulation-department/
-
-<p><a href="http://my.aream.ca/blogs/images/IMG_7537.JPG"></a>We recently cancelled our subscription to the <a href="http://www.edmontonsun.com/">Edmonton Sun</a> (damn right-wing farmers) to take advantage of a TELUS Perk with the <a href="http://www.canada.com/national/nationalpost/index.html">National Post</a> (damn right-wing Ontarians).  </p>
-<p>Today, we received our refund from the Sun, but not quite in the form that we expected!  </p><br />
+<p><a href="http://my.aream.ca/blogs/images/IMG_7537.JPG"></a>We recently cancelled our subscription to the <a href="http://www.edmontonsun.com/">Edmonton Sun</a> (damn right-wing farmers) to take advantage of a TELUS Perk with the <a href="http://www.canada.com/national/nationalpost/index.html">National Post</a>Â (damn right-wing Ontarians).Â  </p>
+<p>Today, we received our refund from the Sun, but not quite in the form that we expected!Â  </p><br />

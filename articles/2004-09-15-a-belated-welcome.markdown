@@ -6,11 +6,3 @@ wordpress_url: http://blog.sideline.ca/2004/09/15/a-belated-welcome/
 
 <p>Welcome to Sandro</p>
 <a href="http://my.aream.ca/photos/albums/36.aspx"><img src="http://my.aream.ca/photos/photos/36/3050/140x105.aspx" border="0" /></a>
---- 
-wordpress_id: 20
-layout: post
-title: A belated welcome
-wordpress_url: http://blog.sideline.ca/2004/09/15/a-belated-welcome/
-
-<p>Welcome to Sandro</p>
-<a href="http://my.aream.ca/photos/albums/36.aspx"><img src="http://my.aream.ca/photos/photos/36/3050/140x105.aspx" border="0" /></a>

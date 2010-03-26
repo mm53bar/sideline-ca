@@ -4,15 +4,6 @@ layout: post
 title: Killing CS
 wordpress_url: http://blog.sideline.ca/2006/01/23/killing-cs/
 
-<p>I've been debating lately whether I'm going to keep <a href="http://www.communityserver.org/">Community Server</a> or not.  When I first got into .Text, it was a nice little blogging engine that I could play with.  Because it was open source, I could also satisfy my inner geek by mucking around with the code.</p>
-<p>But Community Server has just gotten too big for me now.  I don't use the Gallery and I have no need for the forum.  Because all of these apps have been combined into one database, the idea of fixing <a href="http://my.aream.ca/blogs/mike/archive/2006/01/04/15199.aspx">my current problems</a> from a database level is just too daunting for me now that I'm a part-time coder and full-time dad.</p>
-<p>So, my task for the next couple of weeks is to find a blogging engine that is a) free, b) fits my web host (.Net &amp;amp; Sql Server), and c) can import my existing blog using some magical migration system.  Something that makes it easy for me to add pictures or attachments to my blog (without using an FTP server) would also be nice.</p>
---- 
-wordpress_id: 220
-layout: post
-title: Killing CS
-wordpress_url: http://blog.sideline.ca/2006/01/23/killing-cs/
-
-<p>I've been debating lately whether I'm going to keep <a href="http://www.communityserver.org/">Community Server</a> or not.  When I first got into .Text, it was a nice little blogging engine that I could play with.  Because it was open source, I could also satisfy my inner geek by mucking around with the code.</p>
-<p>But Community Server has just gotten too big for me now.  I don't use the Gallery and I have no need for the forum.  Because all of these apps have been combined into one database, the idea of fixing <a href="http://my.aream.ca/blogs/mike/archive/2006/01/04/15199.aspx">my current problems</a> from a database level is just too daunting for me now that I'm a part-time coder and full-time dad.</p>
-<p>So, my task for the next couple of weeks is to find a blogging engine that is a) free, b) fits my web host (.Net &amp;amp; Sql Server), and c) can import my existing blog using some magical migration system.  Something that makes it easy for me to add pictures or attachments to my blog (without using an FTP server) would also be nice.</p>
+<p>I've been debating lately whether I'm going to keep <a href="http://www.communityserver.org/">Community Server</a> or not.Â  When I first got into .Text, it was a nice little blogging engine that I could play with.Â  Because it was open source, I could also satisfy my inner geek by mucking around with the code.</p>
+<p>But Community Server has just gotten too big for me now.Â  I don't use the Gallery and I have no need for the forum.Â  Because all of these apps have been combined into one database, the idea of fixing <a href="http://my.aream.ca/blogs/mike/archive/2006/01/04/15199.aspx">my current problems</a> from a database level is just too daunting for me now that I'm a part-time coder and full-time dad.</p>
+<p>So, my task for the next couple of weeks is to find a blogging engine that is a) free, b) fits my web host (.Net &amp;amp; Sql Server), and c) can import my existing blog using some magical migration system.Â  Something that makes it easy for me to add pictures or attachments to my blog (without using an FTP server) would also be nice.</p>
