@@ -1,0 +1,34 @@
+--- 
+wordpress_id: 436
+layout: post
+title: Away
+wordpress_url: http://blog.sideline.ca/?p=436
+
+For the past month, I've been pretty well out of touch when it comes to my blog, Twitter, Facebook or any other kind of online social network.  While the true cause of this is probably just laziness, I'm putting it down to a perfect storm of conditions.
+
+<!--more-->
+<ol>
+	<li>I've been on a contract with Finning and just haven't had much time or opportunity to get online,</li>
+	<li>The weather is finally getting nicer so I've been spending more and more time outside and away from my computer,</li>
+	<li>The hockey playoffs are on!</li>
+</ol>
+Soon enough, the playoffs will be done and I'll have burned myself out with landscaping.  That should free up some time at home where I can keep the blog updated and post the occasional Twitter comment.
+
+Until then, I'll be enjoying the weather and the playoffs as much as I can!
+--- 
+wordpress_id: 436
+layout: post
+title: Away
+wordpress_url: http://blog.sideline.ca/?p=436
+
+For the past month, I've been pretty well out of touch when it comes to my blog, Twitter, Facebook or any other kind of online social network.  While the true cause of this is probably just laziness, I'm putting it down to a perfect storm of conditions.
+
+<!--more-->
+<ol>
+	<li>I've been on a contract with Finning and just haven't had much time or opportunity to get online,</li>
+	<li>The weather is finally getting nicer so I've been spending more and more time outside and away from my computer,</li>
+	<li>The hockey playoffs are on!</li>
+</ol>
+Soon enough, the playoffs will be done and I'll have burned myself out with landscaping.  That should free up some time at home where I can keep the blog updated and post the occasional Twitter comment.
+
+Until then, I'll be enjoying the weather and the playoffs as much as I can!

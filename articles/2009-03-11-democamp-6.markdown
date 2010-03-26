@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 407
+layout: post
+title: DemoCamp 6
+wordpress_url: http://blog.sideline.ca/?p=407
+
+I'll be checking out <a href="http://www.barcampedmonton.com/2009/02/democamp-edmonton-6/">DemoCamp 6</a> tonight at the University.  Hope to see you there.
+--- 
+wordpress_id: 407
+layout: post
+title: DemoCamp 6
+wordpress_url: http://blog.sideline.ca/?p=407
+
+I'll be checking out <a href="http://www.barcampedmonton.com/2009/02/democamp-edmonton-6/">DemoCamp 6</a> tonight at the University.  Hope to see you there.

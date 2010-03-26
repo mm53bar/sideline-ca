@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 191
+layout: post
+title: Best Beavers
+wordpress_url: http://blog.sideline.ca/2005/10/26/best-beavers/
+
+<p>haha'as I was posting Perception of Value, the spell check wanted me to change 'behavers' into 'beavers'.  The whole sentence would then have been:</p>
+<blockquote>
+<p><em>For the most part, I find that these 'best <u>beavers</u>' tend to be more engaged in creating good products, have high personal accountability, don't need me to act as their babysitter, and consistently do more than expected.</em></p></blockquote>
+<p>Maybe I should start a Best Beaver award at work to encourage these behaviours'  :-)</p>
+--- 
+wordpress_id: 191
+layout: post
+title: Best Beavers
+wordpress_url: http://blog.sideline.ca/2005/10/26/best-beavers/
+
+<p>haha'as I was posting Perception of Value, the spell check wanted me to change 'behavers' into 'beavers'.  The whole sentence would then have been:</p>
+<blockquote>
+<p><em>For the most part, I find that these 'best <u>beavers</u>' tend to be more engaged in creating good products, have high personal accountability, don't need me to act as their babysitter, and consistently do more than expected.</em></p></blockquote>
+<p>Maybe I should start a Best Beaver award at work to encourage these behaviours'  :-)</p>

@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 148
+layout: post
+title: 2005 CFL Schedule for Pick&#8217;Em
+wordpress_url: http://blog.sideline.ca/2005/06/22/2005-cfl-schedule-for-pickem/
+
+<p>I finally updated the Pick'Em schedule file for the 2005 CFL season.  Doing this is always a mix of regex and elbow grease.  Taking the HTML of some online schedule and converting it into XML is not as easy as it sounds!  Down the road, I'll have to come up with a way to use the schedules from <a href="http://www.icalshare.com/">iCalShare</a> to make this a bit easier.</p>
+<p>For now, feel free to grab the 2005 CFL schedule from this post.  It should work with Pick'Em for DNN 2.x as well as the new Pick'Em for DNN 3.x that I'm currently working on.</p>
+<p><a href="http://my.aream.ca/blogs/images/PickEm_CFL_2005.xml">File Attachment: PickEm_CFL_2005.xml (22 KB)</a></p>
+--- 
+wordpress_id: 148
+layout: post
+title: 2005 CFL Schedule for Pick&#8217;Em
+wordpress_url: http://blog.sideline.ca/2005/06/22/2005-cfl-schedule-for-pickem/
+
+<p>I finally updated the Pick'Em schedule file for the 2005 CFL season.  Doing this is always a mix of regex and elbow grease.  Taking the HTML of some online schedule and converting it into XML is not as easy as it sounds!  Down the road, I'll have to come up with a way to use the schedules from <a href="http://www.icalshare.com/">iCalShare</a> to make this a bit easier.</p>
+<p>For now, feel free to grab the 2005 CFL schedule from this post.  It should work with Pick'Em for DNN 2.x as well as the new Pick'Em for DNN 3.x that I'm currently working on.</p>
+<p><a href="http://my.aream.ca/blogs/images/PickEm_CFL_2005.xml">File Attachment: PickEm_CFL_2005.xml (22 KB)</a></p>

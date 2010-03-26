@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 27
+layout: post
+title: Winamp plugin
+wordpress_url: http://blog.sideline.ca/2004/09/23/winamp-plugin/
+
+Trying out the WinAmp plug-in for w.bloggar.
+
+<div>[Listening to: Pledge of Allegiance - <a href="http://www.windowsmedia.com/mg/search.asp'srch=Matthew+Good">Matthew Good</a> - Avalanche (4:58)]</div>
+--- 
+wordpress_id: 27
+layout: post
+title: Winamp plugin
+wordpress_url: http://blog.sideline.ca/2004/09/23/winamp-plugin/
+
+Trying out the WinAmp plug-in for w.bloggar.
+
+<div>[Listening to: Pledge of Allegiance - <a href="http://www.windowsmedia.com/mg/search.asp'srch=Matthew+Good">Matthew Good</a> - Avalanche (4:58)]</div>

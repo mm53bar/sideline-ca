@@ -1,0 +1,58 @@
+--- 
+wordpress_id: 309
+layout: post
+title: Mistakes
+wordpress_url: http://blog.sideline.ca/2007/04/23/mistakes/
+
+<img src="http://blog.sideline.ca/wp-content/uploads/2007/04/oopskey.jpg" alt="Oopskey" height="80" width="100" align="right"><p>My focus at work lately has been to initiate some Rails projects.  Rails is a much better fit for some of our work than ASP.Net.  I've been trying to isolate a couple of development projects and show how Rails could be a cheaper and better option.  To get some backup, I've been scouring the web to find articles where other folks have done something similar.</p>
+
+That brought me to Fred Brunel's article titled "<a href="http://fredbrunel.com/journal/2007/04/5-mistakes-you-should-know-when-using-ruby-on-rails-in-your-company/">5 Mistakes You Should Know before using Ruby on Rails in Your Company</a>".  To summarize the post, Fred looks back at a Rails project a year after it started and discovers the following problems:</p>
+
+<ul>
+	<li>Lack of Agile Management</li>
+	<li>Lack of Web Design Skills</li>
+	<li>Lack of Good Unit Testing Habits</li>
+	<li>Too Much Overengineering</li>
+	<li>Lack of Communication Among the Teams</li>
+</ul>
+
+<p>While I can definitely see how those mistakes could be fatal in a new Rails project, they are also mistakes that I see every day in an ASP.Net world.  To me, this relates more to the skill and experience of the team than it does to the success of the framework.</p>
+
+<p>I've been having some chats with different folks lately about typical artifacts of software development shops:  coding style guidelines, technical documentation, and metrics.  Most developers that I know don't like any of those artifacts.  But I find these artifacts useful to help divide developers into two groups:  1) those that <strong>don't</strong> need them to work in a team environment, and 2) those that <strong>do</strong> need them to work in a team environment.</p>
+
+<p>When I look back at the different teams that I've worked with, my absolute favourite are the times when these documents would have been redundant.  That's because I was working with strong developers that were able to keep their focus on adding value for the customer rather than creating fun for themselves.  These developers were able to look at the style of other people on the team and adapt themselves to a common standard.  They were also confident enough to push for certain standards if they felt that they were useful.</p>
+
+<p>The more common development experience though is to have a team with varying experience, confidence and focus.  This team typically needs documented standards to ensure everyone codes the same way.  This team also needs a strong project manager (or scrummaster) to ensure that they stay on track and don't spend too much time goldplating.  Finally, this team needs to be constantly reminded what it means to be "<a href="http://blog.sideline.ca/2007/04/08/what-does-done-mean/">done</a>".</p>
+
+<p>Of course, the obvious solution is to identify the developers that fit into the first category and hire as many of them as possible.  Unfortunately, there's not many of those developers out there.  I've only ever worked with a handful of them.  So instead I typically hire younger developers and try to provide a good team environment where they can grow.  However, this takes a lot of effort and doesn't always pay off.</p>
+
+<p>At least Fred's post lets me know that I'm not alone in having these problems on my projects.  What have your experiences been?</p>
+--- 
+wordpress_id: 309
+layout: post
+title: Mistakes
+wordpress_url: http://blog.sideline.ca/2007/04/23/mistakes/
+
+<img src="http://blog.sideline.ca/wp-content/uploads/2007/04/oopskey.jpg" alt="Oopskey" height="80" width="100" align="right"><p>My focus at work lately has been to initiate some Rails projects.  Rails is a much better fit for some of our work than ASP.Net.  I've been trying to isolate a couple of development projects and show how Rails could be a cheaper and better option.  To get some backup, I've been scouring the web to find articles where other folks have done something similar.</p>
+
+That brought me to Fred Brunel's article titled "<a href="http://fredbrunel.com/journal/2007/04/5-mistakes-you-should-know-when-using-ruby-on-rails-in-your-company/">5 Mistakes You Should Know before using Ruby on Rails in Your Company</a>".  To summarize the post, Fred looks back at a Rails project a year after it started and discovers the following problems:</p>
+
+<ul>
+	<li>Lack of Agile Management</li>
+	<li>Lack of Web Design Skills</li>
+	<li>Lack of Good Unit Testing Habits</li>
+	<li>Too Much Overengineering</li>
+	<li>Lack of Communication Among the Teams</li>
+</ul>
+
+<p>While I can definitely see how those mistakes could be fatal in a new Rails project, they are also mistakes that I see every day in an ASP.Net world.  To me, this relates more to the skill and experience of the team than it does to the success of the framework.</p>
+
+<p>I've been having some chats with different folks lately about typical artifacts of software development shops:  coding style guidelines, technical documentation, and metrics.  Most developers that I know don't like any of those artifacts.  But I find these artifacts useful to help divide developers into two groups:  1) those that <strong>don't</strong> need them to work in a team environment, and 2) those that <strong>do</strong> need them to work in a team environment.</p>
+
+<p>When I look back at the different teams that I've worked with, my absolute favourite are the times when these documents would have been redundant.  That's because I was working with strong developers that were able to keep their focus on adding value for the customer rather than creating fun for themselves.  These developers were able to look at the style of other people on the team and adapt themselves to a common standard.  They were also confident enough to push for certain standards if they felt that they were useful.</p>
+
+<p>The more common development experience though is to have a team with varying experience, confidence and focus.  This team typically needs documented standards to ensure everyone codes the same way.  This team also needs a strong project manager (or scrummaster) to ensure that they stay on track and don't spend too much time goldplating.  Finally, this team needs to be constantly reminded what it means to be "<a href="http://blog.sideline.ca/2007/04/08/what-does-done-mean/">done</a>".</p>
+
+<p>Of course, the obvious solution is to identify the developers that fit into the first category and hire as many of them as possible.  Unfortunately, there's not many of those developers out there.  I've only ever worked with a handful of them.  So instead I typically hire younger developers and try to provide a good team environment where they can grow.  However, this takes a lot of effort and doesn't always pay off.</p>
+
+<p>At least Fred's post lets me know that I'm not alone in having these problems on my projects.  What have your experiences been?</p>

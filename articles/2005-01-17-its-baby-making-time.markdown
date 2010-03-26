@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 96
+layout: post
+title: It&#8217;s baby-making time
+wordpress_url: http://blog.sideline.ca/2005/01/17/its-baby-making-time/
+
+<p>Well, I'll say it here because Sheila and I have already told family and a few friends ' we will be having a baby this summer!  The current due date is July 13th.</p>
+<p>It never fails to amaze me how many people come out of the woodwork with their opinions and ideas once you mention that you're having a baby.  Sheila and I are pretty much the same ' of course the baby is going to affect our life, but we're neither excited nor dreading it.  It seems like we've been through those emotions so many times with other changes; moving in together (not that I had a choice on that one!), buying our first car together, leaving Victoria for an uncertain future, getting our first cat, work terms in Fort Mac, moving to Edmonton, buying a house, getting a dog, leaving for Africa for a month, changing jobs, etc.  So far in our life, change has always been good.  Scary'.but good.</p>
+<p>One thing's for sure ' our little house is going to get a bit noisier in July!</p>
+--- 
+wordpress_id: 96
+layout: post
+title: It&#8217;s baby-making time
+wordpress_url: http://blog.sideline.ca/2005/01/17/its-baby-making-time/
+
+<p>Well, I'll say it here because Sheila and I have already told family and a few friends ' we will be having a baby this summer!  The current due date is July 13th.</p>
+<p>It never fails to amaze me how many people come out of the woodwork with their opinions and ideas once you mention that you're having a baby.  Sheila and I are pretty much the same ' of course the baby is going to affect our life, but we're neither excited nor dreading it.  It seems like we've been through those emotions so many times with other changes; moving in together (not that I had a choice on that one!), buying our first car together, leaving Victoria for an uncertain future, getting our first cat, work terms in Fort Mac, moving to Edmonton, buying a house, getting a dog, leaving for Africa for a month, changing jobs, etc.  So far in our life, change has always been good.  Scary'.but good.</p>
+<p>One thing's for sure ' our little house is going to get a bit noisier in July!</p>

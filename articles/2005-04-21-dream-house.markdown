@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 133
+layout: post
+title: Dream house'
+wordpress_url: http://blog.sideline.ca/2005/04/21/dream-house/
+
+<p>Sheila and I have been looking for a new house pretty much ever since we bought our current one.  We like where we are but there's always a better spot, right'  We aren't looking for much ' we want to be close to the river valley (for running and taking Tanna for walks), we want to be able to walk or run to work and we want an established neighbourhood (i.e. big trees).  We've got #2 and #3 right now, but we don't have #1.</p>
+<p>We recently found a place that has all three.  It sounds like it needs a bit of work which makes it a bit more affordable.  However, I can't seem to figure out where I left my $500,000 stash of cash!  Damn!  <img src="http://my.aream.ca/blogs/images/smile3.gif" /></p>
+<p><a href="http://www.mls.ca/PropertyDetails.aspx'vd=&amp;amp;SearchURL=%3fMode%3d0%26Page%3d1%26vs%3d1%26rlt%3d%26cp%3d%26pt%3d20%26mp%3d0-0-0%26mrt%3d-1-0-0%26Beds%3d0-0%26Baths%3d0-0%26f%3d%26ft%3dall%26o%3dD%26of%3d1%26ps%3d50%26ptgid%3d1%26aid%3d6646%26MapURL%3d%253fAreaID%253d6398&amp;amp;Mode=0&amp;amp;PropertyID=3461939">mls.ca - Property Details</a></p>
+<p><em></em></p>
+--- 
+wordpress_id: 133
+layout: post
+title: Dream house'
+wordpress_url: http://blog.sideline.ca/2005/04/21/dream-house/
+
+<p>Sheila and I have been looking for a new house pretty much ever since we bought our current one.  We like where we are but there's always a better spot, right'  We aren't looking for much ' we want to be close to the river valley (for running and taking Tanna for walks), we want to be able to walk or run to work and we want an established neighbourhood (i.e. big trees).  We've got #2 and #3 right now, but we don't have #1.</p>
+<p>We recently found a place that has all three.  It sounds like it needs a bit of work which makes it a bit more affordable.  However, I can't seem to figure out where I left my $500,000 stash of cash!  Damn!  <img src="http://my.aream.ca/blogs/images/smile3.gif" /></p>
+<p><a href="http://www.mls.ca/PropertyDetails.aspx'vd=&amp;amp;SearchURL=%3fMode%3d0%26Page%3d1%26vs%3d1%26rlt%3d%26cp%3d%26pt%3d20%26mp%3d0-0-0%26mrt%3d-1-0-0%26Beds%3d0-0%26Baths%3d0-0%26f%3d%26ft%3dall%26o%3dD%26of%3d1%26ps%3d50%26ptgid%3d1%26aid%3d6646%26MapURL%3d%253fAreaID%253d6398&amp;amp;Mode=0&amp;amp;PropertyID=3461939">mls.ca - Property Details</a></p>
+<p><em></em></p>

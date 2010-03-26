@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 77
+layout: post
+title: Menus overtop of an IE windowed control
+wordpress_url: http://blog.sideline.ca/2004/10/29/menus-overtop-of-an-ie-windowed-control/
+
+<p><a href="http://dotnetjunkies.com/WebLog/jking/archive/2003/07/21/488.aspx">Good writeup on a common problem</a> - how to place a dynamic element (i.e. a div-based menu) over top of items like ActiveX controls or SELECT dropdowns.  Use an IFRAME!</p><p>We've been using this technique at work for a while and it's worked out quite well.  I'm interested in checking out how well the <a href="http://msdn.microsoft.com/workshop/author/dhtml/reference/methods/createpopup.asp">window.createpopup</a> objects would work since they have one really nice advantage - they will automatically kill themselves when they lose focus.</p>
+--- 
+wordpress_id: 77
+layout: post
+title: Menus overtop of an IE windowed control
+wordpress_url: http://blog.sideline.ca/2004/10/29/menus-overtop-of-an-ie-windowed-control/
+
+<p><a href="http://dotnetjunkies.com/WebLog/jking/archive/2003/07/21/488.aspx">Good writeup on a common problem</a> - how to place a dynamic element (i.e. a div-based menu) over top of items like ActiveX controls or SELECT dropdowns.  Use an IFRAME!</p><p>We've been using this technique at work for a while and it's worked out quite well.  I'm interested in checking out how well the <a href="http://msdn.microsoft.com/workshop/author/dhtml/reference/methods/createpopup.asp">window.createpopup</a> objects would work since they have one really nice advantage - they will automatically kill themselves when they lose focus.</p>

@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 60
+layout: post
+title: Instructions for espresso maker
+wordpress_url: http://blog.sideline.ca/2004/10/12/instructions-for-espresso-maker/
+
+This is a reminder link for the <a href="http://www.espressotec.com/manual/gaggiagrangaggia.pdf">instructions for the espresso maker</a>.
+--- 
+wordpress_id: 60
+layout: post
+title: Instructions for espresso maker
+wordpress_url: http://blog.sideline.ca/2004/10/12/instructions-for-espresso-maker/
+
+This is a reminder link for the <a href="http://www.espressotec.com/manual/gaggiagrangaggia.pdf">instructions for the espresso maker</a>.

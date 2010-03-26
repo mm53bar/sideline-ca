@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 50
+layout: post
+title: Funny kids stories
+wordpress_url: http://blog.sideline.ca/2004/10/06/funny-kids-stories/
+
+<p>These were just too good not to post...</p><p><img alt="" hspace="0" src="http://my.aream.ca/blogs/images/image009.gif" align="baseline" border="1" /></p><p><img alt="" hspace="0" src="http://my.aream.ca/blogs/images/image010.gif" align="baseline" border="1" /></p>
+--- 
+wordpress_id: 50
+layout: post
+title: Funny kids stories
+wordpress_url: http://blog.sideline.ca/2004/10/06/funny-kids-stories/
+
+<p>These were just too good not to post...</p><p><img alt="" hspace="0" src="http://my.aream.ca/blogs/images/image009.gif" align="baseline" border="1" /></p><p><img alt="" hspace="0" src="http://my.aream.ca/blogs/images/image010.gif" align="baseline" border="1" /></p>

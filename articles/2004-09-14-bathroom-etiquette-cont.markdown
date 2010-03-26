@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 17
+layout: post
+title: Bathroom Etiquette, cont.
+wordpress_url: http://blog.sideline.ca/2004/09/14/bathroom-etiquette-cont/
+
+<p>I found some absolutely whacked posts about this topic:</p>
+<p><a href="http://www.maison-de-stuff.net/archives/00000091.html">http://www.maison-de-stuff.net/archives/00000091.html</a><br /><a href="http://www.velociworld.com/Velociblog/Oldvelocity/000410.html">http://www.velociworld.com/Velociblog/Oldvelocity/000410.html</a></p>
+<p>What I want to know is what these people are doing in the bathroom that gets piss all over their hands!</p>
+--- 
+wordpress_id: 17
+layout: post
+title: Bathroom Etiquette, cont.
+wordpress_url: http://blog.sideline.ca/2004/09/14/bathroom-etiquette-cont/
+
+<p>I found some absolutely whacked posts about this topic:</p>
+<p><a href="http://www.maison-de-stuff.net/archives/00000091.html">http://www.maison-de-stuff.net/archives/00000091.html</a><br /><a href="http://www.velociworld.com/Velociblog/Oldvelocity/000410.html">http://www.velociworld.com/Velociblog/Oldvelocity/000410.html</a></p>
+<p>What I want to know is what these people are doing in the bathroom that gets piss all over their hands!</p>

@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 41
+layout: post
+title: Does anybody care about the NHL'
+wordpress_url: http://blog.sideline.ca/2004/10/03/does-anybody-care-about-the-nhl/
+
+<blockquote><a href="http://us.rd.yahoo.com/dailynews/rss/sports/*http://story.news.yahoo.com/news'tmpl=story2&amp;amp;u=/ap/20041002/ap_on_sp_ho_ne/hkn_nhl_lockout_europe">List of NHL Players in Europe Up to 185 (AP)</a> 
+<p>AP - Five more locked-out NHL players agreed Saturday to play in Europe, bringing the total to 185.</p></blockquote>
+<p><a href="http://my.aream.ca/blogs/Rss.aspx"></a> </p>
+--- 
+wordpress_id: 41
+layout: post
+title: Does anybody care about the NHL'
+wordpress_url: http://blog.sideline.ca/2004/10/03/does-anybody-care-about-the-nhl/
+
+<blockquote><a href="http://us.rd.yahoo.com/dailynews/rss/sports/*http://story.news.yahoo.com/news'tmpl=story2&amp;amp;u=/ap/20041002/ap_on_sp_ho_ne/hkn_nhl_lockout_europe">List of NHL Players in Europe Up to 185 (AP)</a> 
+<p>AP - Five more locked-out NHL players agreed Saturday to play in Europe, bringing the total to 185.</p></blockquote>
+<p><a href="http://my.aream.ca/blogs/Rss.aspx"></a> </p>
