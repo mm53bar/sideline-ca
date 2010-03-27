@@ -42,7 +42,7 @@ header.main {
   padding: 20px 0 10px 0;
   border-bottom: 5px solid #333;
 }
-footer { 
+footer.main { 
   clear: both;
   padding-top: 5px; 
   border-top: 1px solid #eee;
@@ -105,99 +105,92 @@ body#articles #nav li.articles a,
 }
 .description h2, .description h3, .description h4 { margin: 0; padding: 0; }
 .description p { margin: 10px 0 0 0; }
-/*Post Styling
+/*Article Styling
 ------------------------------------------------------------ */
-/*Post Header
+/*Article Header
 ---------------------------------------*/
-.post header {
+.article header {
   border-bottom: 4px double #eee;
-  padding-bottom: 7px;
+  margin-bottom: 10px;
 }
-.post header h1, .post header h2 { 
+.article header h1, .article header h2 { 
   font-size: 2.6em; 
   line-height: 1.1em;
 	font-weight: normal;
 }
-.post header h1 a:link, .post header h1 a:visited,.post header h2 a:link, .post header h2 a:visited  { color: #444; }
-.post header h1 a:hover, .post header h2 a:hover { color: #772124; }
-.post .date {
-  float: right;
-  padding-top: 10px;
-  color: #757575;
-  font-size: 1.6em;
+.article header h1 a:link, .article header h1 a:visited,.article header h2 a:link, .article header h2 a:visited  { color: #444; }
+.article header h1 a:hover, .article header h2 a:hover { color: #772124; }
+/*Article Meta
+---------------------------------------*/
+.meta  {
+  margin: 5px 0 5px 0;
+  color: #666;
+  font-size: 1.2em;
   font-weight: normal;
   font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans", Verdana, Arial, sans-serif;
+}
+.meta .date {
+  float: right;
+  color: #757575;
   text-transform: uppercase;
 }
-.post .date span {
+.article .date span {
   color: #ddd;
   font-weight: bold;
 }
-/*Post Meta
----------------------------------------*/
-.meta  {
-  margin: 10px 0 20px 0;
-  font-size: 1.2em;
-  color: #666;
-}
-.meta a:link, .meta a:visited {
-  color: #666;
-  font-style: normal;
-}
-.meta a:hover { color: #772124; }
 /*Post Body
 ---------------------------------------*/
-.entry a:link, .entry a:visited { text-decoration: underline; }
-.entry a:hover { text-decoration: none; }
-.entry { font-size: 1.3em; }
-.entry p { margin-bottom: 10px; }
-.entry p.notice {
+.article a:link, .article a:visited { text-decoration: underline; }
+.article a:hover { text-decoration: none; }
+.article { font-size: 1.3em; }
+.article p { margin-bottom: 10px; }
+.article p.notice {
   padding: 15px;
   background-color: #fffbcc; 
   border: 1px solid #f8f4c7;
 }
-.entry h2, .entry h3, .entry h4 {
+.article h2, .article h3, .article h4 {
   font-size: 1.3em;
   padding: 15px 0 5px 0;
 }
-.entry h3 { 
+.article h3 { 
   padding-top: 10px;
   font-size: 1em;
 }
-.entry h4 { 
+.article h4 { 
   padding-top: 10px;
   font-size: .9em;
 }
-.entry img, .entry a img {
+.article img, .article a img {
 	border:1px solid #ccc;
 	margin:10px;
 	padding:2px;
 	}
-.entry img.left,
-.entry div.left {
+.article img.left,
+.article div.left {
 		float:left;
 		clear:left;
 		margin: 0 10px 0 0;
 		}
-.entry img.right,
-.entry div.right {
+.article img.right,
+.article div.right {
 		float:right;
 		clear:right;
 		margin:0 0 0 10px;
 		}
-.entry div.center {
+.article div.center {
 	clear:both;
 	margin: 0 auto;
 }
-.entry div.center p,
-.entry div.left p,
-.entry div.right p {
+.article div.center p,
+.article div.left p,
+.article div.right p {
 	color:#888888;
 	font-style:italic;
 	font-size: smaller;
 	margin:-15px 10px 10px 10px;
 }
-.entry p.caption {
+.article p.caption {
 	color:#888888;
 	font-style:italic;
 	font-size: smaller;
@@ -226,19 +219,19 @@ blockquote {
   color: #141310;
   background: #e7e6e2 url(/images/theme/blockquote.gif) no-repeat top left;
 }
-.entry ul, .c-body ul { margin: 0 0 10px 10px; }
-.entry ul li, .c-body ul li {
+.article ul, .c-body ul { margin: 0 0 10px 10px; }
+.article ul li, .c-body ul li {
   display: block;
   margin: 5px 0 0 0;
   padding: 0 0 0 17px;
   background: url(/images/theme/list-star.gif) no-repeat 0 .3em;
 }
-.entry ol, .c-body ol { margin: 0 0 15px 30px; }
-.entry ol li ol li, .c-body ol li ol li { 
+.article ol, .c-body ol { margin: 0 0 15px 30px; }
+.article ol li ol li, .c-body ol li ol li { 
   font-size: .9em;
   list-style-type: lower-roman; 
 }
-.entry ol li, .c-body ol li { 
+.article ol li, .c-body ol li { 
   margin: 10px 0 0 0; 
   list-style-type: decimal;
   list-style-position: outside;
@@ -257,7 +250,7 @@ blockquote {
   border-top: 4px solid #333;
   border-bottom: 4px solid #333;
 }
-.entry .float-quote p {
+.article .float-quote p {
   margin: 0;
   padding: 0 0 0 40px;
   font-size: 1.2em;
@@ -280,21 +273,37 @@ blockquote {
   text-decoration: underline;
 }
 .highlight-box a:hover { text-decoration: none; }
-.entry .highlight-box p {
+.article .highlight-box p {
   margin: 10px 0;
   line-height: 1.4em;
   font-size: 1.1em;
 }
-.entry .highlight-box ul li {
+.article .highlight-box ul li {
   font-size: 1.1em;
   background: url(/images/theme/list-square.gif) no-repeat 0 .4em; 
 }
-.entry .highlight-box h2, .entry .highlight-box h3, .entry .highlight-box h4 { 
+.article .highlight-box h2, .article .highlight-box h3, .article .highlight-box h4 { 
   margin: 0; 
   padding: 0;
   color: #fff; 
 }
 .highlight-box h2 { text-transform: uppercase; }
+/*Article Footer
+---------------------------------------*/
+.article footer {
+  padding-bottom: 2px;
+  margin: 0 0 30px 0;
+  font-size: 1.1em;
+  font-style: italic;
+  text-align: right;
+  color: #666;
+  border-bottom: 1px solid #eee;
+}
+.article footer a:link, .article footer a:visited {
+  color: #333;
+  font-style: normal;
+}
+.article footer a:hover { color: #772124; }
 /*Sidebar
 ------------------------------------------------------------ */
 #sidebar-image { padding-top: 20px; }
@@ -366,10 +375,10 @@ li.widget select { margin-top: 10px; }
 }
 /*Footer
 ------------------------------------------------------------ */
-footer {
+footer.main {
   color: #666;
   font-size: 1.1em;
 }
-footer p.right { float: right; }
-footer a:link, footer a:visited { color: #666; text-decoration: underline; }
-footer a:hover { color: #772124; }
+footer.main  p.right { float: right; }
+footer.main  a:link, footer.main  a:visited { color: #666; text-decoration: underline; }
+footer.main  a:hover { color: #772124; }

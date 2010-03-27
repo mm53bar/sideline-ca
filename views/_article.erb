@@ -1,9 +1,9 @@
-<article class="entry">
+<article class="article">
   <header>
     <h2><a href="<%= article.url %>" rel="bookmark" title="Permanent Link to <%= article.title %>"><%= article.title %></a></h2>
-    <span class="date"><%= article.date %></span>
-    <div class="meta clear">
-      <div class="author">by <%= article.author %></div>
+    <div class="meta">
+      <span class="author">by <%= article.author %></span>
+      <span class="date"><%= article.date %></span>
     </div>        
   </header>
   <section class="content">
@@ -14,7 +14,12 @@
       <% end %>
     <% else %>
       <%= article.body.formatted %>
-      <%= render_partial :disqus if Serious.disqus %>
     <% end %>
   </section>
+  <footer>
+    <p>from <a href="/articles">Articles</a></p>
+  </footer>
+  <% unless summary_only %>
+    <%= render_partial :disqus if Serious.disqus %>
+  <% end %>
 </article>
