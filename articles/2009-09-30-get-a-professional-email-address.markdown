@@ -6,7 +6,7 @@ date: 2009/09/30
 
 Every company has a website these days, right?  After all, websites are a relatively cheap way to extend your brand and  make a lot of information available to potential customers.
 
-And, of course, every website has a domain that goes along with it.  Whether you're *bobslandscaping.com* or *joesgarage.ca*, having a memorable domain is just as important as the website itself.
+And, of course, every website has a domain that goes along with it.  Whether you're *bobslandscaping.com* or *joesgarage.ca*, having a memorable domain is just as important as the website itself.~
 
 I had a conversation on [Twitter](http://www.twitter.com/mm53bar) last week about how unprofessional it looks when a company doesn't use their domain for their email address.  I'm always amazed when a company has invested the time and effort (not to mention the money) to create a website with a memorable domain yet they still continue to look like amateurs because they use a personal email address in their ads.  
 

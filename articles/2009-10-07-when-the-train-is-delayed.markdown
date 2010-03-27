@@ -8,7 +8,7 @@ Every time I go to the zoo with my kids, we have a different experience.
 
 If the kids are tired and grumpy, we might end up just seeing Lucy the elephant and the wolves.  Other times, they've got tons of energy and we end up walking all the way to the end of the zoo to do the pony rides.  
 
-The weather also affects our experience.  Rainy days can make it harder to enjoy rolling down the big grassy hill.  And the snow definitely means that we can't spend as much time visiting the outdoor exhibits.  
+The weather also affects our experience.  Rainy days can make it harder to enjoy rolling down the big grassy hill.  And the snow definitely means that we can't spend as much time visiting the outdoor exhibits.  ~
 
 Each of these variables can be tempered by food.  Bringing snacks or buying food at the concession can help make the kids happier.  Of course, taking the time to eat means slowing down the entire experience.  But the extra time can also mean that the kids get tired and the cycle starts all over again.  Some of my favourite times at the zoo have been on days when we've taken hours to go through all of the animals.  Then again, some of the most difficult times have also been on days when we've been there for hours.
 

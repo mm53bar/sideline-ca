@@ -321,34 +321,25 @@ blockquote {
   font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans", Verdana, Arial, sans-serif;
   border-bottom: 1px solid #eee;
 }
-ul li.widget ul {
+#sidebar section ul {
   margin: 0;
   font-size: 1.4em;
 }
-ul li.widget ul li ul { 
+#sidebar section ul li ul { 
   margin-left: 5px;
   font-size: 1em; 
 }
-ul li.widget ul li { 
+#sidebar section ul li { 
   padding: 8px 0;
   border-bottom: 1px solid #eee; 
 }
-ul li.widget ul li ul li { border-bottom: none; }
-ul li.widget ul li a {
+#sidebar section ul li ul li { border-bottom: none; }
+#sidebar section li a {
   display: block;
   padding: 0 0 0 15px;
   background: url(/images/theme/list-item.gif) no-repeat 0 6px;
 }
-ul li.widget ul li a:hover { background-position: 0 -136px; }
-ul li.widget ul#recentcomments li a {
-  padding: 0;
-  background: none;
-}
-div.textwidget p {
-  font-size: 1.3em;
-  margin: 10px 0 0 0;
-}
-li.widget select { margin-top: 10px; }
+#sidebar section ul li a:hover { background-position: 0 -136px; }
 /*RSS Box
 ---------------------------------------*/
 #rss-feed  { padding-top: 10px; }

@@ -6,7 +6,7 @@ wordpress_url: http://blog.sideline.ca/?p=471
 
 <img class="left" src="http://blog.sideline.ca/wp-content/uploads/2009/09/glass_half_full-150x150.jpg" alt="glass_half_full" title="glass_half_full" width="150" height="150"/>I had an "Ah-hah!" moment at the [recent Agile Edmonton meeting](http://www.agileedmonton.org/2009/08/04/september-meeting-software-project-estimation/).  I don't get a lot of those so I wanted to write about it.
 
-[Brian Donaldson from Quadrus](http://www.quadrus.com/who_we_are/leadership/brian_donaldson.aspx) was in town to present on the Quadrus Estimation Methodology.  You can view [Brian's presentation on the Agile Edmonton site](http://www.agileedmonton.org/2009/09/15/agile-estimating-presentation-available/).
+[Brian Donaldson from Quadrus](http://www.quadrus.com/who_we_are/leadership/brian_donaldson.aspx) was in town to present on the Quadrus Estimation Methodology.~  You can view [Brian's presentation on the Agile Edmonton site](http://www.agileedmonton.org/2009/09/15/agile-estimating-presentation-available/).
 
 Most people expect software estimates to follow a Bell Curve, or Normal Distribution.  That is, they expect the most common estimate (the mode) to match the average estimate (the mean).  A Normal distribution implies that your actual progress is just as likely to be over your estimate as it is to be under.  
 

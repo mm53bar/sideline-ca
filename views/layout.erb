@@ -19,18 +19,16 @@
           <li class="home"><a href="/">Home</a></li>
           <li class="articles"><a href="/articles">Articles</a></li>
           <li class="archives"><a href="/archives">Archives</a></li>
-          <li class="about"><a href="/pages/about">About</a></li>
-          <li class="contact"><a href="/pages/contact">Contact</a></li>
         </ul>
       </div>
     </header>
     <div id="content">  
       <section>
-        <%= render_partial :site_description %>
+        <%= render_partial :site_description if %w(articles archives).include? @page_type %>
         <%= yield %> 
       </section>      
     </div>
-    <%= render_partial :sidebar %>
+    <%= render_partial :sidebar if @page_type%>
     <footer class="main">
       <p class="right">Copyright 2010 Sideline Consulting Inc.</p>
       <p>Site design based on <a href="http://thethemefoundry.com/vigilance/">Vigilance Theme</a> by <a href="http://thethemefoundry.com">The Theme Foundry</a>. This blog is <a href="http://github.com/colszowka/serious">serious</a>.</p>
