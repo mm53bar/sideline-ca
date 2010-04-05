@@ -2,19 +2,20 @@
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link rel="stylesheet" type="text/css" href="/css/coderay.css">    
+    <link rel="stylesheet" type="text/css" href="/css/coderay.css"> 
+    <link rel="stylesheet" type="text/css" href="/css/grid.css">   
     <link rel="alternate" type="application/atom+xml" title="<%= Serious.title %>" href="<%= Serious.feed_url %>" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
     <title><%= @article ? @article.title + " - " : "" %><%= Serious.title %></title>
   </head>
   <body id="<%= @page_type if @page_type %>">
-  <div id="wrapper">
-    <header class="main clear">
-      <h1 id="title"><a href="/">Sideline</a></h1>
-      <div id="tagline">
-        <h2>Coding on the side.</h2>
+  <div id="wrapper" class="row">
+    <header class="row main clear">
+      <h1 id="title" class="column grid_12"><a href="/">Sideline</a></h1>
+      <div id="tagline" class="column grid_9">
+        <h2>Want better software projects without becoming a slave to your process? <strong>Join the club.</strong></h2>
       </div>
-      <div id="nav">
+      <div id="nav" class="column grid_3">
         <ul>
           <li class="home"><a href="/">Home</a></li>
           <li class="articles"><a href="/articles">Articles</a></li>
@@ -22,16 +23,26 @@
         </ul>
       </div>
     </header>
-    <div id="content">  
-      <section>
-        <%= render_partial :site_description if %w(articles archives).include? @page_type %>
-        <%= yield %> 
-      </section>      
-    </div>
-    <%= render_partial :sidebar if @page_type%>
-    <footer class="main">
-      <p class="right">Copyright 2010 Sideline Consulting Inc.</p>
-      <p>Site design based on <a href="http://thethemefoundry.com/vigilance/">Vigilance Theme</a> by <a href="http://thethemefoundry.com">The Theme Foundry</a>. This blog is <a href="http://github.com/colszowka/serious">serious</a>.</p>
+    <% if @page_type == 'home' %>
+      <div id="content" class="row">  
+        <section class="column grid_12">
+          <%= yield %> 
+        </section>      
+      </div>
+    <% else %>
+      <div class="row">
+        <div id="content" class="column grid_8">  
+          <section>
+            <%= render_partial :site_description if %w(articles archives).include? @page_type %>
+            <%= yield %> 
+          </section>      
+        </div>
+        <%= render_partial :sidebar %>
+      </div>
+    <% end %>
+    <footer class="row main">
+      <p class="column grid_9">Site design based on <a href="http://thethemefoundry.com/vigilance/">Vigilance Theme</a> by <a href="http://thethemefoundry.com">The Theme Foundry</a>. This blog is <a href="http://github.com/colszowka/serious">serious</a>.</p>
+      <p class="column grid_3">Copyright 2010 Sideline Consulting Inc.</p>
     </footer>  
     <%= render_partial :google_analytics if Serious.google_analytics %>   
   </body>

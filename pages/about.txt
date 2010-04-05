@@ -2,3 +2,8 @@ title: About
 
 <% @page_type = 'about' %>
 Something about you
+
+#Resources used on this site#
+
+* [1kB CSS Grid](http://www.1kbgrid.com/)
+

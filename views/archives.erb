@@ -1,2 +1,5 @@
-<h2><%= @title %></h2>
-<%= render_archived @articles %>
+<% @page_type ||= 'archives' %>
+<section class="archives">
+  <h2><%= @title %></h2>
+  <%= render_archived @articles %>
+</section>

@@ -1,13 +1,15 @@
 <% @page_type = 'home' %>
-
-<ul id="articles">
-  <% @recent.each do |article| %>
-    <li>
-      <%= render_article article, true %>
-    </li>
-  <% end %>
-</ul>
-<h3><a href="/archives">Older posts</a></h3>
-<%= render_archived @archived %>
-
-
+<div class="row home"> 
+	<div class="column grid_4 article"> 
+		<h2><a href="http://www.usabilitypost.com/2009/05/29/the-1kb-css-grid-part-1/">An Introduction</a></h2> 
+		<p>Other CSS frameworks try to do everything&mdash;grid system, style reset, basic typography, form styles. But complex systems are, well, <em>complex</em>. Looking for a simple, lightweight approach that doesn't require a PhD? Meet The 1KB CSS Grid. <a href="http://www.usabilitypost.com/2009/05/29/the-1kb-css-grid-part-1/">&raquo;</a></p> 
+	</div> 
+	<div class="column grid_4 article"> 
+		<h2><a href="http://www.usabilitypost.com/2009/06/06/the-1kb-css-grid-part-2/">Using the Grid for Templating?</a></h2> 
+		<p>When server-side options for templating and sub-templating are limited, the grid can be used as an alternative page templating engine. The 1KB CSS Grid's convenient row and column syntax provide all the necessary scaffolding. <a href="http://www.usabilitypost.com/2009/06/06/the-1kb-css-grid-part-2/">&raquo;</a></p> 
+	</div> 
+	<div class="column grid_4 article"> 
+		<h2><a href="http://www.usabilitypost.com/2009/06/19/the-1kb-css-grid-part-3/">The Details</a></h2> 
+		<p>Though simple, The 1KB CSS Grid packs the punch of a heavyweight. Nested rows? Piece of cake! A fluid grid rather than a fixed one? No problem! Explores some of the finer details of implementing the grid. <a href="http://www.usabilitypost.com/2009/06/19/the-1kb-css-grid-part-3/">&raquo;</a></p> 
+	</div> 
+</div>

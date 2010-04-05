@@ -24,26 +24,20 @@ a:hover {
 /*Basic Structure
 ------------------------------------------------------------ */
 #wrapper {
-  width: 930px;
-  margin: 0 auto;
+	margin: 0 auto;
   text-align: left;
 }
 #content { 
-  float: left; 
-  width: 600px;
-  padding: 20px 30px 20px 0;
+	margin-top: 10px;
 }
 #sidebar { 
-  float: right; 
-  width: 300px;
   padding-bottom: 20px;
 }
 header.main {
-  padding: 20px 0 10px 0;
   border-bottom: 5px solid #333;
+	padding: 10px 0;
 }
 footer.main { 
-  clear: both;
   padding-top: 5px; 
   border-top: 1px solid #eee;
 }
@@ -57,9 +51,11 @@ h1#title, div#title {
 }
 h1#title a:link, h1#title a:visited, div#title a:link, div#title a:visited  { color: #444; }
 h1#title a:hover, div#title a:hover { color: #772124; text-decoration: none; }
+header.main div {
+	padding-top: 5px;
+}
 /*Tagline
 ---------------------------------------*/
-#tagline { float: left; }
 #tagline h2 {
   font-size: 1.2em;
   font-weight: normal;
@@ -68,7 +64,6 @@ h1#title a:hover, div#title a:hover { color: #772124; text-decoration: none; }
 /*Nav
 ---------------------------------------*/
 #nav {
-  float: right;
   font-size: 1.5em;
   font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans", Verdana, Arial, sans-serif;
 }
@@ -373,3 +368,37 @@ footer.main {
 footer.main  p.right { float: right; }
 footer.main  a:link, footer.main  a:visited { color: #666; text-decoration: underline; }
 footer.main  a:hover { color: #772124; }
+/*Archives
+------------------------------------------------------------ */
+section.archives h2 {
+  padding: 0px 0 3px 0;
+  font-size: 1.4em;
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 1.2pt;
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans", Verdana, Arial, sans-serif;
+  border-bottom: 1px solid #eee;
+}
+section.archives ul {
+  margin: 0;
+  font-size: 1.4em;
+}
+section.archives ul li { 
+  padding: 8px 0;
+  border-bottom: 1px solid #eee; 
+}
+section.archives li a {
+	padding: 0 6px 0 0;
+}
+section.archives li span {
+  padding: 0 0 0 15px;
+  background: url(/images/theme/list-item.gif) no-repeat 0 6px;
+}
+/* Home
+------------------------------------------------------------ */
+.home h2 {
+	font-size: 18px;
+	line-height: 39px;
+	border-top: 1px solid #000;
+	margin: 40px 0 0 0;
+}
