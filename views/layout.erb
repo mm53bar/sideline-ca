@@ -11,9 +11,11 @@
   <body id="<%= @page_type if @page_type %>">
   <div id="wrapper" class="row">
     <header class="row main clear">
-      <h1 id="title" class="column grid_12"><a href="/">Sideline</a></h1>
       <div id="tagline" class="column grid_9">
-        <h2>Want better software projects without becoming a slave to your process? <strong>Join the club.</strong></h2>
+        <h1 id="title"><a href="/">Sideline</a></h1>
+      <% unless @page_type == 'home' %>
+        <h2>We help software teams make their users happy.</h2>
+      <% end %>
       </div>
       <div id="nav" class="column grid_3">
         <ul>
