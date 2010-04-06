@@ -1,7 +1,7 @@
 <% @page_type = 'articles' %>
 
-<section id="articles">
+<div id="articles">
   <% @recent.each do |article| %>
     <%= render_article article, true %>
   <% end %>
-</section>
+</div>

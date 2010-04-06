@@ -7,19 +7,19 @@
         <a class="twitter" href="http://twitter.com/mm53bar">Twitter</a>
       </div>
       <h2 class="title">Pages</h2>
-      <section class="clear"> 
+      <div class="clear"> 
         <ul>
           <% Serious::Page.all.each do |page| %>
             <li><a href="<%= page.url %>"><%= page.title %></a></li>
           <% end %>
         </ul>
-      </section> 
+      </div> 
       <h2 class="title">Recent Articles</h2>
-      <section>
+      <div>
         <ul>
           <% Serious::Article.all(:limit => 10).each do |article| %>
             <li><a href="<%= article.url %>"><%= article.title %></a></li>
           <% end %>
         </ul>      
-      </section>
+      </div>
     </div> 

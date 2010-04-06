@@ -6,7 +6,6 @@ h1,h2,h3,h4,h5,h6,pre,code,p {font-size: 1em;}
 ul,ol,dl,li,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input {margin: 0; padding: 0;}
 a img,:link img,:visited img {border: none;}
 address {font-style: normal;}
-header {display:block;}
 
 /*Body & Links 
 ------------------------------------------------------------ */
@@ -33,11 +32,13 @@ a:hover {
 #sidebar { 
   padding-bottom: 20px;
 }
-header.main {
+#header {
   border-bottom: 5px solid #333;
 	padding: 10px 0;
 }
-footer.main { 
+#footer { 
+	color: #666;
+  font-size: 1.1em;
   padding-top: 5px; 
   border-top: 1px solid #eee;
 }
@@ -51,7 +52,7 @@ h1#title, div#title {
 }
 h1#title a:link, h1#title a:visited, div#title a:link, div#title a:visited  { color: #444; }
 h1#title a:hover, div#title a:hover { color: #772124; text-decoration: none; }
-header.main div {
+#header div {
 	padding-top: 5px;
 }
 /*Tagline
@@ -104,17 +105,17 @@ body#articles #nav li.articles a,
 ------------------------------------------------------------ */
 /*Article Header
 ---------------------------------------*/
-.article header {
+.article div.header {
   border-bottom: 4px double #eee;
   margin-bottom: 10px;
 }
-.article header h1, .article header h2 { 
+.article div.header h1, .article div.header h2 { 
   font-size: 2.6em; 
   line-height: 1.1em;
 	font-weight: normal;
 }
-.article header h1 a:link, .article header h1 a:visited,.article header h2 a:link, .article header h2 a:visited  { color: #444; }
-.article header h1 a:hover, .article header h2 a:hover { color: #772124; }
+.article div.header h1 a:link, .article div.header h1 a:visited,.article div.header h2 a:link, .article div.header h2 a:visited  { color: #444; }
+.article div.header h1 a:hover, .article div.header h2 a:hover { color: #772124; }
 /*Article Meta
 ---------------------------------------*/
 .meta  {
@@ -285,7 +286,7 @@ blockquote {
 .highlight-box h2 { text-transform: uppercase; }
 /*Article Footer
 ---------------------------------------*/
-.article footer {
+.article div.footer {
   padding-bottom: 2px;
   margin: 0 0 30px 0;
   font-size: 1.1em;
@@ -294,11 +295,11 @@ blockquote {
   color: #666;
   border-bottom: 1px solid #eee;
 }
-.article footer a:link, .article footer a:visited {
+.article div.footer a:link, .article div.footer a:visited {
   color: #333;
   font-style: normal;
 }
-.article footer a:hover { color: #772124; }
+.article div.footer a:hover { color: #772124; }
 /*Sidebar
 ------------------------------------------------------------ */
 #sidebar-image { padding-top: 20px; }
@@ -316,25 +317,25 @@ blockquote {
   font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans", Verdana, Arial, sans-serif;
   border-bottom: 1px solid #eee;
 }
-#sidebar section ul {
+#sidebar div ul {
   margin: 0;
   font-size: 1.4em;
 }
-#sidebar section ul li ul { 
+#sidebar div ul li ul { 
   margin-left: 5px;
   font-size: 1em; 
 }
-#sidebar section ul li { 
+#sidebar div ul li { 
   padding: 8px 0;
   border-bottom: 1px solid #eee; 
 }
-#sidebar section ul li ul li { border-bottom: none; }
-#sidebar section li a {
+#sidebar div ul li ul li { border-bottom: none; }
+#sidebar div li a {
   display: block;
   padding: 0 0 0 15px;
   background: url(/images/theme/list-item.gif) no-repeat 0 6px;
 }
-#sidebar section ul li a:hover { background-position: 0 -136px; }
+#sidebar div ul li a:hover { background-position: 0 -136px; }
 /*RSS Box
 ---------------------------------------*/
 #rss-feed  { padding-top: 10px; }
@@ -361,16 +362,12 @@ blockquote {
 }
 /*Footer
 ------------------------------------------------------------ */
-footer.main {
-  color: #666;
-  font-size: 1.1em;
-}
-footer.main  p.right { float: right; }
-footer.main  a:link, footer.main  a:visited { color: #666; text-decoration: underline; }
-footer.main  a:hover { color: #772124; }
+#footer  p.right { float: right; }
+#footer  a:link, footer.main  a:visited { color: #666; text-decoration: underline; }
+#footer  a:hover { color: #772124; }
 /*Archives
 ------------------------------------------------------------ */
-section.archives h2 {
+div.archives h2 {
   padding: 0px 0 3px 0;
   font-size: 1.4em;
   font-weight: normal;
@@ -379,18 +376,18 @@ section.archives h2 {
   font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans", Verdana, Arial, sans-serif;
   border-bottom: 1px solid #eee;
 }
-section.archives ul {
+div.archives ul {
   margin: 0;
   font-size: 1.4em;
 }
-section.archives ul li { 
+div.archives ul li { 
   padding: 8px 0;
   border-bottom: 1px solid #eee; 
 }
-section.archives li a {
+div.archives li a {
 	padding: 0 6px 0 0;
 }
-section.archives li span {
+div.archives li span {
   padding: 0 0 0 15px;
   background: url(/images/theme/list-item.gif) no-repeat 0 6px;
 }

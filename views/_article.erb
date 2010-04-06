@@ -1,13 +1,13 @@
 <% @page_type ||= 'article' %>
-<article class="article">
-  <header>
+<div class="article">
+  <div class="header">
     <h2><a href="<%= article.url %>" rel="bookmark" title="Permanent Link to <%= article.title %>"><%= article.title %></a></h2>
     <div class="meta">
       <span class="author">by <%= article.author %></span>
       <span class="date"><%= article.date %></span>
     </div>        
-  </header>
-  <section class="content">
+  </div>
+  <div>
     <% if summary_only %>
       <%= article.summary.formatted %>
       <% if article.summary.length != article.body.length %>
@@ -16,11 +16,11 @@
     <% else %>
       <%= article.body.formatted %>
     <% end %>
-  </section>
-  <footer>
+  </div>
+  <div class="footer">
     <p>from <a href="/articles">Articles</a></p>
-  </footer>
+  </div>
   <% unless summary_only %>
     <%= render_partial :disqus if Serious.disqus %>
   <% end %>
-</article>
+</div>
