@@ -1,8 +1,0 @@
---- 
-wordpress_id: 72
-layout: post
-title: Shared methods in DNN controllers
-wordpress_url: http://blog.sideline.ca/2004/10/22/shared-methods-in-dnn-controllers/
-
-I mentioned it in <a href="http://blogs.aream.ca/mike/archive/2004/10/21/225.aspx">my previous post</a>, but here's the <a href="http://www.asp.net/Forums/ShowPost.aspx'tabindex=1&amp;amp;PostID=698188">forum article that brings up the shared methods in DNN controllers</a>. Makes sense to me! It makes me wonder why <a href="http://www.developerfusion.com/show/1047/5/">shared methods</a> weren't used before. 
-<blockquote>Why is it that DNN did't made the functions in the controller classes Shared' IMO it should not be necessary to create a controller instance befor I can communicate with my dataprovider. <br /><br />For example; to retrieve all portal roles now, I should do this: <br /><br />Dim roleCtrl As new RoleController <br />Dim roles As Arraylist = roleCtrl .GetPortalRoles(PortalID) <br /><br />But if they had made the GetPortalRoles Shared, I would not have to create a new RoleController instance first. The code would be: <br /><br />Dim roles As Arraylist = RoleController.GetPortalRoles(PortalID) </blockquote>

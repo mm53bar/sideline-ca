@@ -4,6 +4,11 @@ layout: post
 title: A good joke&#8230;
 wordpress_url: http://blog.sideline.ca/2004/09/14/a-good-joke/
 
-<p>Dino found this pretty funny...</p>
-<blockquote>
-<p><font color="#0000ff">A man from Serbia goes to the optometrist who shows the Serbian a card with the letters <br /><br />"C Z W X N Q S T A C Z" <br /><br />"Can you read this'" the optometrist asks. <br /><br />"Read it'" the Serbian replies, "I know the guy!"</font></p></blockquote>
+Dino found this pretty funny...
+> A man from Serbia goes to the optometrist who shows the Serbian a card with the letters 
+>
+> "C Z W X N Q S T A C Z" 
+>
+> "Can you read this'" the optometrist asks. 
+>
+> "Read it'" the Serbian replies, "I know the guy!"

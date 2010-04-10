@@ -1,7 +1,0 @@
---- 
-wordpress_id: 90
-layout: post
-title: The Breast Test
-wordpress_url: http://blog.sideline.ca/2004/12/05/the-breast-test/
-
-<p>I was cleaning up my hard drive and found this test.  It's not too hard but certainly provide some fun!  Can you tell if the boobs are real or fake'</p><p><a href="http://my.aream.ca/blogs/images/Test1onbreast.xls">Breast Test</a></p>
