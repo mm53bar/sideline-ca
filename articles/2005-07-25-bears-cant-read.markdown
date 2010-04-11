@@ -2,7 +2,7 @@
 wordpress_id: 169
 layout: post
 title: Bears can&#8217;t read
-wordpress_url: http://blog.sideline.ca/2005/07/25/bears-cant-read/
+wordpress_url: http://www.sideline.ca/2005/07/25/bears-cant-read/
 
 <div>
  <a href="http://www.flickr.com/photos/torrez/3430/" title="photo sharing"><img src="http://photos1.flickr.com/3430_3b924f5373_m.jpg" alt="" /></a>

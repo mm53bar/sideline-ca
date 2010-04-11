@@ -2,7 +2,7 @@
 wordpress_id: 310
 layout: post
 title: How to cope without onClick
-wordpress_url: http://blog.sideline.ca/2007/04/24/how-to-cope-without-onclick/
+wordpress_url: http://www.sideline.ca/2007/04/24/how-to-cope-without-onclick/
 
 <p>I recently came across <a href="http://myersds.com/notebook/2006/09/10/multiple_submit_buttons_on_a_form_with_rails">a short article</a> that described how to handle multiple submit buttons in one form with Rails.  For example, if you were writing code for a blogging application, you might want to have a button to <em>Save and Publish</em> and another button to <em>Save as Draft</em>.  Both of these buttons work on the same form contents but would spawn different actions.  You can read about the solution at "<a href="http://myersds.com/notebook/2006/09/10/multiple_submit_buttons_on_a_form_with_rails">How To Use Multiple Submit Buttons on a Form with Rails</a>."</p>
 

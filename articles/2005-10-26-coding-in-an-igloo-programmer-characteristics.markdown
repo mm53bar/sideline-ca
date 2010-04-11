@@ -2,7 +2,7 @@
 wordpress_id: 192
 layout: post
 title: "Coding in an Igloo : Programmer Characteristics"
-wordpress_url: http://blog.sideline.ca/2005/10/26/coding-in-an-igloo-programmer-characteristics/
+wordpress_url: http://www.sideline.ca/2005/10/26/coding-in-an-igloo-programmer-characteristics/
 
 <p>Looks like the <a href="http://igloocoder.com/archive/2005/10/25/108.aspx">IglooCoder</a> could also use a <a href="http://my.aream.ca/blogs/mike/archive/2005/10/26/15167.aspx">Best Beaver</a> award in his office:</p>
 <blockquote>

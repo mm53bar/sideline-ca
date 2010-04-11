@@ -2,7 +2,7 @@
 wordpress_id: 236
 layout: post
 title: SubText and MetaBlogAPI
-wordpress_url: http://blog.sideline.ca/2006/04/10/subtext-and-metablogapi/
+wordpress_url: http://www.sideline.ca/2006/04/10/subtext-and-metablogapi/
 
 <p>Any astute readers out there might have noticed that I've recently switched from CommunityServer to SubText.  Actually, any person that got within 10 feet of me over the last 2 weeks has probably heard my horror story of trying to get CS to give me back my data.</p>
 <p>Anyways, I fired up BlogJet today and wanted to hit SubText.  The only problem is that I had no idea what URL to specify for the MetaBlogAPI service.  I checked out the aptly named 'services' folder but couldn't find anything.  There were a few asmx files that I tried to no avail.</p>

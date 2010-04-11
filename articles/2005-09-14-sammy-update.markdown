@@ -2,7 +2,7 @@
 wordpress_id: 178
 layout: post
 title: Sammy Update
-wordpress_url: http://blog.sideline.ca/2005/09/14/sammy-update/
+wordpress_url: http://www.sideline.ca/2005/09/14/sammy-update/
 
 We took Sammy in the other day for his 2-month shots.  The poor
 little guy got 3 shots in total - 2 in one leg and the third in the

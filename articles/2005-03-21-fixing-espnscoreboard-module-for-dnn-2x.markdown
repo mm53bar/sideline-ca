@@ -2,7 +2,7 @@
 wordpress_id: 121
 layout: post
 title: Fixing ESPNScoreboard module for DNN 2.x
-wordpress_url: http://blog.sideline.ca/2005/03/21/fixing-espnscoreboard-module-for-dnn-2x/
+wordpress_url: http://www.sideline.ca/2005/03/21/fixing-espnscoreboard-module-for-dnn-2x/
 
 <p>I imagine that lots of folks are going to want to fix the UrlDecode and Links problems in ESPNScoreboard (note that these are already fixed in ScoreboardFeed).  These were never bugs at all until ESPN changed their format recently.  Anyways, this is the fix that I've done in ScoreboardFeed, so you can probably implement it in ESPNScoreboard.</p>
 <p><strong><em>Bug Description</em></strong></p>

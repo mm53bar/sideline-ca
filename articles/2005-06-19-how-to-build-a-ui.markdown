@@ -2,7 +2,7 @@
 wordpress_id: 147
 layout: post
 title: How to build a UI
-wordpress_url: http://blog.sideline.ca/2005/06/19/how-to-build-a-ui/
+wordpress_url: http://www.sideline.ca/2005/06/19/how-to-build-a-ui/
 
 <p>Building UI's is always a difficult thing.  It gets even more complicated when the clients don't have a clear vision of what they want.  At my workplace, a UI definition is usually given as 'make it look like the other ones'.  Of course, everyone is always shocked and amazed down the road when the different UI elements don't seem to mesh and there is no common look and feel.</p>
 <p>I've read enough articles on <a href="http://www.uie.com/articles/prototyping_risk/">paper prototyping</a> to be sold on the concept.  Essentially paper prototyping encourages designers/developers to draw out sample UI's on paper rather than try to create them in some tool like VB or FrontPage.  The end result is something that is easily changed depending on the feedback.</p>

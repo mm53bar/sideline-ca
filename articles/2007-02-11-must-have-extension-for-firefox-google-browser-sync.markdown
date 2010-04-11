@@ -2,7 +2,7 @@
 wordpress_id: 286
 layout: post
 title: "Must-have Extension for Firefox:  Google Browser Sync"
-wordpress_url: http://blog.sideline.ca/2007/02/11/must-have-extension-for-firefox-google-browser-sync/
+wordpress_url: http://www.sideline.ca/2007/02/11/must-have-extension-for-firefox-google-browser-sync/
 
 <img src="http://www.google.com/tools/firefox/common/labs_logo.gif" align="left" height="55" hspace="10" vspace="10" width="150" />I read quite a few blogs.  My usual process for doing that is to browse through my list of unread items and then open up a new Firefox tab for each article that I want to read.  Then I take time throughout the day to read through the open tabs that I have.  For the most part, this system worked really well for me with a few exceptions.
 

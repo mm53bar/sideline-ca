@@ -2,7 +2,7 @@
 wordpress_id: 88
 layout: post
 title: You are NOT inadequate.
-wordpress_url: http://blog.sideline.ca/2004/12/04/you-are-not-inadequate/
+wordpress_url: http://www.sideline.ca/2004/12/04/you-are-not-inadequate/
 
 [You are NOT inadequate.](http://secretgeek.net/inadequate.asp)
 

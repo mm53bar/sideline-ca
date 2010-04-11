@@ -2,7 +2,7 @@
 wordpress_id: 279
 layout: post
 title: delicious no more?
-wordpress_url: http://blog.sideline.ca/2007/01/24/delicious-no-more/
+wordpress_url: http://www.sideline.ca/2007/01/24/delicious-no-more/
 
 I had a conversation with Mike recently about <a href="http://del.icio.us">del.icio.us</a>.  Specifically, Mike asked if I ever use my bookmarks as reference.  My short answer was "yes".
 

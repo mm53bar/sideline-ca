@@ -2,7 +2,7 @@
 wordpress_id: 303
 layout: post
 title: What does Done mean?
-wordpress_url: http://blog.sideline.ca/2007/04/08/what-does-done-mean/
+wordpress_url: http://www.sideline.ca/2007/04/08/what-does-done-mean/
 
 <p>What does Done mean?  That's a pretty simple question in the world of developing software.  Or is it?</p>
 <p>I've heard many different definitions for Done over the last few months at TG.  I've even started a wiki page to start coming up with a definition.</p>

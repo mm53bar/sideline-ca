@@ -2,7 +2,7 @@
 wordpress_id: 218
 layout: post
 title: Comments are disabled
-wordpress_url: http://blog.sideline.ca/2006/01/05/comments-are-disabled/
+wordpress_url: http://www.sideline.ca/2006/01/05/comments-are-disabled/
 
 <p>For the three of you that actually read my blog and the .5 of you that actually care to comment, you might have noticed that comments are disabled on all of my blog posts.  Contrary to what you might think, I'm not trying to stifle any negative reactions to my grandiose ideas.  If you want to lash out at anybody, there's no better target than the fine folks at Community Server.</p>
 <p>Way back before the big merger into Community Server, I was using NGallery and DotText.  When they merged (along with the ASP.Net Forums), I was able to migrate my blog over to Community Server but found a few problems with the stored procedures.  When Community Server 2.0 came out recently, I did yet another upgrade, crossing my fingers that it would fix some of my stored procedure problems.  Unfortunately it didn't.</p>

@@ -2,7 +2,7 @@
 wordpress_id: 177
 layout: post
 title: More sprocs that aren&#8217;t used
-wordpress_url: http://blog.sideline.ca/2005/08/28/more-sprocs-that-arent-used/
+wordpress_url: http://www.sideline.ca/2005/08/28/more-sprocs-that-arent-used/
 
 <p>I'm testing out the install file for Pick'Em v3 and finding some more stored procedures that I don't use.  Here's the list:</p>
 <ul>

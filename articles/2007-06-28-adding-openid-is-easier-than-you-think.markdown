@@ -2,11 +2,11 @@
 wordpress_id: 334
 layout: post
 title: Adding OpenID is easier than you think
-wordpress_url: http://blog.sideline.ca/2007/06/28/adding-openid-is-easier-than-you-think/
+wordpress_url: http://www.sideline.ca/2007/06/28/adding-openid-is-easier-than-you-think/
 
-<img src='http://blog.sideline.ca/wp-content/uploads/2007/06/keys_thumbnail.png' alt='keys' class='center'/>
+<img src='http://www.sideline.ca/wp-content/uploads/2007/06/keys_thumbnail.png' alt='keys' class='center'/>
 
-<p>I just got finished adding <a href="http://blog.sideline.ca/2007/05/10/is-63-million-enough/">OpenID</a> to my <a href="http://svn.sideline.ca/piper/" title="Revision 50: /">sideline application</a>.  Truth be told, I'd been putting this off for a month or so because I figured that it would be a real pain.  But after a couple of hours I was pretty much complete and at the point where I started to goldplate.</p>
+<p>I just got finished adding <a href="http://www.sideline.ca/2007/05/10/is-63-million-enough/">OpenID</a> to my <a href="http://svn.sideline.ca/piper/" title="Revision 50: /">sideline application</a>.  Truth be told, I'd been putting this off for a month or so because I figured that it would be a real pain.  But after a couple of hours I was pretty much complete and at the point where I started to goldplate.</p>
 
 <p>The first step was to install the <a href="http://identity.eastmedia.com/identity/show/Restful+OpenID+Authentication" title="Restful Open ID Authentication in Identity">RESTful OpenID Authentication plugin</a>.  For <a href="http://piston.rubyforge.org/index.html" title="Piston ~ Easy Vendor Branch Management">Piston</a> users, that's as simple as typing the following:</p>
 

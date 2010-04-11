@@ -2,7 +2,7 @@
 wordpress_id: 465
 layout: post
 title: Embracing uncertainty is hard
-wordpress_url: http://blog.sideline.ca/?p=465
+wordpress_url: http://www.sideline.ca/?p=465
 
 From [Mike Cottmeyer's Leading Agile](http://www.leadingagile.com/2009/07/id-rather-be-wrong.html):
 

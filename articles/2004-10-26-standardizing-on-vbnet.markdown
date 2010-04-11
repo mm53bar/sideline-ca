@@ -2,7 +2,7 @@
 wordpress_id: 75
 layout: post
 title: Standardizing on VB.Net
-wordpress_url: http://blog.sideline.ca/2004/10/26/standardizing-on-vbnet/
+wordpress_url: http://www.sideline.ca/2004/10/26/standardizing-on-vbnet/
 
 I dropped the hammer today at work regarding our emerging dual-language standard.  For about 6 months now, we've had one developer that was under very tight deadlines and was more comfortable working with C#.  Our current standard is VB.Net, but our architecture for GeoExplorer v3 should support modules in any .Net language, so I figured that this was a good opportunity to test that theory.  That's where the problems started.
 

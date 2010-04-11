@@ -2,7 +2,7 @@
 wordpress_id: 159
 layout: post
 title: Can&#8217;t get enough UI testing'  Try some Watir!
-wordpress_url: http://blog.sideline.ca/2005/07/04/cant-get-enough-ui-testing-try-some-watir/
+wordpress_url: http://www.sideline.ca/2005/07/04/cant-get-enough-ui-testing-try-some-watir/
 
 <p>This is pretty freaking sweet.  I've been looking for a nice app that our QA guy at work could use to help with testing.  Maybe this is it'  It's a nice side-benefit that it can jive with NUnit as well. </p>
 <p><em>Integrating Ruby and Watir with NUnit:</em> </p>

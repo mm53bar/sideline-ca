@@ -2,7 +2,7 @@
 wordpress_id: 86
 layout: post
 title: Starbucks analogy for Asynchronous messaging
-wordpress_url: http://blog.sideline.ca/2004/11/25/starbucks-analogy-for-asynchronous-messaging/
+wordpress_url: http://www.sideline.ca/2004/11/25/starbucks-analogy-for-asynchronous-messaging/
 
 Yet another great analogy comparing the way that Starbucks processes coffee orders to asynchronous messaging.  Even managers could understand this!
 

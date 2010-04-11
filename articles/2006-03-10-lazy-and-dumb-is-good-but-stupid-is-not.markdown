@@ -2,7 +2,7 @@
 wordpress_id: 233
 layout: post
 title: Lazy and Dumb is good but Stupid is not
-wordpress_url: http://blog.sideline.ca/2006/03/10/lazy-and-dumb-is-good-but-stupid-is-not/
+wordpress_url: http://www.sideline.ca/2006/03/10/lazy-and-dumb-is-good-but-stupid-is-not/
 
 <p>OK'I've been patting myself on the back about being <a href="http://my.aream.ca/blogs/mike/archive/2006/03/02/15207.aspx">Lazy</a> and <a href="http://my.aream.ca/blogs/mike/archive/2006/03/09/15213.aspx">Dumb</a> but I was totally Stupid today.</p>
 <p>We're hiring 2 co-op students here at TG.  Since I'm trying to be a good Lazy Manager, I saw this as a great opportunity to get a bunch of developers involved in the interviewing process.  Each rookie interviewer was paired with somebody that had some interview experience.  I assigned two resumes to each of the teams and they were responsible for contacting the students and conducting the interviews.</p>

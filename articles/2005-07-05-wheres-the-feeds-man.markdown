@@ -2,7 +2,7 @@
 wordpress_id: 161
 layout: post
 title: Where&#8217;s the feeds, man''
-wordpress_url: http://blog.sideline.ca/2005/07/05/wheres-the-feeds-man/
+wordpress_url: http://www.sideline.ca/2005/07/05/wheres-the-feeds-man/
 
 <p>Have you ever gone to some of the blogs hosted at Blogger and TypePad only to find out that you couldn't get the feed'  I have and here is some of the info that I found:</p>
 <ul>

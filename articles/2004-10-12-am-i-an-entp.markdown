@@ -2,7 +2,7 @@
 wordpress_id: 58
 layout: post
 title: Am I an ENTP?
-wordpress_url: http://blog.sideline.ca/2004/10/12/am-i-an-entp/
+wordpress_url: http://www.sideline.ca/2004/10/12/am-i-an-entp/
 
 My [Bloginality](http://bloginality.love-productions.com/) is [ENTP](http://bloginality.love-productions.com/entp.php)!
 

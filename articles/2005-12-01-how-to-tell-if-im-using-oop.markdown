@@ -2,7 +2,7 @@
 wordpress_id: 213
 layout: post
 title: How to tell if I&#8217;m using OOP'
-wordpress_url: http://blog.sideline.ca/2005/12/01/how-to-tell-if-im-using-oop/
+wordpress_url: http://www.sideline.ca/2005/12/01/how-to-tell-if-im-using-oop/
 
 <p>I've come up with a quick (and incredibly shoddy) way to tell if I'm using OOP practices.  The thing that I like about it is that it's really simple.  Use it at your own risk and switch language suffixes as required.</p>
 <ul>

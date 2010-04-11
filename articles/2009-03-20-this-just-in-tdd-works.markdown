@@ -2,7 +2,7 @@
 wordpress_id: 434
 layout: post
 title: This just in - TDD works!
-wordpress_url: http://blog.sideline.ca/?p=434
+wordpress_url: http://www.sideline.ca/?p=434
 
 By comparing 4 similar projects at IBM and Microsoft, a paper has published what they say is empirical evidence that TDD works.  
 

@@ -2,7 +2,7 @@
 wordpress_id: 102
 layout: post
 title: DNN 3.0.10 findings
-wordpress_url: http://blog.sideline.ca/2005/02/21/dnn-3010-findings/
+wordpress_url: http://www.sideline.ca/2005/02/21/dnn-3010-findings/
 
 <p>I just upgraded my internal site to <a title="" href="http://www.dotnetnuke.com">DotNetNuke</a> 3.0.10.  Rather than messing around with all of the files that may not be used, I backed up all of the old files in the site and then copied the new ones in.  After resetting the permissions and updating the new web.config to hit my existing DB (I had also backed up the DB before this!), I hit the default.aspx.</p>
 <p>I quite liked the upgrade script - it seemed to work very well and let me know what was going on.  I hit my first small snag when the site finally loaded up.  My old DB was still referencing portals/0/ as my main folder.  Since I had deleted that but not deleted the DB, I just copied the old folder into the right spot.  Everything seems to work well with the site.  Of course, the custom modules that I had installed on the old site didn't work, but I didn't expect them to.</p>

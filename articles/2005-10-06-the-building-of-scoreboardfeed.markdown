@@ -2,7 +2,7 @@
 wordpress_id: 179
 layout: post
 title: The Building of ScoreboardFeed
-wordpress_url: http://blog.sideline.ca/2005/10/06/the-building-of-scoreboardfeed/
+wordpress_url: http://www.sideline.ca/2005/10/06/the-building-of-scoreboardfeed/
 
 Ever since I started working with portals, I've been trying to add
 scoreboards to them.  Most of my portal work has had to do with

@@ -2,7 +2,7 @@
 wordpress_id: 230
 layout: post
 title: John Bristowe in Edmonton
-wordpress_url: http://blog.sideline.ca/2006/03/07/john-bristowe-in-edmonton/
+wordpress_url: http://www.sideline.ca/2006/03/07/john-bristowe-in-edmonton/
 
 <p>I just received this in my inbox:</p>
 <blockquote>

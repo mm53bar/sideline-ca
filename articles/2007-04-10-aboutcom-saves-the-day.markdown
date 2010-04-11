@@ -2,7 +2,7 @@
 wordpress_id: 305
 layout: post
 title: About.com saves the day!
-wordpress_url: http://blog.sideline.ca/2007/04/10/aboutcom-saves-the-day/
+wordpress_url: http://www.sideline.ca/2007/04/10/aboutcom-saves-the-day/
 
 Who knew that about.com could be useful?  I've recently been working with Rails on Oracle 8i and ran across a problem when I updated my client to support a 10g database.  The error was:
 <blockquote> ORA-12705: Cannot access NLS data files or invalid environment specified</blockquote>

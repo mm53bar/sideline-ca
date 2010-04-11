@@ -2,7 +2,7 @@
 wordpress_id: 217
 layout: post
 title: "Coding in an Igloo : Web 2.0'"
-wordpress_url: http://blog.sideline.ca/2006/01/04/coding-in-an-igloo-web-20/
+wordpress_url: http://www.sideline.ca/2006/01/04/coding-in-an-igloo-web-20/
 
 <blockquote>
 <p><em>What the fuck is up with the use of Web 2.0 to describe emerging trends on the internet'</em></p>

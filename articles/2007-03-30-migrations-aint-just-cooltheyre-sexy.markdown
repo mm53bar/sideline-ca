@@ -2,7 +2,7 @@
 wordpress_id: 296
 layout: post
 title: Migrations ain't just cool...they're sexy!
-wordpress_url: http://blog.sideline.ca/2007/03/30/migrations-aint-just-cooltheyre-sexy/
+wordpress_url: http://www.sideline.ca/2007/03/30/migrations-aint-just-cooltheyre-sexy/
 
 <a href="http://glu.ttono.us/articles/2005/10/27/the-joy-of-migrations">Migrations</a> are one of those things in Rails that blows me away.  I haven't actually tried to use a single migration with different databases to see how good the abstraction is but I love the idea.
 

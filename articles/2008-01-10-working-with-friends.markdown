@@ -2,7 +2,7 @@
 wordpress_id: 343
 layout: post
 title: Working with friends
-wordpress_url: http://blog.sideline.ca/2008/01/10/working-with-friends/
+wordpress_url: http://www.sideline.ca/2008/01/10/working-with-friends/
 
 <p>I haven't blogged since starting my new job at Focus, but I'm starting to get the itch again.  I'm doing a presentation tomorrow on Ruby on Rails and it's really got me fired up to do a multi-part series on building a Rails app using the new 2.0.x drop of Rails.</p>
 

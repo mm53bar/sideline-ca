@@ -2,7 +2,7 @@
 wordpress_id: 300
 layout: post
 title: Polymorphic associations in Rails
-wordpress_url: http://blog.sideline.ca/2007/04/08/polymorphic-associations-in-rails/
+wordpress_url: http://www.sideline.ca/2007/04/08/polymorphic-associations-in-rails/
 
 <p>Lately I've been playing with a few of the "acts_as_..." plugins that are available for Rails.  Specifically, <a href="http://agilewebdevelopment.com/plugins/acts_as_rateable">acts_as_rateable</a>, <a href="http://agilewebdevelopment.com/plugins/acts_as_taggable_on_steroids">acts_as_taggable</a> and <a href="http://agilewebdevelopment.com/plugins/acts_as_commentable">acts_as_commentable</a>.</p>
 <p>All of these share one major feature in common - they take advantage of the ability for Rails to support polymorphic associations.  Expressed a different way, they all support has_many :whatevers.</p>

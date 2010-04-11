@@ -2,7 +2,7 @@
 wordpress_id: 8
 layout: post
 title: Decorating and Management
-wordpress_url: http://blog.sideline.ca/2004/02/11/decorating-and-management/
+wordpress_url: http://www.sideline.ca/2004/02/11/decorating-and-management/
 
 <p>I often need to get Sheila to do the decorating around the house. When we need to paint, she chooses the colours. When we need to hang some photos, she chooses the frames and where they go. There is no aspect of decorating that I'm not willing to let her control.</p>
 <p>Do I do this because I'm a lazy bastard' No. I do it because I'm looking for efficiencies!</p>

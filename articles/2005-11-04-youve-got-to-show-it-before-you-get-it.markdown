@@ -2,7 +2,7 @@
 wordpress_id: 204
 layout: post
 title: You&#8217;ve got to show it before you get it
-wordpress_url: http://blog.sideline.ca/2005/11/04/youve-got-to-show-it-before-you-get-it/
+wordpress_url: http://www.sideline.ca/2005/11/04/youve-got-to-show-it-before-you-get-it/
 
 <p><a href="http://www.managementblog.org/archives/2005/11/04/not-a-gift-but-something-earned/"></a> I could not agree with this quote more:</p>
 <blockquote>

@@ -2,7 +2,7 @@
 wordpress_id: 206
 layout: post
 title: The Local is a nice place to be&#8230;..for now
-wordpress_url: http://blog.sideline.ca/2005/11/09/the-local-is-a-nice-place-to-befor-now/
+wordpress_url: http://www.sideline.ca/2005/11/09/the-local-is-a-nice-place-to-befor-now/
 
 <p><em>If you were a chef looking for work, which of these three places would you choose to work at'</em></p>
 <p>From the simple question, <a href="http://graysmatter.codivation.com/CommentView,guid,02e59091-75be-485d-82f8-55258d7b6ace.aspx">Justice launches into a discussion of why people choose to work where they do.</a></p>

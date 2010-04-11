@@ -2,7 +2,7 @@
 wordpress_id: 247
 layout: post
 title: My first time (with Scrum)
-wordpress_url: http://blog.sideline.ca/2006/04/26/my-first-time-with-scrum/
+wordpress_url: http://www.sideline.ca/2006/04/26/my-first-time-with-scrum/
 
 <p><img alt="" hspace="10" src="http://static.flickr.com/49/135159616_e2f0f2c1af_m.jpg" align="left" vspace="10" border="0" />You remember your first time, right'  The very first time that you tried out a new project methodology'  Well, I had my first time with <a href="http://blogs.sideline.ca/archive/2006/04/22/ImaCertifiedScrumMaster.aspx">Scrum</a> today.  And it went pretty damn well.  :-)</p>
 <p>Scrum is very new to <a title="TG - Where I work" href="http://www.telusgeomatics.com">TG</a>.  You might say that we're <a title="TG - Where I work" href="http://www.telusgeomatics.com">TG</a> virgins.  And that's not just the developers ' that's everyone.  Scrum is being implemented from the bottom-up which means that we as developers (and me as a developer manager) needs to learn Scrum while also teaching our various project managers and product managers.  In order to do this, you need a large amount of buy-in from the powers that be.  Luckily, I'm one of the powers and I really don't care what the other powers think.  Even more lucky is that the other powers don't really care what I do as long as 'it works'.</p>

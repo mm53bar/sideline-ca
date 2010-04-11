@@ -2,7 +2,7 @@
 wordpress_id: 152
 layout: post
 title: More ASP.Net Controls that I&#8217;m looking for
-wordpress_url: http://blog.sideline.ca/2005/06/26/more-aspnet-controls-that-im-looking-for/
+wordpress_url: http://www.sideline.ca/2005/06/26/more-aspnet-controls-that-im-looking-for/
 
 <p>I thought of another one of the <a href="http://my.aream.ca/blogs/mike/archive/2005/06/21/15092.aspx">ASP.Net Controls that I'm looking for</a>.</p>
 <p><a href="http://my.aream.ca/blogs/images/Cropper_20Capture[4].png"><img height="125" alt="Pick'Em Picks - the picks screen where you can choose the team that will win each game." hspace="10" src="http://my.aream.ca/blogs/images/Cropper_20Capture[4]_small.jpg" width="128" align="left" vspace="5" border="1" /></a>In my current Pick'Em pool, I have a list of games where users need to pick which team will win.  The interface consists of a simple repeater that lists the date &amp;amp; time, the teams and the venue for each game.  The picture on the left shows what it currently looks like.</p>

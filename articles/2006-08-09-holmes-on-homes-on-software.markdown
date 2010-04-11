@@ -2,7 +2,7 @@
 wordpress_id: 262
 layout: post
 title: Holmes on Homes on Software
-wordpress_url: http://blog.sideline.ca/2006/08/09/holmes-on-homes-on-software/
+wordpress_url: http://www.sideline.ca/2006/08/09/holmes-on-homes-on-software/
 
 <p><img alt="" hspace="10" src="http://static.flickr.com/65/211062683_822f84a77c_m.jpg" align="left" vspace="10" border="0" />I was watching <a href="http://www.holmesonhomes.com/">Holmes on Homes</a> the other night and was trying to drawn some parallels between the projects on the show and some of the things that I see in the software industry.</p>
 <p>Imagine that you are the <a href="http://www.imdb.com/name/nm0391971/">Mike Holmes</a> of software.  Why you're writing software when you have a <a href="http://oracleofbacon.org/cgi-bin/oracle/movielinks'firstname=Bacon,%20Kevin&amp;amp;game=1&amp;amp;secondname=Holmes,+Mike+(I)">Bacon Number of 2</a> is beyond me but let's just stick with that assumption.</p>

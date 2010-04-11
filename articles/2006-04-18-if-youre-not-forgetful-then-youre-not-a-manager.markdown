@@ -2,7 +2,7 @@
 wordpress_id: 240
 layout: post
 title: If you&#8217;re not Forgetful then you&#8217;re not a manager
-wordpress_url: http://blog.sideline.ca/2006/04/18/if-youre-not-forgetful-then-youre-not-a-manager/
+wordpress_url: http://www.sideline.ca/2006/04/18/if-youre-not-forgetful-then-youre-not-a-manager/
 
 <p>I am a terrible Forgetful manager.  It is the one skill that I still have not made much improvement on in the 14 or so months that I've been a manager.</p>
 <p>A Forgetful manager understands that nothing will stick in his head.  He realizes that trusting his short-term memory is only slightly more foolish than trusting a junior developer's estimates.  The Forgetful manager documents <em>everything that needs to be documented</em>.  Project meetings, manager meetings, developer meetings, requested salaries, actual salaries, past interviews and your wife's favourite perfume are all good things for a Forgetful manager to document.  In particular, if you learn something new and think 'I've got to remember that', then you might want to find the nearest pen and scrap of paper to document that thought before it escapes into the 95% of your brain that you don't use or have killed off during those <a href="http://www.trincoll.edu/orgs/xcountry/meet_photos/milk/images/Dsc01309(cahill%20puking).jpg">team</a>-<a href="http://www.further.com/~jlublin/images/cosmo/puking-cosmo.jpg">building</a> <a href="http://members.aol.com/killerspam/puke.jpg">sessions</a>.</p>

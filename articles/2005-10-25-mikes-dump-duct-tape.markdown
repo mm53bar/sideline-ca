@@ -2,7 +2,7 @@
 wordpress_id: 189
 layout: post
 title: "Mike&#8217;s Dump : Duct Tape"
-wordpress_url: http://blog.sideline.ca/2005/10/25/mikes-dump-duct-tape/
+wordpress_url: http://www.sideline.ca/2005/10/25/mikes-dump-duct-tape/
 
 Mike's got some pretty good stories but this one has to take the cake: 
 <blockquote>

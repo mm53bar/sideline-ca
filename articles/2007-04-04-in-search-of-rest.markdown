@@ -2,7 +2,7 @@
 wordpress_id: 299
 layout: post
 title: In Search of REST
-wordpress_url: http://blog.sideline.ca/2007/04/04/in-search-of-rest/
+wordpress_url: http://www.sideline.ca/2007/04/04/in-search-of-rest/
 
 Since the Ruby on Rails world is all gaga over REST right now, I figured that I'd jump on that wagon.  I've often prided myself on being part of the latest fads no matter how silly they are.  :)
 

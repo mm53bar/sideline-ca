@@ -2,7 +2,7 @@
 wordpress_id: 33
 layout: post
 title: Dynamic User Controls
-wordpress_url: http://blog.sideline.ca/2004/09/30/dynamic-user-controls/
+wordpress_url: http://www.sideline.ca/2004/09/30/dynamic-user-controls/
 
 Working with DNN is a challenge if you are looking for a multi-page website experience in your module.  That's because a module is just a user control that is placed on a web page with a bunch of other user controls.  If you want your module to have a different layout (something like a master-detail relationship), then you need to get a bit sneaky.
 

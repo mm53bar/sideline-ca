@@ -2,7 +2,7 @@
 wordpress_id: 256
 layout: post
 title: Do you use source control'
-wordpress_url: http://blog.sideline.ca/2006/05/27/do-you-use-source-control/
+wordpress_url: http://www.sideline.ca/2006/05/27/do-you-use-source-control/
 
 <p><img alt="" hspace="10" src="http://mooreslore.corante.com/archives/images/bank%20vault.jpg" align="left" vspace="10" border="0" />One of the standard questions that I ask when I'm interviewing a developer for a job is what kind of source control they've used in previous jobs.  Every now and then, I hear an embarrassing admission that this person has never used source control before.  I've heard it often enough now that I'm not shocked by it anymore.</p>
 <p>But I can just imagine the reactions of the 3 developers out there that are reading this post ' shock and outrage.  There might even be some posturing that every 'good' developer uses source control and I've simply got a 'bad' developer in the interview.</p>

@@ -2,7 +2,7 @@
 wordpress_id: 14
 layout: post
 title: Resetting your WinXP Corp key
-wordpress_url: http://blog.sideline.ca/2004/09/13/resetting-your-winxp-corp-key/
+wordpress_url: http://www.sideline.ca/2004/09/13/resetting-your-winxp-corp-key/
 
 <p>So I don't lose this...</p>
 <p><font face="Arial" size="2"><b>Backup your Registry/System State</b></font></p>

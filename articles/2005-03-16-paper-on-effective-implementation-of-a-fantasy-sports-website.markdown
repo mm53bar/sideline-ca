@@ -2,7 +2,7 @@
 wordpress_id: 114
 layout: post
 title: Paper on Effective Implementation of a Fantasy Sports Website
-wordpress_url: http://blog.sideline.ca/2005/03/16/paper-on-effective-implementation-of-a-fantasy-sports-website/
+wordpress_url: http://www.sideline.ca/2005/03/16/paper-on-effective-implementation-of-a-fantasy-sports-website/
 
 <p>I'm interested in starting up my own online fantasy sports website and have been building code since I was in high school to manage different sports pools.  As I move closer to actually starting a company, it's good to see that some folks have done actual research on the topic!</p>
 <p>From <a href="http://sourceforge.net/forum/forum.php'forum_id=339502">http://sourceforge.net/forum/forum.php'forum_id=339502</a></p>

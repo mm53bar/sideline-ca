@@ -2,7 +2,7 @@
 wordpress_id: 312
 layout: post
 title: Adrenaline junkies
-wordpress_url: http://blog.sideline.ca/2007/04/26/adrenaline-junkies/
+wordpress_url: http://www.sideline.ca/2007/04/26/adrenaline-junkies/
 
 <p>Read the article <a href="http://www.37signals.com/svn/posts/386-dont-be-a-hero-giving-up-is-good">Don't be a hero: Giving up is good</a>.  Then read the <a href="http://www.37signals.com/svn/posts/386-dont-be-a-hero-giving-up-is-good?54#comments">comments</a>.  Then give your head a quick shake.</p>
 

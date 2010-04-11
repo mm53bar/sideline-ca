@@ -2,7 +2,7 @@
 wordpress_id: 180
 layout: post
 title: The Building of ScoreboardFeed, Part Two
-wordpress_url: http://blog.sideline.ca/2005/10/12/the-building-of-scoreboardfeed-part-two/
+wordpress_url: http://www.sideline.ca/2005/10/12/the-building-of-scoreboardfeed-part-two/
 
 Now that I had gone through a few different versions of an online
 scoreboard, I was ready to create the ultimate scoreboard with

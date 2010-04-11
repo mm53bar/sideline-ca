@@ -2,7 +2,7 @@
 wordpress_id: 241
 layout: post
 title: The Coke Bottle Incident
-wordpress_url: http://blog.sideline.ca/2006/04/20/the-coke-bottle-incident/
+wordpress_url: http://www.sideline.ca/2006/04/20/the-coke-bottle-incident/
 
 <p><img alt="" hspace="10" src="https://id245.securedata.net/conveniencegrocery/Merchant2/graphics/00000001/00639cf.gif" align="left" vspace="10" border="0" />Since <a title="Mike should keep some parts of his life in the closet" href="http://www.prvsoftware.ca/cs/blogs/mikes_dump/archive/2006/04/16/335.aspx">Mike is in the mood for sharing stories</a>, I thought that I'd add one as well.  While my stories don't star nose goblins, they do contain an outrageously thrifty former manager.  To protect this manager's identity, we'll call him 'Duke'.  As a disclaimer, these stories may or may not involve my current place of work.</p>
 <p>When the <a href="http://en.wikipedia.org/wiki/Edmonton_Trappers">Edmonton Trappers</a> were still here, a flood of free tickets would occasionally be distributed at work.  On one particular occasion, I went to the game along with some co-workers.  After the game, the team was giving a couple of 2'litre bottles of Coke to every spectator as they left the stadium.  I don't drink much pop but I certainly can't turn down <a title="Rye and Coke is good" href="http://en.wikipedia.org/wiki/Canadian_whisky">free mix</a>.  Once I got to the front of the line, they had run out of <a title="Urban legends about Coca Cola" href="http://www.snopes.com/cokelore/cokelore.asp">Coca-Cola</a> but were passing out Pepsi.  I'm not a fan of Pepsi but I got my two bottles anyways.</p>

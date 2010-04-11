@@ -2,7 +2,7 @@
 wordpress_id: 281
 layout: post
 title: Fave Firefox Extensions
-wordpress_url: http://blog.sideline.ca/2007/01/25/fave-firefox-extensions/
+wordpress_url: http://www.sideline.ca/2007/01/25/fave-firefox-extensions/
 
 <img src="http://www.gadgetell.com/images/firefox-logo.jpg" align="left" />I love Firefox.  But it's not because of the tabs.  Well...I do like the tabs.  But even IE7 has tabs now.
 

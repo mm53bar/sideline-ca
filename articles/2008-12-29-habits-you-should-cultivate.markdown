@@ -2,7 +2,7 @@
 wordpress_id: 349
 layout: post
 title: Habits you should cultivate
-wordpress_url: http://blog.sideline.ca/?p=349
+wordpress_url: http://www.sideline.ca/?p=349
 
 <img class="left" title="Relaxing at work" src="http://farm4.static.flickr.com/3122/2578512639_5820af115b_m.jpg" alt="" width="240" height="159" />Do you like to go for long coffees?  Do you have fun at work?  Do you feel that reading coding blogs at work is a complete defendable practice?  Do you often ignore email and low priority requests?  If so, you're not a slacker - you're just ahead of the curve when it comes to habits that keep you productive and motivated.  At least <a href="http://www.cnn.com/2008/LIVING/worklife/12/22/cb.7.surprising.work.habits/index.html">that's what CNN says</a>.
 

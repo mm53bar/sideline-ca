@@ -2,6 +2,6 @@
 wordpress_id: 117
 layout: post
 title: Some tools for Community Server conversion
-wordpress_url: http://blog.sideline.ca/2005/03/17/some-tools-for-community-server-conversion/
+wordpress_url: http://www.sideline.ca/2005/03/17/some-tools-for-community-server-conversion/
 
 <p>I use NGallery and .Text 0.95 in addition to <a title="" href="http://www.dotnetnuke.com">DotNetNuke</a>.  Now that NGallery, .Text and ASP.Net Forums have been wrapped up and officially released as Community Server 1.0, I need to start doing some upgrades.  Here's some posts that I've found that might help:</p><ul><li><a href="http://www.communityserver.org/forums/474383/ShowPost.aspx">CSVerter</a> ' .Text to Community Server migration tool</li><li><a href="http://www.kevinharder.com/blogs/kevin/archive/category/1021.aspx">DotText-CS-Converter</a> ' Another .Text to Community Server migration tool (with a <a href="http://www.communityserver.org/forums/477181/ShowPost.aspx">forum thread</a>)</li></ul><ul><li>Why are there two .Text to CS tools available'  <a href="http://www.kevinharder.com/blogs/kevin/archive/2005/03/07/295.aspx">Read on</a>'.</li></ul><li><a href="http://www.communityserver.org/forums/475487/ShowPost.aspx">nGallery to CS::Gallery conversion tool forum thread</a> and <a href="http://www.qgyen.net/blog/archive/2005/03/03/951.aspx">main site</a></li><p>That looks to be about it.  We use the CS beta forums at work so I guess I'll need to find a converted for that too if the data model changed.</p>

@@ -2,7 +2,7 @@
 wordpress_id: 258
 layout: post
 title: Do Less
-wordpress_url: http://blog.sideline.ca/2006/06/01/do-less/
+wordpress_url: http://www.sideline.ca/2006/06/01/do-less/
 
 <blockquote cite="http://aspnetresources.com/blog/too_much_to_do.aspx">
 <p>From <a href="http://www.amazon.com/exec/obidos/ASIN/0201710919/">Planning Extreme Programming</a> by Kent Beck and Martin Fowler:<br /><br />When you are overloaded, don't think of it as not having enough time; think of it as having too much to do. You can't give yourself more time, but you can give yourself less to do, as least for the moment.</p></blockquote>

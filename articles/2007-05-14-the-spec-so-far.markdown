@@ -2,7 +2,7 @@
 wordpress_id: 323
 layout: post
 title: The spec so far
-wordpress_url: http://blog.sideline.ca/2007/05/14/the-spec-so-far/
+wordpress_url: http://www.sideline.ca/2007/05/14/the-spec-so-far/
 
 <p>This is the output that comes from running my test/spec tests on my current project.  As you can see, there are still some tests that aren't implemented yet.</p>
 <p>What I love about this output is that I could easily show this to a client or product manager and they could instantly know how the project is going based on reading the output from the tests.  Heck, it might even entice them to regularly check the CruiseControl.rb project page!  That little step breaks down a lot of communication barriers on the team and allows everyone to start speaking the same language.</p>

@@ -2,7 +2,7 @@
 wordpress_id: 215
 layout: post
 title: What is Unit Testing'
-wordpress_url: http://blog.sideline.ca/2005/12/07/what-is-unit-testing/
+wordpress_url: http://www.sideline.ca/2005/12/07/what-is-unit-testing/
 
 <p>Lately, I've been reading a lot of articles on unit testing.  When I say 'unit testing', I'm referring to the emerging definition of unit testing as a method of testing a specific class in isolation of other dependencies.  That is, a true 'unit test' should not use a database connection, a network connection to the internet or even access the file system.</p>
 <p>As I've been developing ScoreboardFeed, I've been saving HTML pages locally to use in testing.  By saving a variety of scoreboard pages from the same source, I can test all sorts of different conditions.  I can ensure that upcoming games, current games and past games are all handled properly.  I can test a scoreboard page that has postponed or delayed games (I saw a lot of those during Hurricane Katrina).  This makes the application better because the requirements can be defined by the test data.  Any time I make a change to the code, I can run some automated tests to ensure that these conditions still function correctly.</p>

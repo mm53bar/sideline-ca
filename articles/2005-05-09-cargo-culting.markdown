@@ -2,7 +2,7 @@
 wordpress_id: 140
 layout: post
 title: Cargo Culting
-wordpress_url: http://blog.sideline.ca/2005/05/09/cargo-culting/
+wordpress_url: http://www.sideline.ca/2005/05/09/cargo-culting/
 
 <p>I've never actually blogged on the topic of Cargo Cults, but I refer to the concept at work quite often.  Steve McConnell wrote an interesting essay for IEEE Software magazine on the topic.</p>
 <blockquote>

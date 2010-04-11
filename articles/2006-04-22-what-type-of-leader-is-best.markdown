@@ -2,7 +2,7 @@
 wordpress_id: 244
 layout: post
 title: What type of leader is best'
-wordpress_url: http://blog.sideline.ca/2006/04/22/what-type-of-leader-is-best/
+wordpress_url: http://www.sideline.ca/2006/04/22/what-type-of-leader-is-best/
 
 <p><a href="http://en.wikipedia.org/wiki/Pointy_Haired_Boss"><img alt="" hspace="10" src="http://upload.wikimedia.org/wikipedia/en/b/b8/The_boss_icon.gif" align="left" vspace="10" border="0" /></a>As a manager of software developers, I struggle with they best way to use the enormous power that I have.  :-)</p>
 <p>I used to like thinking of myself as a <a href="http://en.wikipedia.org/wiki/Benevolent_Dictator_for_Life">Benevolent Dictator</a>.  While I encourage people to offer their opinions, I'm a strong believer that democracy in the workplace is doomed to failure.  For those of you at <a title="TG - Where I work" href="http://www.telusgeomatics.com">TG</a> that disagree, just ask Glenn where your Dev Team jackets are.  I learned the lesson the hard way.</p>

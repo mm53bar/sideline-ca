@@ -2,7 +2,7 @@
 wordpress_id: 205
 layout: post
 title: Pick&#8217;Em v3.06.04 is out
-wordpress_url: http://blog.sideline.ca/2005/11/08/pickem-v30604-is-out/
+wordpress_url: http://www.sideline.ca/2005/11/08/pickem-v30604-is-out/
 
 <p>Pick'Em v3.06.04 is now released:</p>
 <blockquote>

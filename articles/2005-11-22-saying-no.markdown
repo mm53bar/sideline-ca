@@ -2,7 +2,7 @@
 wordpress_id: 211
 layout: post
 title: Saying No
-wordpress_url: http://blog.sideline.ca/2005/11/22/saying-no/
+wordpress_url: http://www.sideline.ca/2005/11/22/saying-no/
 
 <p><a href="http://www.randsinrepose.com/">Rands</a> always has great articles for those fledgling managers like me. <a href="http://www.randsinrepose.com/archives/2005/11/21/saying_no.html">His latest article is called "Saying No"</a> and contains this little gem:</p>
 <blockquote>

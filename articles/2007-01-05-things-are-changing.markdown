@@ -2,7 +2,7 @@
 wordpress_id: 270
 layout: post
 title: Things are changing
-wordpress_url: http://blog.sideline.ca/2007/01/05/things-are-changing/
+wordpress_url: http://www.sideline.ca/2007/01/05/things-are-changing/
 
 <img vspace="10" hspace="10" align="left" src="http://images.despair.com/products/demotivators/change.jpg" alt="" />I haven't posted here since November.  That certainly doesn't mean that I've been "out of the scene".  It's just that my scene has changed, as any of you that subscribe to my <a href="http://del.icio.us/rss/mm53bar">del.icio.us feed</a> can attest.<br />
 <br />

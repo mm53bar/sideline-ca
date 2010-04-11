@@ -2,7 +2,7 @@
 wordpress_id: 197
 layout: post
 title: Options
-wordpress_url: http://blog.sideline.ca/2005/10/31/options/
+wordpress_url: http://www.sideline.ca/2005/10/31/options/
 
 <p>Now that the TWU membership has turned down the deal that their leaders finally brought to them after almost 5 years of negotiations, I'm stuck in a bit of a selfish bind.</p>
 <p>Since the beginning of the strike/lockout back in July, I've been on an Emergency Operations Preparedness (EOP) job assignment.  That means that TELUS has temporarily switched my job away from the job for which I was hired and sent me to fill a union member's job.</p>

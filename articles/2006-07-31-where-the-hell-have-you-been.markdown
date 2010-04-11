@@ -2,7 +2,7 @@
 wordpress_id: 261
 layout: post
 title: Where the hell have you been'
-wordpress_url: http://blog.sideline.ca/2006/07/31/where-the-hell-have-you-been/
+wordpress_url: http://www.sideline.ca/2006/07/31/where-the-hell-have-you-been/
 
 <p><img alt="" hspace="10" src="http://www.stalbertchamber.com/images/home.jpg" align="left" vspace="10" border="0" />I was just updating my site to the latest version of <a title="" href="http://www.subtextproject.com">SubText</a> last night and noticed that I haven't posted in over a month.  I'm amazed that the community can still survive!  :-)</p>
 <p>The last month has been absolutely crazy.  Where to begin'</p>

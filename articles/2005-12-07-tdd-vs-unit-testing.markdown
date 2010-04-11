@@ -2,7 +2,7 @@
 wordpress_id: 216
 layout: post
 title: TDD vs. Unit Testing
-wordpress_url: http://blog.sideline.ca/2005/12/07/tdd-vs-unit-testing/
+wordpress_url: http://www.sideline.ca/2005/12/07/tdd-vs-unit-testing/
 
 <p>Continuing on the topic of unit testing, this quote sums up <a href="http://steve.emxsoftware.com/TDD/TDD+and+Unit+Testing+are+NOT+the+Same">the difference between unit testing and test driven development</a>:</p>
 <blockquote>

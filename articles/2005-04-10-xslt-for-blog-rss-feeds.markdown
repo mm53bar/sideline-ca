@@ -2,7 +2,7 @@
 wordpress_id: 129
 layout: post
 title: XSLT for Blog RSS feeds
-wordpress_url: http://blog.sideline.ca/2005/04/10/xslt-for-blog-rss-feeds/
+wordpress_url: http://www.sideline.ca/2005/04/10/xslt-for-blog-rss-feeds/
 
 <p>I was a little disappointed by the way the default XSLT files in DNN supported RSS feeds from blogs.  So I built my own.  You can download it from <a href="http://aream.ca/DNN/tabid/43/Default.aspx">http://aream.ca/DNN/tabid/43/Default.aspx</a>.</p>
 <p>Basically, it consists of a XSL file and a few image files.  Upload the zip file to DNN as a content file (not a module!!) using the Admin -&amp;gt; File Manager.  Be sure to click the checkbox to Decompress Zip Files.</p>
