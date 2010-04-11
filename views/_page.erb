@@ -1,0 +1,9 @@
+<% @page_type ||= 'page' %>
+<div class="article">
+  <div class="header">
+    <h2><a href="<%= page.url %>" rel="bookmark" title="Permanent Link to <%= page.title %>"><%= page.title %></a></h2>
+  </div>
+  <div>
+    <%= page.body.formatted %>
+  </div>
+</div>

@@ -34,6 +34,10 @@ class Serious < Sinatra::Base
     def render_partial(name)
       render :erb, :"_#{name}", :layout => false
     end
+    
+    def render_page(page)
+      render :erb, :'_page', :locals => { :page => page }
+    end
   end
 
   # Index page
@@ -75,8 +79,8 @@ class Serious < Sinatra::Base
   end
   
   get "/pages/:page" do
-    halt 404 unless @article = Page.find(params[:page])
-    render_article @article
+    halt 404 unless @page = Page.find(params[:page])
+    render_page @page
   end
 end
 
