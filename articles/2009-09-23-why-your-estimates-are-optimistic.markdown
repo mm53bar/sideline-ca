@@ -4,17 +4,17 @@ layout: post
 title: Why Your Estimates are Optimistic
 wordpress_url: http://www.sideline.ca/?p=471
 
-<img class="left" src="http://www.sideline.ca/wp-content/uploads/2009/09/glass_half_full-150x150.jpg" alt="glass_half_full" title="glass_half_full" width="150" height="150"/>I had an "Ah-hah!" moment at the [recent Agile Edmonton meeting](http://www.agileedmonton.org/2009/08/04/september-meeting-software-project-estimation/).  I don't get a lot of those so I wanted to write about it.
+<img class="left" src="http://www.sideline.ca/images/articles/glass_half_full.jpg" alt="glass_half_full" title="glass_half_full" width="150" height="150"/>I had an "Ah-hah!" moment at the [recent Agile Edmonton meeting](http://www.agileedmonton.org/2009/08/04/september-meeting-software-project-estimation/).  I don't get a lot of those so I wanted to write about it.
 
 [Brian Donaldson from Quadrus](http://www.quadrus.com/who_we_are/leadership/brian_donaldson.aspx) was in town to present on the Quadrus Estimation Methodology.~  You can view [Brian's presentation on the Agile Edmonton site](http://www.agileedmonton.org/2009/09/15/agile-estimating-presentation-available/).
 
 Most people expect software estimates to follow a Bell Curve, or Normal Distribution.  That is, they expect the most common estimate (the mode) to match the average estimate (the mean).  A Normal distribution implies that your actual progress is just as likely to be over your estimate as it is to be under.  
 
-<div class="center" style="width: 320px;"><img src="http://www.sideline.ca/wp-content/uploads/2009/09/bell_curve-300x169.gif" alt="Normal Distribution" title="bell_curve" width="300" height="169" /><p>Normal Distribution</p></div>
+<div class="center" style="width: 320px;"><img src="http://www.sideline.ca/images/articles/bell_curve.gif" alt="Normal Distribution" title="bell_curve" width="300" height="169" /><p>Normal Distribution</p></div>
 
 However, Brian persuaded us that software estimates typically follow a LogNormal distribution.  In a LogNormal distribution, the mode does not match the mean, which results in a skewed graph.  For software development estimates, the mean is usually higher than the mode, which means that your actual progress is more likely to be over.  This made sense to me when Brian pointed out that unexpected things in a project don't often speed up an iteration (and even if they do the gains aren't that significant) but they can often slow down a project (and the slowdown can be massive).
 
-<div class="center" style="width: 320px"><img src="http://www.sideline.ca/wp-content/uploads/2009/09/lognormal-300x94.gif" alt="Lognormal Distribution" title="lognormal" width="300" height="94" /><p>Lognormal Distribution</p></div>
+<div class="center" style="width: 320px"><img src="http://www.sideline.ca/images/articles/log_normal.gif" alt="Lognormal Distribution" title="lognormal" width="300" height="94" /><p>Lognormal Distribution</p></div>
 
 I'm getting to the "Ah-hah!" moment.  But let me pull out the soapbox for a sec.
 

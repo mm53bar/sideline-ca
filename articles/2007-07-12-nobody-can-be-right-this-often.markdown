@@ -8,6 +8,6 @@ wordpress_url: http://www.sideline.ca/2007/07/12/nobody-can-be-right-this-often/
 
 <p><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20070711.html">This week is no different</a>.</p>
 
-<p><a href='http://www.sideline.ca/2007/07/12/nobody-can-be-right-this-often/dilbert2003491570711gif/' rel='attachment wp-att-339' title='dilbert2003491570711.gif'><img src='http://www.sideline.ca/wp-content/uploads/2007/07/dilbert2003491570711.thumbnail.gif' alt='dilbert2003491570711.gif' class="center"/></a></p>
+<p><a href='http://www.sideline.ca/images/articles/dilbert.gif'><img src='http://www.sideline.ca/images/articles/dilbert_thumbnail.gif' alt='Dilbert' class="center"/></a></p>
 
 <p>I usually like to print out the best of these and tape them up on my window.  Since <a href="http://www.aream.ca/2007/07/11/sara-catherine-mcclenaghan/">I'm not at work this week</a>, can somebody at TG please print this out and tape it up for me?  This is too good.</p>

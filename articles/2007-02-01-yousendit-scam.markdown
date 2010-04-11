@@ -21,7 +21,7 @@ Plus, there are no ads on your pages or your recipient's download pages.
 <span style="margin: 10px 10px 10px 0px; display: block">Hurry, this promotion ends soon.</span></blockquote>
 "No strings attached" sounds pretty good so I logged in to get my upgrade.  Imagine my surprise when I saw the following:
 
-<img src="file:///private/tmp/SnapNDrag676/screenshot_01.jpg" /><img src="http://www.sideline.ca/wp-content/uploads/2007/01/screenshot_01.jpg" alt="YouSendIt Screenshot" />
+<img src="http://www.sideline.ca/images/articles/yousendit_screenshot.jpg" alt="YouSendIt Screenshot" />
 
 In particular, I was a little confused at the "Upgrade valid for 30 days" note.  How does that jive with their earlier promise of "No strings attached"?
 

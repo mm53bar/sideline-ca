@@ -4,7 +4,7 @@ layout: post
 title: Attitude Beats Talent
 wordpress_url: http://www.sideline.ca/?p=479
 
-<img src="http://www.sideline.ca/wp-content/uploads/2009/09/decision-150x150.jpg" alt="decision" title="decision" width="150" height="150" class="left" />As a software development manager, I've hired dozens of developers over the past decade.  For each one of those hires, I've interviewed somewhere between ten and twenty candidates before finding the right one.  If that sounds like a lot of work, it is - interview fatigue has caused me to make the occasional bad choice.
+<img src="http://www.sideline.ca/images/articles/decision.jpg" alt="decision" title="decision" width="150" height="150" class="left" />As a software development manager, I've hired dozens of developers over the past decade.  For each one of those hires, I've interviewed somewhere between ten and twenty candidates before finding the right one.  If that sounds like a lot of work, it is - interview fatigue has caused me to make the occasional bad choice.
 
 The reason I've interviewed so many people is that I look for a developer with the right mix of attitude and talent.  I want to work with people that have the drive to make themselves and those around them better.  People that can create amazing software but also have the humility to realize that there's still books full of things that they don't know.  People that have fun doing a geeky job that they also happen to do as a hobby.
 

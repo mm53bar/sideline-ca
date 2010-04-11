@@ -4,7 +4,7 @@ layout: post
 title: Why ASP.Net?
 wordpress_url: http://www.sideline.ca/2007/08/08/why-aspnet/
 
-<img src='http://www.sideline.ca/wp-content/uploads/2007/08/squarepeg.jpg' alt='squarepeg.jpg' class='left' />
+<img src='http://www.sideline.ca/images/articles/square_peg.jpg' alt='Square Peg' class='left' />
 
 <p>I've been questioning the use of ASP.Net for web apps ever since I started using Rails around a year ago.  As I've become more proficient with Rails on some recent (sideline) projects, I can't imagine using ASP.Net for any project that I want to get personally invested in.  It just doesn't make sense.</p>
 

@@ -4,7 +4,7 @@ layout: post
 title: Mistakes
 wordpress_url: http://www.sideline.ca/2007/04/23/mistakes/
 
-<img src="http://www.sideline.ca/wp-content/uploads/2007/04/oopskey.jpg" alt="Oopskey" height="80" width="100" align="right"><p>My focus at work lately has been to initiate some Rails projects.  Rails is a much better fit for some of our work than ASP.Net.  I've been trying to isolate a couple of development projects and show how Rails could be a cheaper and better option.  To get some backup, I've been scouring the web to find articles where other folks have done something similar.</p>
+<img src="http://www.sideline.ca/images/articles/oops_key.jpg" height="80" width="100" align="right" alt="Oops! Key"><p>My focus at work lately has been to initiate some Rails projects.  Rails is a much better fit for some of our work than ASP.Net.  I've been trying to isolate a couple of development projects and show how Rails could be a cheaper and better option.  To get some backup, I've been scouring the web to find articles where other folks have done something similar.</p>
 
 That brought me to Fred Brunel's article titled "<a href="http://fredbrunel.com/journal/2007/04/5-mistakes-you-should-know-when-using-ruby-on-rails-in-your-company/">5 Mistakes You Should Know before using Ruby on Rails in Your Company</a>".  To summarize the post, Fred looks back at a Rails project a year after it started and discovers the following problems:</p>
 

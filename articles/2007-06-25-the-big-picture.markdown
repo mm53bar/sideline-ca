@@ -4,7 +4,7 @@ layout: post
 title: The Big Picture
 wordpress_url: http://www.sideline.ca/2007/06/25/the-big-picture/
 
-<img src='http://www.sideline.ca/wp-content/uploads/2007/06/np_docs_lg_thumbnail.png' alt='planning' / class="center">
+<img src='http://www.sideline.ca/images/articles/planning.png' alt='Planning' / class="left">
 <h3>Looking back</h3>
 <p>Since the beginning of time (or at least 1997), I've been told that the proper way to build an application is from the bottom up.  Focus on your classes, your relationships, your business logic.  Get that working properly and well planned before you start working on your user interfaces.</p>
 
@@ -28,7 +28,7 @@ wordpress_url: http://www.sideline.ca/2007/06/25/the-big-picture/
 Getting Real starts with the interface, the real screens that people are going to use. It begins with what the customer actually experiences and builds backwards from there. This lets you get the interface right before you get the software wrong.
 </blockquote>
 
-<img src='http://www.sideline.ca/wp-content/uploads/2007/06/fig_1_thumbnail.png' alt='mockup' class="center"/>
+<img src='http://www.sideline.ca/images/articles/mockup.png' alt='Mockup' class="right"/>
 
 <h3>Looking forward</h3>
 

@@ -8,7 +8,7 @@ excerpt: |-
   One of my goals for Agile Edmonton is to create an Agile community here in Edmonton.  So how can we create a community if we don't have any time for networking?  Simple - we add beer.  :)
 wordpress_url: http://www.sideline.ca/?p=356
 
-<p class="center caption"><img src="http://www.sideline.ca/wp-content/uploads/2009/02/free_beer.jpg" alt="Free Beer" title="Free Beer" width="500" height="333" /><span>Photo by <a href="http://www.flickr.com/photos/16038409@N02/2327138220/">AGoK</a></span></p>
+<p class="center caption"><img src="http://www.sideline.ca/images/articles/free_beer.jpg" alt="Free Beer" title="Free Beer" width="500" height="333" /><span>Photo by <a href="http://www.flickr.com/photos/16038409@N02/2327138220/">AGoK</a></span></p>
 <a href="http://www.agileedmonton.org">Agile Edmonton</a> meetings can be quick affairs.  Folks show up at noon for a one hour presentation and then rush back to work at 1:00.  While these lunchtime meetings have allowed us to have some great crowds (55 people for Janet Gregory's presentation), it doesn't allow for much networking.
 
 One of my goals for Agile Edmonton is to create an Agile community here in Edmonton.  So how can we create a community if we don't have any time for networking?  Simple - we add beer.  :)

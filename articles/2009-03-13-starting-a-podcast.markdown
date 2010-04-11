@@ -5,7 +5,7 @@ title: Starting a podcast
 wordpress_url: http://www.sideline.ca/?p=413
 
 <p class="center caption">
-<img title="microphone" src="http://www.sideline.ca/wp-content/uploads/2009/03/microphone.jpg" alt="microphone" width="500" height="333" />
+<img title="microphone" src="http://www.sideline.ca/images/articles/microphone.jpg" alt="Microphone" width="500" height="333" />
 <span>Photo by <a href="http://www.flickr.com/photos/mkeefe/2349283746/">M. Keefe</a></span></p>
 I'll be starting a new podcast soon, interviewing (mostly) local folks that are using Agile methods to deliver software.  The interviews will mainly focus on what type of software the company produces or works with, how Agile has helped the company, and what lessons they've learned that could benefit anybody going through an Agile adoption.  This theme of promoting education and awareness is a natural extension from the work that I've been doing with <a href="http://www.agileedmonton.org">Agile Edmonton</a> and the new consulting work that I'll be doing with <a href="http://www.quercussolutions.com">Quercus Solutions</a>. 
 <!--more-->
