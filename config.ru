@@ -3,7 +3,7 @@ require './lib/serious_helper.rb'
 
 Serious.set :title, 'Sideline'
 Serious.set :author, 'Michael McClenaghan'
-Serious.set :url, 'http://sideline-ca.heroku.com'
+Serious.set :url, 'http://sideline.ca'
 Serious.set :root, Dir.getwd
 Serious.set :disqus, 'sideline'
 Serious.set :google_analytics, 'UA-7482154-1'
