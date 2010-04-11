@@ -1,4 +1,4 @@
-require 'serious'
+require 'vendor/serious-0.2.6/lib/serious'
 require './lib/serious_helper.rb'
 
 Serious.set :title, 'Sideline'
