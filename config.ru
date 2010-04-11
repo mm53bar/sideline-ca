@@ -1,5 +1,5 @@
 require 'vendor/serious-0.2.6/lib/serious'
-require './lib/serious_helper.rb'
+require './lib/serious_helper'
 
 Serious.set :title, 'Sideline'
 Serious.set :author, 'Michael McClenaghan'

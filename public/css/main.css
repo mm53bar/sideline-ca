@@ -362,7 +362,7 @@ blockquote {
 }
 /*Footer
 ------------------------------------------------------------ */
-#footer  p.right { float: right; }
+#footer  p.copyright { text-align:right; }
 #footer  a:link, footer.main  a:visited { color: #666; text-decoration: underline; }
 #footer  a:hover { color: #772124; }
 /*Archives

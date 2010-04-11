@@ -6,8 +6,10 @@ require 'yaml'
 require 'builder'
 $:.unshift File.dirname(__FILE__)
 require 'ruby_ext'
+require 'year_after_year'
 
 class Serious < Sinatra::Base
+  helpers Sinatra::YearAfterYear
   
   set :articles, Proc.new { File.join(Dir.getwd, 'articles') }
   set :pages, Proc.new { File.join(Dir.getwd, 'pages') }
