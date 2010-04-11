@@ -4,7 +4,7 @@ layout: post
 title: Lazy and Dumb is good but Stupid is not
 wordpress_url: http://www.sideline.ca/2006/03/10/lazy-and-dumb-is-good-but-stupid-is-not/
 
-<p>OK'I've been patting myself on the back about being <a href="http://my.aream.ca/blogs/mike/archive/2006/03/02/15207.aspx">Lazy</a> and <a href="http://my.aream.ca/blogs/mike/archive/2006/03/09/15213.aspx">Dumb</a> but I was totally Stupid today.</p>
+<p>OK'I've been patting myself on the back about being <a href="http://www.sideline.ca/2006/03/02/sure-youre-lazy-and-dumb-but-what-about-incompetent-and-forgetful">Lazy</a> and <a href="http://www.sideline.ca/2006/03/10/a-dumb-manager-is-your-best-friend/">Dumb</a> but I was totally Stupid today.</p>
 <p>We're hiring 2 co-op students here at TG.  Since I'm trying to be a good Lazy Manager, I saw this as a great opportunity to get a bunch of developers involved in the interviewing process.  Each rookie interviewer was paired with somebody that had some interview experience.  I assigned two resumes to each of the teams and they were responsible for contacting the students and conducting the interviews.</p>
 <p>Once this process was finished, we all got together and rated the individual students.  We ended up with three potential recruits.  So, I sent off e-mails to the top 2 and kept the third in reserve in case we had a rejection.</p>
 <p>I also had the interview teams contact the students we were rejecting to give them the bad news.  Here's where I got Stupid.</p>

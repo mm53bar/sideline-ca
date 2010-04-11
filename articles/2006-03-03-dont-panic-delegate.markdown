@@ -10,4 +10,4 @@ wordpress_url: http://www.sideline.ca/2006/03/03/dont-panic-delegate/
 <li>it sends a message to employees that they are not trusted to do the job well</li>
 <li>it prevents employees from learning on the job</li>
 <li>it prevents the manager from performing the duties that make up their job</li></ul>
-<p>This is good stuff for building yourself into a <a href="http://my.aream.ca/blogs/mike/archive/2006/03/02/15207.aspx">lazy manager</a>.  Give the article a read.</p>
+<p>This is good stuff for building yourself into a <a href="http://www.sideline.ca/2006/03/02/sure-youre-lazy-and-dumb-but-what-about-incompetent-and-forgetful">lazy manager</a>.  Give the article a read.</p>
