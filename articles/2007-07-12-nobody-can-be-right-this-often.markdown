@@ -2,7 +2,7 @@
 wordpress_id: 338
 layout: post
 title: Nobody can be right this often
-wordpress_url: http://www.sideline.ca/2007/07/12/nobody-can-be-right-this-often/
+disqus_url: http://blog.sideline.ca/2007/07/12/nobody-can-be-right-this-often/
 
 <p>I don't know how he does it, but Scott Adams can often nail exactly what it's like to work at TG.  I suppose TG isn't all that different from any other IT shop but I always get a kick out of a Dilbert cartoon that matches work.</p>
 

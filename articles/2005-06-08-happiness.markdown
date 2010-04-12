@@ -2,7 +2,7 @@
 wordpress_id: 145
 layout: post
 title: Happiness
-wordpress_url: http://www.sideline.ca/2005/06/08/happiness/
+disqus_url: http://blog.sideline.ca/2005/06/08/happiness/
 
 <p>Since becoming a manager at work and a soon-to-be dad at home, I've been giving happiness a lot of thought.  </p>
 <p>For the longest time, work happiness to me has been a challenging job that gives me an opportunity to learn while still being able to strut my stuff.    Lately, I'm not sure that I'm still getting that.  I certainly still have the challenge, but it's not a challenge that I can run with on my own anymore.  My challenge now is to motivate 20 other folks of varying experience and ability to share the same passion and drive that I do to make amazing web-based software.  That's easier said than done some days.  However, that's a million times easier (and more fun) than the other side of the job - dealing with the politics of the other managers.  I share a much closer vision with my developers than I do with the other managers.  I still have the passion and drive.  Hell, I even manage to have some vision every now and then.  But my new peer group doesn't have the same values as I do.  And I am desperate need of someone at my new level to share the dream!</p>

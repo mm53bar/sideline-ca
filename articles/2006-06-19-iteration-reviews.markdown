@@ -2,7 +2,7 @@
 wordpress_id: 260
 layout: post
 title: Iteration reviews
-wordpress_url: http://www.sideline.ca/2006/06/19/iteration-reviews/
+disqus_url: http://blog.sideline.ca/2006/06/19/iteration-reviews/
 
 <p>At <a title="TG - Where I work" href="http://www.telusgeomatics.com">TG</a>, I do the scrum master role for four development teams.  For three of those teams, part of that role involves conducting an iteration review meeting.  In this meeting, the goal is to inspect and adapt.  Essentially, the team takes a look at what happened over the last iteration and figures out how to improve it.</p>
 <p>In my first few iteration review meetings, I asked three questions:</p>

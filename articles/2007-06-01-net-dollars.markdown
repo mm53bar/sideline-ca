@@ -2,7 +2,7 @@
 wordpress_id: 325
 layout: post
 title: .Net Dollars
-wordpress_url: http://www.sideline.ca/2007/06/01/net-dollars/
+disqus_url: http://blog.sideline.ca/2007/06/01/net-dollars/
 
 <img src="http://www.sideline.ca/images/articles/lego_brick.png" alt="lego-brick_thumbnail.png" align="left"/>
 <p>I've been sidelined lately recovering from back surgery so I haven't posted at all for the last couple of weeks.  I've been keeping up on reading my blogroll and I've started to notice a trend over the last few weeks.  Folks (at least the ones that I subscribe to) seem to be getting a bit nasty towards Microsoft.  And these same folks seem to be talking a lot about Ruby and/or Rails.</p>

@@ -2,7 +2,7 @@
 wordpress_id: 228
 layout: post
 title: Does change have to be an avalanche'
-wordpress_url: http://www.sideline.ca/2006/03/04/does-change-have-to-be-an-avalanche/
+disqus_url: http://blog.sideline.ca/2006/03/04/does-change-have-to-be-an-avalanche/
 
 <p>In <a href="http://managementcraft.typepad.com/management_craft/2006/03/the_power_of_ge.html">her latest post</a>, Lisa Haneberg talks about what Getting It means to managers.  One of her points really struck home:</p>
 <blockquote>

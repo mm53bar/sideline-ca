@@ -2,7 +2,7 @@
 wordpress_id: 282
 layout: post
 title: YouSendIt Scam?
-wordpress_url: http://www.sideline.ca/2007/02/01/yousendit-scam/
+disqus_url: http://blog.sideline.ca/2007/02/01/yousendit-scam/
 
 In the past, I've used the YouSendIt service to send large files around.  Their Lite account has some limitations to it so I was pleased when I got the following e-mail from them:
 <blockquote><span style="margin: 10px 10px 10px 0px; display: block">Hello Mike,</span>

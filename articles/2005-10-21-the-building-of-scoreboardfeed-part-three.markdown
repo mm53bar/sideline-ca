@@ -2,7 +2,7 @@
 wordpress_id: 181
 layout: post
 title: The Building of ScoreboardFeed, Part Three
-wordpress_url: http://www.sideline.ca/2005/10/21/the-building-of-scoreboardfeed-part-three/
+disqus_url: http://blog.sideline.ca/2005/10/21/the-building-of-scoreboardfeed-part-three/
 
 Now that I've discussed <a href="/blogs/mike/archive/2005/10/05/The_Building_of_ScoreboardFeed.aspx">why I wanted to build ScoreboardFeed</a> and some of the <a href="/blogs/mike/archive/2005/10/11/The_Building_of_ScoreboardFeed_Part_Two.aspx">base classes that are within it</a>, it's time to look at the nitty gritty - the parsing.<br />
 <br />

@@ -21,6 +21,9 @@
     <p>from <a href="/articles">Articles</a></p>
   </div>
   <% unless summary_only %>
+    <% if article['wordpress_url'] %>
+    <script type="text/javascript">  var disqus_url = '<%= article['disqus_url'] %>'; </script> 
+    <% end %>
     <%= render_partial :disqus if Serious.disqus %>
   <% end %>
 </div>

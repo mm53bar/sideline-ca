@@ -2,7 +2,7 @@
 wordpress_id: 47
 layout: post
 title: New DNN module idea
-wordpress_url: http://www.sideline.ca/2004/10/05/new-dnn-module-idea/
+disqus_url: http://blog.sideline.ca/2004/10/05/new-dnn-module-idea/
 
 I used to use a program called CoolSync to [share bookmarks between work, home and the web](http://www.pcworld.com/resource/article.asp?aid=11168).  Unfortunately, just when I started to enjoy it, some big bad company bought it up and I lost my nice free access.
 

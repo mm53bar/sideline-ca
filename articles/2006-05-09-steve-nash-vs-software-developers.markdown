@@ -2,7 +2,7 @@
 wordpress_id: 248
 layout: post
 title: Steve Nash vs. Software Developers
-wordpress_url: http://www.sideline.ca/2006/05/09/steve-nash-vs-software-developers/
+disqus_url: http://blog.sideline.ca/2006/05/09/steve-nash-vs-software-developers/
 
 <p><img alt="" hspace="10" src="http://llc.fanball.com/fanball/images/story/6612.jpg" align="left" vspace="10" border="0" />I just read that <a href="http://en.wikipedia.org/wiki/Steve_Nash">Steve Nash</a> has <a href="http://www.nba.com/suns/news/nash_mvp_0506.html">been named the NBA's Most Valuable Player for the second straight season</a>.  I wish that I knew enough about basketball to appreciate Nash's skills.  But after being a software development manager for almost two years, I've interviewed, coached and talked with enough software developers to have a decent idea about how hard it is to be consistently good, let alone the best.  </p>
 <p>As I thought about comparisons between Nash's accomplishments and developing software, I was a little bit shocked at how easy we as developers (or development managers) have it.  </p>

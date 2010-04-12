@@ -2,7 +2,7 @@
 wordpress_id: 293
 layout: post
 title: Interface Design and the Blank Slate
-wordpress_url: http://www.sideline.ca/2007/03/28/interface-design-and-the-blank-slate/
+disqus_url: http://blog.sideline.ca/2007/03/28/interface-design-and-the-blank-slate/
 
 Lately I've been playing a ton with <a href="http://www.rubyonrails.org">Rails</a>.  I've been thoroughly surprised at how quick it is to develop a web app.  It's so quick that it's starting to expose some of my weaknesses as a developer.
 

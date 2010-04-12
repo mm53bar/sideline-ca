@@ -2,7 +2,7 @@
 wordpress_id: 277
 layout: post
 title: Moving on up
-wordpress_url: http://www.sideline.ca/2007/01/20/moving-on-up/
+disqus_url: http://blog.sideline.ca/2007/01/20/moving-on-up/
 
 I finally managed to move my blog over to Wordpress with my new host.  It just took a little BlogML export from SubText and a little XSLT to transform it over to the WXR format that Wordpress supports.
 

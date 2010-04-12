@@ -2,7 +2,7 @@
 wordpress_id: 322
 layout: post
 title: Project update
-wordpress_url: http://www.sideline.ca/2007/05/14/project-update/
+disqus_url: http://blog.sideline.ca/2007/05/14/project-update/
 
 <a href="http://www.amazon.com/Programming-Ruby-Pragmatic-Programmers-Second/dp/0974514055" title="Amazon.com: Programming Ruby: The Pragmatic Programmers' Guide, Second Edition: Books: Dave Thomas,Chad Fowler,Andy Hunt"><img src="http://ec1.images-amazon.com/images/I/413REDP4TQL._AA240_.jpg" align="left" vspace="10" hspace="10" border="0"></a>
 <p>I posted last week about <a href="http://www.sideline.ca/2007/05/08/ccrb-on-my-rails-project/" title="sideline.ca  &raquo; CC.rb on my Rails project">my progress with test/spec</a> as I started work on a new project.  Since then, I've expanded my spec quite a bit.  I've really found BDD to be a lot of fun.  The cycle of thinking up a spec and then going through the <a href="http://www.jamesshore.com/Blog/Red-Green-Refactor.html" title="James Shore: Successful Software">red-green-refactor cycle</a> has really allowed me to bulk up my app without even firing up a web browser.  This is something that I always seemed to struggle with in TDD for one reason or another.</p>

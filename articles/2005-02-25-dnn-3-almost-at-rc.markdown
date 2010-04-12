@@ -2,7 +2,7 @@
 wordpress_id: 104
 layout: post
 title: DNN 3 almost at RC
-wordpress_url: http://www.sideline.ca/2005/02/25/dnn-3-almost-at-rc/
+disqus_url: http://blog.sideline.ca/2005/02/25/dnn-3-almost-at-rc/
 
 <p>Posted <a href="http://www.asp.net/Forums/ShowPost.aspx'tabindex=1&amp;amp;PostID=734458">on the forums</a>:</p>
 <blockquote>

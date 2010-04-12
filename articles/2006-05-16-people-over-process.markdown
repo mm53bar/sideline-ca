@@ -2,7 +2,7 @@
 wordpress_id: 252
 layout: post
 title: People over Process
-wordpress_url: http://www.sideline.ca/2006/05/16/people-over-process/
+disqus_url: http://blog.sideline.ca/2006/05/16/people-over-process/
 
 <p>I read <a href="http://nobscot.blogspot.com/2005/01/its-people-stupid_24.html">this quote</a> today and it reminded me of a few thoughts that I've been having lately:</p>
 <blockquote cite="http://nobscot.blogspot.com/2005/01/its-people-stupid_24.html">

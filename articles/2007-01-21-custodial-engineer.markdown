@@ -2,7 +2,7 @@
 wordpress_id: 278
 layout: post
 title: Custodial Engineer
-wordpress_url: http://www.sideline.ca/2007/01/21/custodial-engineer/
+disqus_url: http://blog.sideline.ca/2007/01/21/custodial-engineer/
 
 EDIT #2:  It looks like the YouTube plugin only wanted the key for the video and not the entire URL.  You should now be able to enjoy the video right from this page.
 

@@ -2,7 +2,7 @@
 wordpress_id: 251
 layout: post
 title: What is a good ASP.Net application'
-wordpress_url: http://www.sideline.ca/2006/05/16/what-is-a-good-aspnet-application/
+disqus_url: http://blog.sideline.ca/2006/05/16/what-is-a-good-aspnet-application/
 
 <p>I've been struggling lately with some pretty basic concepts.  Well, actually it's just one concept ' what is good software'  Specifically (since it's the area that I'm most interested in), what is the definition of a good ASP.Net web application'</p>
 <p>When I first started coding ASP pages in the late 90's, I just thought that it was cool to get a web site up and running.  I learned how to use includes to maximize my reuse and I thought that I was pretty slick.  When .Net showed up, the bar was lowered and it was pretty easy for anybody to create a web site that was much slicker than what I could do in ASP.  What's worse is that they could do it faster too.</p>

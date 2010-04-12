@@ -2,7 +2,7 @@
 wordpress_id: 340
 layout: post
 title: Why ASP.Net?
-wordpress_url: http://www.sideline.ca/2007/08/08/why-aspnet/
+disqus_url: http://blog.sideline.ca/2007/08/08/why-aspnet/
 
 <img src='http://www.sideline.ca/images/articles/square_peg.jpg' alt='Square Peg' class='left' />
 

@@ -2,7 +2,7 @@
 wordpress_id: 23
 layout: post
 title: And I shall name it&#8230;BlogFeed
-wordpress_url: http://www.sideline.ca/2004/09/21/and-i-shall-name-itblogfeed/
+disqus_url: http://blog.sideline.ca/2004/09/21/and-i-shall-name-itblogfeed/
 
 I've been debating what to do with the XSLT that I built to display my .Text blog. I've decided that it's too hard to fit into the existing RSS feed module that comes with DNN. So, in the tradition of my XmlFeed and HtmlFeed, I'll create a new DNN module called BlogFeed.
 

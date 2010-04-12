@@ -2,7 +2,7 @@
 wordpress_id: 344
 layout: post
 title: Set up new Slicehost with Ruby and Rails
-wordpress_url: http://www.sideline.ca/2008/03/02/set-up-new-slicehost-with-ruby-and-rails/
+disqus_url: http://blog.sideline.ca/2008/03/02/set-up-new-slicehost-with-ruby-and-rails/
 
 <p>OK, this one is going to be all technical.</p>
 

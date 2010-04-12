@@ -2,7 +2,7 @@
 wordpress_id: 297
 layout: post
 title: Agile as an end state
-wordpress_url: http://www.sideline.ca/2007/03/31/agile-as-an-end-state/
+disqus_url: http://blog.sideline.ca/2007/03/31/agile-as-an-end-state/
 
 <p>The local Agile group has been having some <a href="http://groups.google.com/group/eamug/browse_thread/thread/26a33c65c7605b9c">conversation lately on how to apply Agile to a fixed cost project</a>.  With some of the changes that we've had at work lately, I've been wondering about this and asked our local scrummaster to do some investigation.  <a href="http://finance.groups.yahoo.com/group/agilework/message/11">He got some responses</a> but not too much.
 </p>

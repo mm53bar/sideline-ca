@@ -2,7 +2,7 @@
 wordpress_id: 436
 layout: post
 title: Away
-wordpress_url: http://www.sideline.ca/2009/05/04/away/
+disqus_url: http://blog.sideline.ca/2009/05/04/away/
 
 For the past month, I've been pretty well out of touch when it comes to my blog, Twitter, Facebook or any other kind of online social network.  While the true cause of this is probably just laziness, I'm putting it down to a perfect storm of conditions.
 

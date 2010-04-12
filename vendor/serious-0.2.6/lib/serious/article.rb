@@ -83,6 +83,11 @@ class Serious::Article
     @full_url ||= File.join(Serious.url, url)
   end
   
+  # returns any other yaml entries
+  def [] *args
+    yaml[*args]
+  end
+  
   # Equality comparison
   def ==(article)
     path == article.path

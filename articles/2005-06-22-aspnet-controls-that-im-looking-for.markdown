@@ -2,7 +2,7 @@
 wordpress_id: 149
 layout: post
 title: ASP.Net Controls that I&#8217;m looking for
-wordpress_url: http://www.sideline.ca/2005/06/22/aspnet-controls-that-im-looking-for/
+disqus_url: http://blog.sideline.ca/2005/06/22/aspnet-controls-that-im-looking-for/
 
 <p>There's a couple of controls/classes that I'd love to get.  I'm willing to pay for one of them but I want the other one for free.</p>
 <ul>

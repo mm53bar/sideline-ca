@@ -2,7 +2,7 @@
 wordpress_id: 190
 layout: post
 title: Perception of Value
-wordpress_url: http://www.sideline.ca/2005/10/26/perception-of-value/
+disqus_url: http://blog.sideline.ca/2005/10/26/perception-of-value/
 
 <p>I could not agree with this line from <a href="http://www.jrothman.com/weblog/2005/10/value-not-education-or-experience.html">Hiring Technical People: Value, not Education or Experience</a> more:<a href="http://www.jrothman.com/weblog/2005/10/value-not-education-or-experience.html"></a></p>
 <blockquote>

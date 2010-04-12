@@ -2,7 +2,7 @@
 wordpress_id: 471
 layout: post
 title: Why Your Estimates are Optimistic
-wordpress_url: http://www.sideline.ca/2009/09/23/why-your-estimates-are-optimistic/
+disqus_url: http://blog.sideline.ca/2009/09/23/why-your-estimates-are-optimistic/
 
 <img class="left" src="http://www.sideline.ca/images/articles/glass_half_full.jpg" alt="glass_half_full" title="glass_half_full" width="150" height="150"/>I had an "Ah-hah!" moment at the [recent Agile Edmonton meeting](http://www.agileedmonton.org/2009/08/04/september-meeting-software-project-estimation/).  I don't get a lot of those so I wanted to write about it.
 

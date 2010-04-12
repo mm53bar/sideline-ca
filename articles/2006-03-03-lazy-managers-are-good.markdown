@@ -2,7 +2,7 @@
 wordpress_id: 226
 layout: post
 title: Lazy managers are good
-wordpress_url: http://www.sideline.ca/2006/03/03/lazy-managers-are-good/
+disqus_url: http://blog.sideline.ca/2006/03/03/lazy-managers-are-good/
 
 <p>In my <a href="http://www.sideline.ca/2006/03/02/sure-youre-lazy-and-dumb-but-what-about-incompetent-and-forgetful">previous post</a>, I talked about how a good software development manager should be lazy, dumb, incompetent and forgetful.  In this post, I'll talk about why a lazy manager is a good thing.</p>
 <p>A <a href="http://blog.outer-court.com/archive/2005-08-24-n14.html">lazy programmer</a> will become more efficient at coding and will become better at avoiding redundant code.  But that doesn't apply to a lazy manager.  A lazy manager is one that doesn't want to do anything.  A lazy manager's ultimate goal is to spend the day reading the paper with his feet up on the desk.  But how can that be achieved'  It's easy if you use your developers for more than just coding.</p>

@@ -2,7 +2,7 @@
 wordpress_id: 111
 layout: post
 title: DNN 2.x to 3.x conversion
-wordpress_url: http://www.sideline.ca/2005/03/12/dnn-2x-to-3x-conversion/
+disqus_url: http://blog.sideline.ca/2005/03/12/dnn-2x-to-3x-conversion/
 
 <p>A <a href="http://asp.net/Forums/ShowPost.aspx'tabindex=1&amp;amp;PostID=800721">good post on how to convert a module from 2.x to 3.x</a>.</p>
 

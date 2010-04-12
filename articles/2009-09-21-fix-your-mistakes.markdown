@@ -2,7 +2,7 @@
 wordpress_id: 484
 layout: post
 title: Fix Your Mistakes
-wordpress_url: http://www.sideline.ca/2009/09/21/fix-your-mistakes/
+wordpress_url: http://blog.sideline.ca/2009/09/21/fix-your-mistakes/
 
 <img src="http://www.sideline.ca/images/articles/thumbs_up_thumbs_down.jpg" alt="Thumbs Up, Thumbs Down" width="150" height="150" class="left" />Joe certainly seemed like the right fit.  His resume looked fantastic - lots of software development experience with big companies, all the right keywords, enough years to have gained good experience.  His interview was pretty good - he stumbled through some of the questions but a case of the nerves could have easily explained that.  
 

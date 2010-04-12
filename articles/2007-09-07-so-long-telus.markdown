@@ -2,7 +2,7 @@
 wordpress_id: 342
 layout: post
 title: So long TELUS
-wordpress_url: http://www.sideline.ca/2007/09/07/so-long-telus/
+disqus_url: http://blog.sideline.ca/2007/09/07/so-long-telus/
 
 I've been putting off this post for a few days but I suppose it's time to start breaking with the past. I've decided to leave TELUS and take a new job as the Manager of Software Development at <a href="http://www.focus.ca">Focus Corp</a>. This wasn't an easy decision to make but now that it's made I feel better than I have in years.
 

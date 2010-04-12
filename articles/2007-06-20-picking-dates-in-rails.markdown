@@ -2,7 +2,7 @@
 wordpress_id: 327
 layout: post
 title: Picking Dates in Rails
-wordpress_url: http://www.sideline.ca/2007/06/20/picking-dates-in-rails/
+disqus_url: http://blog.sideline.ca/2007/06/20/picking-dates-in-rails/
 
 <img src="http://www.sideline.ca/images/articles/calendar.png" alt="Calendar" class="left" />
 

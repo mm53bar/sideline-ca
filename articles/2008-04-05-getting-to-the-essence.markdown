@@ -2,7 +2,7 @@
 wordpress_id: 345
 layout: post
 title: Getting to the essence
-wordpress_url: http://www.sideline.ca/2008/04/05/getting-to-the-essence/
+disqus_url: http://blog.sideline.ca/2008/04/05/getting-to-the-essence/
 
 <p>As I was scrolling through the different presentations at <a href="http://dlw-europe.com/">Dynamic Languages World Europe 2008</a>, I came across this in the description of Neal Ford's keynote:</p>
 

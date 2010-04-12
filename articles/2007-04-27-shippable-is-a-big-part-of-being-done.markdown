@@ -2,7 +2,7 @@
 wordpress_id: 313
 layout: post
 title: Shippable is a big part of being Done
-wordpress_url: http://www.sideline.ca/2007/04/27/shippable-is-a-big-part-of-being-done/
+disqus_url: http://blog.sideline.ca/2007/04/27/shippable-is-a-big-part-of-being-done/
 
 <p>I found <a href="http://iqueryable.com/2007/02/15/AreYouAShipper.aspx">another article today</a> that can help me to create a good definition for <a href="http://www.sideline.ca/2007/04/08/what-does-done-mean/">Done</a>.</p>
 

@@ -2,7 +2,7 @@
 wordpress_id: 187
 layout: post
 title: What&#8217;s your personal accountability on your team'
-wordpress_url: http://www.sideline.ca/2005/10/25/whats-your-personal-accountability-on-your-team/
+disqus_url: http://blog.sideline.ca/2005/10/25/whats-your-personal-accountability-on-your-team/
 
 <p>I like this line from <a href="http://www.managementblog.org/archives/2005/10/25/wilmas-management-lesson/">Management Skills Blog</a>:</p>
 <blockquote>

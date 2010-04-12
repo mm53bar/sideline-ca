@@ -2,7 +2,7 @@
 wordpress_id: 173
 layout: post
 title: Regex for DNN install file
-wordpress_url: http://www.sideline.ca/2005/08/22/regex-for-dnn-install-file/
+disqus_url: http://blog.sideline.ca/2005/08/22/regex-for-dnn-install-file/
 
 <p>Building a module for DotNetNuke is fun. It gives me a chance to code that my job doesn't give me anymore. I enjoy the creative part of building a module. </p>
 <p>But I don't enjoy building the sql file. </p>

@@ -2,6 +2,6 @@
 wordpress_id: 407
 layout: post
 title: DemoCamp 6
-wordpress_url: http://www.sideline.ca/2009/03/11/democamp-6/
+disqus_url: http://blog.sideline.ca/2009/03/11/democamp-6/
 
 I'll be checking out <a href="http://www.barcampedmonton.com/2009/02/democamp-edmonton-6/">DemoCamp 6</a> tonight at the University.  Hope to see you there.

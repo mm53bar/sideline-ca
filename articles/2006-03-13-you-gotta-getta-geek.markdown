@@ -2,7 +2,7 @@
 wordpress_id: 234
 layout: post
 title: You gotta getta geek
-wordpress_url: http://www.sideline.ca/2006/03/13/you-gotta-getta-geek/
+disqus_url: http://blog.sideline.ca/2006/03/13/you-gotta-getta-geek/
 
 <p>I'm amazed at <a href="http://www.telusgeomatics.com/">TG</a> sometimes how many times I'll get invited to a meeting on a 'new' project only to find out that this project has been floating around for a few weeks and the only reason that I'm there is to give some numbers.  Specifically, HowMuch and HowSoon.</p>
 <p>What drives me nuts is that I usually only need to see one paragraph on this project (and that's usually all there is at this point) before I know that the project has severe problems.  Maybe the security wasn't considered.  Maybe scalability is a pain.  Maybe the workflow just doesn't fit a web world very nicely.  There's always something.</p>

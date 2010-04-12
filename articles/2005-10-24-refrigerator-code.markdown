@@ -2,7 +2,7 @@
 wordpress_id: 186
 layout: post
 title: Refrigerator Code
-wordpress_url: http://www.sideline.ca/2005/10/24/refrigerator-code/
+disqus_url: http://blog.sideline.ca/2005/10/24/refrigerator-code/
 
 <blockquote>
 <p><em>I believe all code written via TDD should be the best code that I'm able to write. There's really no excuse other than laziness for leaving your code sloppy or hard to understand when it is written using TDD.<br /><br />One of my students used the phrase Refrigerator Code to describe what I was talking about. What's that' It's code that you're so proud of that you want to take it home and hang it on the refrigerator, right alongside of your children's drawings.</em></p></blockquote>

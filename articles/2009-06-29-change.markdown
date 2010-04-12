@@ -2,7 +2,7 @@
 wordpress_id: 443
 layout: post
 title: Change
-wordpress_url: http://www.sideline.ca/2009/06/29/change/
+wordpress_url: http://blog.sideline.ca/2009/06/29/change/
 
 <img class="right" title="Jenga" src="http://www.sideline.ca/images/articles/jenga.jpg" alt="Jenga" width="160" height="240" />I don't know if it's my age showing, but I find myself searching more and more for meaning in my career. I'm not interested in working meaningless jobs on large projects that aren't going anywhere. I'm tired of playing politics and dealing with bureaucratic systems that throw up artificial obstacles in the name of "due diligence". And I'm definitely finished with trying to build a team in a corporate culture that doesn't support it.
 

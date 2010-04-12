@@ -2,7 +2,7 @@
 wordpress_id: 255
 layout: post
 title: 2 hours that I will never get back
-wordpress_url: http://www.sideline.ca/2006/05/27/2-hours-that-i-will-never-get-back/
+disqus_url: http://blog.sideline.ca/2006/05/27/2-hours-that-i-will-never-get-back/
 
 <p><img alt="" hspace="10" src="http://static.flickr.com/55/153949946_129d6860d8_o.png" align="left" vspace="10" border="0" />As much as I appreciate what <a href="http://www.edmug.net/">EdmUG</a> is doing to rekindle the flame of the .Net community, they bombed out with their latest evening.  </p>
 <p><a href="http://graysmatter.codivation.com/ROD.aspx">Rod Paddock's presentation on VS.Net project templates</a> was an absolute snooze.  Maybe it was the follow-up from <a href="http://www.edmug.net/Events/PastEvents/tabid/163/Default.aspx">JP Boodhoo's great presentation on TDD</a> but I just couldn't muster any kind of interest in Rod's topic.</p>

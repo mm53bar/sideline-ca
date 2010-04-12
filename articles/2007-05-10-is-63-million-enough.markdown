@@ -2,7 +2,7 @@
 wordpress_id: 321
 layout: post
 title: Is 63 million enough?
-wordpress_url: http://www.sideline.ca/2007/05/10/is-63-million-enough/
+disqus_url: http://blog.sideline.ca/2007/05/10/is-63-million-enough/
 
 <img src="http://www.sideline.ca/images/articles/openid.png" alt="Openid Logo Square" height="100" width="100" align="left" hspace="10" vspace="10">
 <p>On my latest Rails project, I've planned on implementing <a href="http://openid.net/" title="OpenID: an actually distributed identity system">OpenID</a> as the authentication system.  It's definitely been picking up steam lately both in the <a href="http://72.14.253.104/search?q=cache:U1E1_gBCiWUJ:www.loudthinking.com/arc/000604.html+37+signals+openid&amp;hl=en&amp;ct=clnk&amp;cd=4" title="OpenID makes web identities real and appealing (Loud Thinking)">Rails community</a> and the <a href="http://kveton.com/blog/2006/12/05/openid-growing-quickly/" title="Blog by Kveton &raquo; OpenID: Growing Quickly">internet in general</a>.  The more I think about it, the more I love the idea of somebody else authenticating my users!  At the very least, it saves me from writing those "forgot your password?" pages.</p>

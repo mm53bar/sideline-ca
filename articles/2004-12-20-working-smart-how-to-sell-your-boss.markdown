@@ -2,7 +2,7 @@
 wordpress_id: 92
 layout: post
 title: "Working Smart: How to Sell Your Boss"
-wordpress_url: http://www.sideline.ca/2004/12/20/working-smart-how-to-sell-your-boss/
+disqus_url: http://blog.sideline.ca/2004/12/20/working-smart-how-to-sell-your-boss/
 
 This is a skill that I'm going to have to develop as I move into management.  I spend so much time currently trying to sell the developers on process that it's going to be tough to turn around and start selling the folks above me!
 

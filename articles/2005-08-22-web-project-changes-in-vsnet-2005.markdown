@@ -2,7 +2,7 @@
 wordpress_id: 174
 layout: post
 title: Web Project changes in VS.Net 2005
-wordpress_url: http://www.sideline.ca/2005/08/22/web-project-changes-in-vsnet-2005/
+disqus_url: http://blog.sideline.ca/2005/08/22/web-project-changes-in-vsnet-2005/
 
 Lots of good info at http://weblogs.asp.net/scottgu/archive/2005/08/21/423201.aspx for those of you that haven't heard any of this yet.  
 

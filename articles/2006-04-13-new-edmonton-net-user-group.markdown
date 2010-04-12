@@ -2,7 +2,7 @@
 wordpress_id: 239
 layout: post
 title: New Edmonton .Net User Group!
-wordpress_url: http://www.sideline.ca/2006/04/13/new-edmonton-net-user-group/
+disqus_url: http://blog.sideline.ca/2006/04/13/new-edmonton-net-user-group/
 
 <p>This is sure to make the geek news in Edmonton:</p>
 <blockquote>

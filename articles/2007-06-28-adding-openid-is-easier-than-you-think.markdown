@@ -2,7 +2,7 @@
 wordpress_id: 334
 layout: post
 title: Adding OpenID is easier than you think
-wordpress_url: http://www.sideline.ca/2007/06/28/adding-openid-is-easier-than-you-think/
+disqus_url: http://blog.sideline.ca/2007/06/28/adding-openid-is-easier-than-you-think/
 
 <img src='http://www.sideline.ca/images/articles/keys.png' alt='Keys' class='center'/>
 

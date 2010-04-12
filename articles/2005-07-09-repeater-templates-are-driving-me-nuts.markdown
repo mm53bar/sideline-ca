@@ -2,7 +2,7 @@
 wordpress_id: 163
 layout: post
 title: Repeater templates are driving me nuts!
-wordpress_url: http://www.sideline.ca/2005/07/09/repeater-templates-are-driving-me-nuts/
+disqus_url: http://blog.sideline.ca/2005/07/09/repeater-templates-are-driving-me-nuts/
 
 <p>I like having different styles in my repeater controls for the <em>itemtemplate</em> and <em>alternatingitemtemplate</em>.  It makes the data easier to read and is simply cooler.  I like using a repeater because it's not as heavy as a datagrid.  However, using a repeater is a bit of a pain for something as simple as this.</p>
 <p>The benefit of a repeater is you don't have to manage columns like you do with a datagrid.  It's just free-form HTML that gets dumped into the page as the repeater is databound to some data.  It gives me a lovely spaghetti-like feeling from my old ASP days (just imagining those beautiful days of response.write loops gives me a warm fuzzy feeling'.aaahhh).  Now we all know that spaghetti makes a mess and this is no exception.  In order to change the style for your <em>alternatingitemtemplate</em>, you need to duplicate all of your HTML code from the <em>itemtemplate</em> and then make a simple little change to your row colour.</p>

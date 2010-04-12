@@ -2,7 +2,7 @@
 wordpress_id: 210
 layout: post
 title: GishPuppy and BugMeNot
-wordpress_url: http://www.sideline.ca/2005/11/22/gishpuppy-and-bugmenot/
+disqus_url: http://blog.sideline.ca/2005/11/22/gishpuppy-and-bugmenot/
 
 <p>I've got two new toys in my web browsing tickle trunk: <a href="http://www.gishpuppy.com/">GishPuppy</a> and <a href="http://www.bugmenot.com/">BugMeNot</a>. </p>
 <p><img src="http://www.bugmenot.com/buttons/bugmenot_01.gif" align="right" border="0" hspace="10" vspace="10" />BugMeNot

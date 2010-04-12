@@ -2,7 +2,7 @@
 wordpress_id: 243
 layout: post
 title: I&#8217;m a Certified ScrumMaster
-wordpress_url: http://www.sideline.ca/2006/04/22/im-a-certified-scrummaster/
+disqus_url: http://blog.sideline.ca/2006/04/22/im-a-certified-scrummaster/
 
 <p>I recently attended a <a href="http://www.controlchaos.com/certification/">ScrumMaster certification</a> course here in town and have become a certified ScrumMaster.  I've been looking at implementing some type of <a href="http://en.wikipedia.org/wiki/Agile_software_development">Agile techniques</a> for a while and finally decided to focus on <a href="http://www.controlchaos.com/">Scrum</a>.</p>
 <p>All Agile methodologies have the same basic idea:  customers don't know what the hell they want so there's no point busting your ass by creating a huge requirements doc at the beginning of the project.  Contrary to <a href="http://www.joelonsoftware.com/articles/AardvarkSpec.html">Joel's ideas</a>, <a href="http://en.wikipedia.org/wiki/Big_Design_Up_Front">Big Design Up Front</a> (BDUF) usually guarantees that your project will fail.  Most <a href="http://www.waterfall2006.com/">waterfall</a> projects use BDUF and try to manage change by implementing a rigorous <a href="http://en.wikipedia.org/wiki/Change_request">change request</a> process.  Agilists argue that while this can help control the chaos, it doesn't make the client happy and usually ends up forcing them into accepting a product that they don't really like.</p>

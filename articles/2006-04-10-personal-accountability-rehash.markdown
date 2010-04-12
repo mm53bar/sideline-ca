@@ -2,7 +2,7 @@
 wordpress_id: 238
 layout: post
 title: Personal Accountability Rehash
-wordpress_url: http://www.sideline.ca/2006/04/10/personal-accountability-rehash/
+disqus_url: http://blog.sideline.ca/2006/04/10/personal-accountability-rehash/
 
 <p>I can't believe that it's almost been 6 months since I had a small post on <a href="http://blogs.sideline.ca/archive/2005/10/25/Whatsyourpersonalaccountabilityonyourteam.aspx">personal accountability</a>.  In that time, I've had lots of chances to see good examples and poor examples.</p>
 <p>I was waiting at the sidewalk this morning to take the crosswalk.  As the light changed to allow pedestrians across, two vehicles were stuck in the crosswalk.  </p>

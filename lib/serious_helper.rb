@@ -7,9 +7,7 @@ class Serious
   end
   
   class Article
-    def [] *args
-      yaml[*args]
-    end
+
   
     def article_paths
       @article_paths ||= Dir[File.join('pages', '*')].sort

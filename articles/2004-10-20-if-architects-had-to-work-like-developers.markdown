@@ -2,7 +2,7 @@
 wordpress_id: 70
 layout: post
 title: If architects had to work like developers
-wordpress_url: http://www.sideline.ca/2004/10/20/if-architects-had-to-work-like-developers/
+disqus_url: http://blog.sideline.ca/2004/10/20/if-architects-had-to-work-like-developers/
 
 This was originally [If Architects had to work like Designers](http://twasink.net/blog/archives/2004/10/if_architects_h.html), but it certainly applies to developers as well!
 

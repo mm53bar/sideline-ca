@@ -2,7 +2,7 @@
 wordpress_id: 547
 layout: post
 title: Been doing some Wordpress work
-wordpress_url: http://www.sideline.ca/2009/09/21/been-doing-some-wordpress-work/
+disqus_url: http://blog.sideline.ca/2009/09/21/been-doing-some-wordpress-work/
 
 I've been playing a lot with Wordpress recently.  I touched up the Arthemia theme on the [Agile Edmonton](http://www.agileedmonton.org) site, moved [my site](http://www.sideline.ca) from the Copyblogger theme to the [Vigilance theme](http://themes.jestro.com/vigilance/), [customized](http://github.com/mm53bar/vigilance) the Vigilance theme a bit and then wrote up a couple of [widget](http://github.com/mm53bar/wp-sideline-recent-posts) [plugins](http://github.com/mm53bar/wp-sideline-annual-archives) for my sidebar.
 

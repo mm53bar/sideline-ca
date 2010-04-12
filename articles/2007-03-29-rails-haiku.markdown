@@ -2,7 +2,7 @@
 wordpress_id: 294
 layout: post
 title: Rails Haiku
-wordpress_url: http://www.sideline.ca/2007/03/29/rails-haiku/
+disqus_url: http://blog.sideline.ca/2007/03/29/rails-haiku/
 
 This is awesome.  How many languages actually have a readable syntax that allows you to create <a href="http://en.wikipedia.org/wiki/Haiku">Haiku</a> with them?
 

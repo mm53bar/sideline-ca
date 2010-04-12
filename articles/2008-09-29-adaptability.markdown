@@ -2,7 +2,7 @@
 wordpress_id: 347
 layout: post
 title: Adaptability
-wordpress_url: http://www.sideline.ca/2008/09/29/adaptability/
+disqus_url: http://blog.sideline.ca/2008/09/29/adaptability/
 
 <p>One part of Agile that most people miss when they first start is that there is a large focus on adaptability.  New agilists get all tangled up in following the ceremony that they miss the underlying idea.  This leads to teams that blindly follow the process without gaining an understanding of how or why it works.</p>
 

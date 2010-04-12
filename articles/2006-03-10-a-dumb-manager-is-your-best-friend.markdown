@@ -2,7 +2,7 @@
 wordpress_id: 232
 layout: post
 title: A Dumb Manager is your best friend
-wordpress_url: http://www.sideline.ca/2006/03/10/a-dumb-manager-is-your-best-friend/
+disqus_url: http://blog.sideline.ca/2006/03/10/a-dumb-manager-is-your-best-friend/
 
 <p>OK'now that I've drilled the <a href="http://www.sideline.ca/2006/03/02/sure-youre-lazy-and-dumb-but-what-about-incompetent-and-forgetful">Lazy Manager</a> into your over-stuffed brains, I want to introduce you to a new friend ' the Dumb Manager.</p>
 <p>Similar to the <a href="http://blog.outer-court.com/archive/2005-08-24-n14.html">dumb programmer</a>, the dumb manager must admit that she doesn't know everything so that she'll continue to learn and question her work.  As a software development manager, the Dumb Manager is in a tough position.  She can't become an expert in every technical subject under the sun, but she has to be able to evaluate skillsets that pertain to every technical subject under the sun.  She has to recommend developers for different jobs even though she may have never performed the job herself.  She has to talk intelligently about technical applications even though she hasn't seen a single line of code that made up the application.</p>

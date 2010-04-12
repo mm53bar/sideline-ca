@@ -2,7 +2,7 @@
 wordpress_id: 249
 layout: post
 title: Google Reader doesn&#8217;t cut it&#8230;yet
-wordpress_url: http://www.sideline.ca/2006/05/15/google-reader-doesnt-cut-ityet/
+disqus_url: http://blog.sideline.ca/2006/05/15/google-reader-doesnt-cut-ityet/
 
 <p><img alt="" hspace="10" src="http://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Google_Reader_(logo).PNG/120px-Google_Reader_(logo).PNG" align="left" vspace="10" border="0" />I just tried converting over to <a href="http://www.google.com/url'sa=l&amp;amp;ai=Bnw5Ohv9oRP_GGKGyogKR26wosvqXDMae2vsBlcH9BZBOCAAQARgBQMwQSJU5UNqT_uAFmAHnc6oBBDJHTUzIAQGVAgbeSAo&amp;amp;q=http://reader.google.com">Google Reader</a> over the weekend and I've got to say that it just doesn't cut it for my needs.  But it's pretty damn close.</p>
 <p>One of the items that I need is an ability to easily mark multiple posts as read.  I subscribe to a couple of hundred feeds so I will sometimes just read my favourite feeds and mark the rest as read in order to stay up to date on them.  There is no way in Google Reader to mark posts as read without actually reading them.  This is a bit of a pain.  An extreme example of this pain is when you first import your OPML and all of your feeds are marked as unread.</p>

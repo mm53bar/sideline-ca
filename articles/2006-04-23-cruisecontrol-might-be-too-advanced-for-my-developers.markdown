@@ -2,7 +2,7 @@
 wordpress_id: 246
 layout: post
 title: CruiseControl might be too advanced for my developers
-wordpress_url: http://www.sideline.ca/2006/04/23/cruisecontrol-might-be-too-advanced-for-my-developers/
+disqus_url: http://blog.sideline.ca/2006/04/23/cruisecontrol-might-be-too-advanced-for-my-developers/
 
 <p><img height="260" alt="" hspace="10" src="http://a876.g.akamai.net/7/876/1448/v00001/images.webmd.com/images/hw/media68/medical/hw/n1706.jpg" width="367" align="left" vspace="10" border="0" />Did that title catch your attention'  I'm guessing that it did because everyone knows that <a href="http://confluence.public.thoughtworks.org/display/CCNET/Welcome+to+CruiseControl.NET">CruiseControl</a> is a pretty simple app.  Folks also know that using CruiseControl will help your development process.  Right'</p>
 <p>Maybe.  And I say 'maybe' even though my development team at <a title="TG - Where I work" href="http://www.telusgeomatics.com">TG</a> uses CruiseControl.  The problem is that we adopted CruiseControl as our <a href="http://confluence.public.thoughtworks.org/display/CCNET/What+is+Continuous+Integration">continuous integration</a> (CI) app without investing time and effort in discovering the reasons to use it.  And then we wonder why we're having problems.  It's not hard to figure out where the problem is once we accept the fact that we simply waving sticks on the runway like the rest of the <a href="http://en.wikipedia.org/wiki/Cargo_cult#History">Cargo Cult</a> crowd.</p>

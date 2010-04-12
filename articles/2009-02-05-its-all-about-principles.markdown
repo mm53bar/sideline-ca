@@ -2,7 +2,7 @@
 wordpress_id: 351
 layout: post
 title: It's all about principles!
-wordpress_url: http://www.sideline.ca/2009/02/05/its-all-about-principles/
+disqus_url: http://blog.sideline.ca/2009/02/05/its-all-about-principles/
 
 I've been listening to the <a href="http://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307353133">4-Hour Workweek</a> audiobook lately and absolutely loved this quote:
 

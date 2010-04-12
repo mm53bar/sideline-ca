@@ -2,7 +2,7 @@
 wordpress_id: 237
 layout: post
 title: I need to be more incompetent
-wordpress_url: http://www.sideline.ca/2006/04/10/i-need-to-be-more-incompetent/
+disqus_url: http://blog.sideline.ca/2006/04/10/i-need-to-be-more-incompetent/
 
 <p>The last two weeks have been a perfect example of how hard it is to be a <a href="http://blogs.sideline.ca/archive/2006/03/02/Lazymanagersaregood.aspx">Lazy manager</a>.  </p>
 <p>I've been hard at work porting over an old VB6 app to VB.Net.  Along the way, I've done my best to <a href="http://www.agilemodeling.com/essays/enterpriseModelingAntiPatterns.htm#Goldplating">goldplate</a> the application:  I've created a plugin framework using the Strategy pattern and I've implemented Model-View-Presenter to the best of my ability.  All in all, it's been a fun little project.</p>

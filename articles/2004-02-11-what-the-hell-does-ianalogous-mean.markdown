@@ -2,7 +2,7 @@
 wordpress_id: 9
 layout: post
 title: What the hell does IAnalogous mean?
-wordpress_url: http://www.sideline.ca/2004/02/11/what-the-hell-does-ianalogous-mean/
+disqus_url: http://blog.sideline.ca/2004/02/11/what-the-hell-does-ianalogous-mean/
 
 Well, I'll admit that I'm trying to be cool by naming my blog after some sort of fictitious interface.
 

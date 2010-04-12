@@ -2,7 +2,7 @@
 wordpress_id: 157
 layout: post
 title: I should know better
-wordpress_url: http://www.sideline.ca/2005/06/29/i-should-know-better/
+disqus_url: http://blog.sideline.ca/2005/06/29/i-should-know-better/
 
 <p>Over the last year at work, my development team has had a lot of success in implementing new tools.  It's hard to imagine life at work now without our daily builds in <a href="http://cruisecontrol.sourceforge.net/">CruiseControl</a>, <a href="http://nant.sourceforge.net/">NAnt</a>, <a href="http://ndoc.sourceforge.net/">NDoc</a>, <a href="http://www.gotdotnet.com/team/fxcop/">FXCop</a>, and the occasional <a href="http://www.nunit.org/">NUnit</a> (or <a href="http://codebetter.com/blogs/darrell.norton/articles/50337.aspx">TDD</a>) test.  Hell, even VSS is pretty new to us!</p>
 <p>In the interviews that I hold with new applicants, I ask them if they've worked with any of these tools.  The experience varies, but all of them except for source control seem to be new to most interviewees.</p>

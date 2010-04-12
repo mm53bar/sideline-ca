@@ -2,7 +2,7 @@
 wordpress_id: 464
 layout: post
 title: What do you get for $24 billion?
-wordpress_url: http://www.sideline.ca/2009/07/09/what-do-you-get-for-24-billion/
+disqus_url: http://blog.sideline.ca/2009/07/09/what-do-you-get-for-24-billion/
 
 From [the UK Guardian](http://www.guardian.co.uk/society/2009/jul/09/nhs-computer-programme-failure):
 

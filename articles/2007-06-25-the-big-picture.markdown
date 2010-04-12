@@ -2,7 +2,7 @@
 wordpress_id: 330
 layout: post
 title: The Big Picture
-wordpress_url: http://www.sideline.ca/2007/06/25/the-big-picture/
+disqus_url: http://blog.sideline.ca/2007/06/25/the-big-picture/
 
 <img src='http://www.sideline.ca/images/articles/planning.png' alt='Planning' / class="left">
 <h3>Looking back</h3>

@@ -2,7 +2,7 @@
 wordpress_id: 219
 layout: post
 title: Web Applications vs. Web Sites
-wordpress_url: http://www.sideline.ca/2006/01/07/web-applications-vs-web-sites/
+disqus_url: http://blog.sideline.ca/2006/01/07/web-applications-vs-web-sites/
 
 <p>IglooCoder is getting tenacious.  In <a href="http://igloocoder.com/archive/2006/01/06/149.aspx">his latest article</a>, he references <a href="http://www.codinghorror.com/blog/archives/000480.html">a post from Coding Horror</a> that attempts to vilify Web 2.0 by trotting out Jakob Nielsen and his ubiquitous list of web design mistakes.</p>
 <p>While I agree that Web 2.0 might not be the best name and the marketing behind it is driven by a bunch of profit-hungry jackals that are looking to start the next dot-com craze, the moniker is definitely drawing a line between a web site and a web <em>application</em>.</p>

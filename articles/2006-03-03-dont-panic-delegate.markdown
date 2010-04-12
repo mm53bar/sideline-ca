@@ -2,7 +2,7 @@
 wordpress_id: 227
 layout: post
 title: Don&#8217;t panic, delegate
-wordpress_url: http://www.sideline.ca/2006/03/03/dont-panic-delegate/
+disqus_url: http://blog.sideline.ca/2006/03/03/dont-panic-delegate/
 
 <p>It might be coincidental timing, but the National Post recently ran a story entitled <a href="http://www.canada.com/nationalpost/news/story.html'id=657c85ca-a8dc-4e18-98e6-1461f556e927">Don't panic, delegate</a>.  The article talks about using delegation as a way to survive in today's world of increasing responsibility and accountability.</p>
 <p>What I really liked about the article was how it illustrated the problems that you'll create if you don't delegate.  Specifically:</p>

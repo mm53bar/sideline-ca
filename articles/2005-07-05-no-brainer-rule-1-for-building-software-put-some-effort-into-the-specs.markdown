@@ -2,7 +2,7 @@
 wordpress_id: 162
 layout: post
 title: "No Brainer Rule #1 for Building Software:  Put some effort into the specs"
-wordpress_url: http://www.sideline.ca/2005/07/05/no-brainer-rule-1-for-building-software-put-some-effort-into-the-specs/
+disqus_url: http://blog.sideline.ca/2005/07/05/no-brainer-rule-1-for-building-software-put-some-effort-into-the-specs/
 
 A new blog that looks to host some interesting content.  Judging from Rob's post categories, it looks like he's still caught in the limbo between becoming a better developer and managing developers.  It's good to see posts from <a href="http://www.nerdherding.net/">more of these types of folks!</a>  Now if only I could get the <a href="http://www.catb.org/~esr/jargon/html/I/idiot.html">id-ten-t</a>'s at work to read this! 
 <p><em>New Article: Bad Specs Hazardous to Productivity:</em> </p>
