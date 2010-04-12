@@ -2,7 +2,7 @@
 wordpress_id: 483
 layout: post
 title: How to Cope with Interview Fatigue
-wordpress_url: http://www.sideline.ca/?p=483
+wordpress_url: http://www.sideline.ca/2009/09/05/how-to-cope-with-interview-fatigue/
 
 Let's start with a definition.  I've decided to build on an existing definition of mental fatigue.
 

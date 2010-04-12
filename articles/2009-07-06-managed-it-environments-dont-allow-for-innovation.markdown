@@ -2,7 +2,7 @@
 wordpress_id: 454
 layout: post
 title: Managed IT environments don't allow for innovation
-wordpress_url: http://www.sideline.ca/?p=454
+wordpress_url: http://www.sideline.ca/2009/07/06/managed-it-environments-dont-allow-for-innovation/
 
 Steve Boese on the [standardized environments that IT groups create](http://steveboese.squarespace.com/journal/2009/7/3/be-innovative-but-only-with-the-tools-we-give-you.html):
 > It is pretty easy for the IT folks to calculate how PC support costs are kept 'in-line' by enforcing a strict set of standards.  It is also fairly simple to determine the costs to the company if a malicious computer virus infected the network and rendered all the computers inoperable for a period of time.

@@ -2,7 +2,7 @@
 wordpress_id: 413
 layout: post
 title: Starting a podcast
-wordpress_url: http://www.sideline.ca/?p=413
+wordpress_url: http://www.sideline.ca/2009/03/13/starting-a-podcast/
 
 <p class="center caption">
 <img title="microphone" src="http://www.sideline.ca/images/articles/microphone.jpg" alt="Microphone" width="500" height="333" />

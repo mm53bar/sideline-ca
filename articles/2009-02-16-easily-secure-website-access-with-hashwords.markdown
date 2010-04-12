@@ -2,7 +2,7 @@
 wordpress_id: 378
 layout: post
 title: Easily secure website access with Hashwords
-wordpress_url: http://www.sideline.ca/?p=378
+wordpress_url: http://www.sideline.ca/2009/02/16/easily-secure-website-access-with-hashwords/
 
 <p class="center caption"><img title="key" src="http://www.sideline.ca/images/articles/key.jpg" alt="key" width="500" height="375" /><span>Photo by <a href="http://flickr.com/photos/rattodisabina/2460905893/">Mirko Macari</a></span></p>
 

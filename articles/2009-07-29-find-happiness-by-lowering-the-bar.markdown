@@ -2,7 +2,7 @@
 wordpress_id: 469
 layout: post
 title: Find Happiness by Lowering the Bar
-wordpress_url: http://www.sideline.ca/?p=469
+wordpress_url: http://www.sideline.ca/2009/07/29/find-happiness-by-lowering-the-bar/
 
 Maybe this aligns more with the way I'm thinking these days or maybe it's just a byproduct of our current economic times, but there seem to be more people talking about lowering the bar on expectations as a means of increasing happiness.
 

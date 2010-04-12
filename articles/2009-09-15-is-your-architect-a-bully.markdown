@@ -2,7 +2,7 @@
 wordpress_id: 498
 layout: post
 title: Is Your Architect a Bully?
-wordpress_url: http://www.sideline.ca/?p=498
+wordpress_url: http://www.sideline.ca/2009/09/15/is-your-architect-a-bully/
 
 There's nothing worse than working with an architect who is more concerned with developers following his plan than he is with allowing his plan to evolve.  On the flip side, there's nothing much better than working with an architect that is actively engaged with the team and helping to determine the solution.  
 
