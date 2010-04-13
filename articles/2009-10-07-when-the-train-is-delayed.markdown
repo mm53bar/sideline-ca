@@ -3,6 +3,7 @@ wordpress_id: 553
 layout: post
 title: When the Train is Delayed
 date: 2009/10/07
+disqus_url: http://blog.sideline.ca/2009/10/07/when-the-train-is-delayed/
 
 Every time I go to the zoo with my kids, we have a different experience.  
 

@@ -3,6 +3,7 @@ wordpress_id: 552
 layout: post
 title: Get a Professional Email Address
 date: 2009/09/30
+disqus_url: http://blog.sideline.ca/2009/09/30/get-a-professional-email-address/
 
 Every company has a website these days, right?  After all, websites are a relatively cheap way to extend your brand and  make a lot of information available to potential customers.
 
