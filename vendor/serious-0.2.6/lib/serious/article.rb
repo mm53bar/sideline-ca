@@ -39,7 +39,7 @@ class Serious::Article
     
       # Returns all article files in articles path
       def article_paths
-        @article_paths ||= Dir[File.join(Serious.articles, '*')].sort.reverse
+        @article_paths ||= Dir.glob(File.join(Serious.articles, '**/*.*')).sort_by { |f| File.basename(f) }.reverse
       end
   end
   
@@ -81,6 +81,14 @@ class Serious::Article
   # url combined with Serious.url
   def full_url
     @full_url ||= File.join(Serious.url, url)
+  end
+  
+  def path
+    @path
+  end
+  
+  def category
+    File.basename(File.dirname(@path)).capitalize
   end
   
   # returns any other yaml entries
