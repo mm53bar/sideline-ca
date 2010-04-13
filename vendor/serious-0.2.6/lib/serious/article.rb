@@ -28,6 +28,10 @@ class Serious::Article
       articles = article_paths.select {|path| File.basename(path) =~ /#{args.join('-')}/i }.map {|path| new(path) }
     end
     
+    def find_by_category(category)
+      articles = article_paths.select {|path| File.basename(File.dirname(path)).downcase == category.downcase}.map { |path| new(path) }  
+    end
+    
     #
     # Find the article for given arguments (same as find), but returns only the first one
     #

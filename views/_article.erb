@@ -18,7 +18,7 @@
     <% end %>
   </div>
   <div class="footer">
-    <p>from <a href="/articles"><%= article.category %></a></p>
+    <p>from <a href="/categories/<%= article.category %>"><%= article.category %></a></p>
   </div>
   <% unless summary_only %>
     <% if article['disqus_url'] %>
