@@ -44,8 +44,6 @@ class Serious < Sinatra::Base
 
   # Index page
   get '/' do
-    @recent = Article.all(:limit => Serious.items_on_index)
-    @archived = Article.all(:limit => Serious.archived_on_index, :offset => Serious.items_on_index)
     erb :index
   end
   
@@ -68,6 +66,11 @@ class Serious < Sinatra::Base
     erb :archives
   end
   
+  get '/articles' do    
+    @recent = Article.all(:limit => Serious.items_on_index)
+    erb :articles
+  end
+    
   get "/archives" do
     @articles = Article.all
     @title = "Archives"
