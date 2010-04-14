@@ -336,14 +336,14 @@ blockquote {
   background: url(/images/theme/list-item.gif) no-repeat 0 6px;
 }
 #sidebar div ul li a:hover { background-position: 0 -136px; }
-/*RSS Box
+/*Subscription Box
 ---------------------------------------*/
-#rss-feed  { padding-top: 10px; }
-#rss-feed p {
+#subscriptions  { padding-top: 10px; }
+#subscriptions p {
   font-size: 1.3em;
   line-height: 1.6em;
 }
-#rss-feed a.rss, #rss-feed a.email, #rss-feed a.twitter {
+#subscriptions a {
   float: left;
   font-size: 1.3em;
   margin: 10px 10px 0 0;
@@ -351,11 +351,20 @@ blockquote {
   padding: 0 0 0 19px;
   background: url(/images/theme/feed-icon.png) no-repeat 0 .25em;
 }
-#rss-feed a.email {
+#subscriptions a.mailfeed {
+  background: url(/images/theme/mailfeed-icon.png) no-repeat 0 .25em;
+}
+#subscriptions a.email {
   padding: 0 0 0 25px;
   background: url(/images/theme/mail-icon.png) no-repeat 0 .4em;
 }
-#rss-feed a.twitter { 
+#subscriptions a.linkedin {
+  background: url(/images/theme/linkedin-icon.png) no-repeat 0 .25em;
+}
+#subscriptions a.google {
+  background: url(/images/theme/google-icon.png) no-repeat 0 .25em;	
+}
+#subscriptions a.twitter { 
   margin-right: 0;
   padding-left: 19px; 
   background: url(/images/theme/twitter-icon.png) no-repeat 0 .15em; 
