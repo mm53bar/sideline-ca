@@ -44,7 +44,7 @@ namespace :article do
       article_date = Date.today
     end
     
-    filename = "#{article_date}-#{title.slugize}.txt"
+    filename = "#{article_date}-#{title.slugize}.#{Serious.extension}"
     File.open(File.join(Serious.articles, filename), "w") do |article|
       article.puts "title: #{title}", ""
       article.puts "Summary here", "~", "Body here"

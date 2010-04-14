@@ -112,4 +112,4 @@ Serious.set :date_format, "%B %o %Y"
 Serious.set :disqus, false
 Serious.set :google_analytics, false
 Serious.set :feed_url, '/atom.xml'
-
+Serious.set :extension, 'txt'
