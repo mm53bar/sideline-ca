@@ -91,7 +91,13 @@ class Serious < Sinatra::Base
     @title = "Pages"
     erb :archives
   end
-  
+
+  get "*" do
+    @page = Page.find(File.join(params[:splat]))
+    raise Sinatra::NotFound if @page.nil?
+    render_page @page
+  end
+    
   get "/pages/:page" do
     halt 404 unless @page = Page.find(params[:page])
     render_page @page

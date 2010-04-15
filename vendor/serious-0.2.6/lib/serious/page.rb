@@ -8,7 +8,7 @@ class Serious::Page < Serious::Article
     end
     
     def find(permalink)
-      all.find_all {|page| page.permalink == permalink }.first
+      all.find_all {|page| page.permalink == File.basename(permalink) }.first
     end
     
     private
