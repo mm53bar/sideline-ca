@@ -6,9 +6,15 @@ xml.urlset :xmlns => "http://www.sitemaps.org/schemas/sitemap/0.9" do
     xml.priority "1.0"
     xml.lastmod @last.xmlschema
   end
+  @pages.each do |page|
+    xml.url do
+      xml.loc page.full_url
+      xml.lastmod page.last_modified.xmlschema
+    end
+  end  
   @articles.each do |article|
     xml.url do
-      xml.loc File.join(Serious.url, article.url)
+      xml.loc article.full_url
       xml.lastmod article.last_modified.xmlschema
     end
   end

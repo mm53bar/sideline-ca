@@ -55,6 +55,7 @@ class Serious < Sinatra::Base
   get "/sitemap.xml" do
     content_type :xml, :charset => "utf-8"
     @articles = Article.all
+    @pages = Page.all
     @last = @articles.map { |article| article.last_modified }.inject do |latest, article|
       (article > latest) ? article : latest
     end

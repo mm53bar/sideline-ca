@@ -20,7 +20,7 @@ class Serious::Page < Serious::Article
   end
   
   def url
-    "/pages/#{permalink}"
+    "/#{permalink}"
   end
   
   private
