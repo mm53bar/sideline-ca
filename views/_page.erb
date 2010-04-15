@@ -1,4 +1,4 @@
-<% @page_type ||= 'page' %>
+<% @page_type ||= "#{page.title.downcase}" %>
 <div class="article">
   <div class="header">
     <h2><a href="<%= page.url %>" rel="bookmark" title="Permanent Link to <%= page.title %>"><%= page.title %></a></h2>

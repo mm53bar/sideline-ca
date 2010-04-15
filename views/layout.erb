@@ -11,17 +11,18 @@
   <body id="<%= @page_type if @page_type %>">
   <div id="wrapper" class="row">
     <div id="header" class="row clear">
-      <div id="tagline" class="column grid_9">
+      <div id="tagline" class="column grid_8">
         <h1 id="title"><a href="/">Sideline</a></h1>
       <% unless @page_type == 'home' %>
         <h2><%= Serious.tagline %></h2>
       <% end %>
       </div>
-      <div id="nav" class="column grid_3">
+      <div id="nav" class="column grid_4">
         <ul>
           <li class="home"><a href="/">Home</a></li>
           <li class="articles"><a href="/articles">Articles</a></li>
           <li class="archives"><a href="/archives">Archives</a></li>
+          <li class="about"><a href="/pages/about">About</a></li>
         </ul>
       </div>
     </div>

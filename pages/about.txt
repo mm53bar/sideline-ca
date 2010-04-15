@@ -1,7 +1,6 @@
 title: About
 
-<% @page_type = 'about' %>
-Something about you
+
 
 #Resources used on this site#
 
