@@ -52,6 +52,15 @@ class Serious < Sinatra::Base
     builder :atom
   end
   
+  get "/sitemap.xml" do
+    content_type :xml, :charset => "utf-8"
+    @articles = Article.all
+    @last = @articles.map { |article| article.last_modified }.inject do |latest, article|
+      (article > latest) ? article : latest
+    end
+     builder :sitemap
+  end
+    
   # Specific article route
   get %r{^/(\d{4})/(\d{1,2})/(\d{1,2})/([^\\]+)} do
     halt 404 unless @article = Article.first(*params[:captures])

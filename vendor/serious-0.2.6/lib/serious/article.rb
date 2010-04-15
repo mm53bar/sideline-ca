@@ -95,6 +95,10 @@ class Serious::Article
     File.basename(File.dirname(@path)).capitalize
   end
   
+  def last_modified
+    @last_modified ||= File.stat(@path).mtime
+  end
+    
   # returns any other yaml entries
   def [] *args
     yaml[*args]
