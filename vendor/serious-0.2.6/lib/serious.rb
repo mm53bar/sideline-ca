@@ -97,17 +97,6 @@ class Serious < Sinatra::Base
     raise Sinatra::NotFound if @page.nil?
     render_page @page
   end
-    
-  get "/pages/:page" do
-    halt 404 unless @page = Page.find(params[:page])
-    render_page @page
-  end
-  
-  get "/categories/:category" do
-    halt 404 unless @articles = Article.find_by_category(params[:category])
-    @category = params[:category].capitalize
-    erb :archives
-  end
 end
 
 require 'serious/article'
