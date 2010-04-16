@@ -43,7 +43,7 @@ class Serious::Article
     
       # Returns all article files in articles path
       def article_paths
-        @article_paths ||= Dir.glob(File.join(Serious.articles, "**/*.#{Sinatra::Application.environment == :production ? Serious.extension : '*'}")).sort_by { |f| File.basename(f) }.reverse
+        @article_paths ||= Dir.glob(File.join(Serious.articles, "**/*.#{Serious.extension}#{Sinatra::Application.environment == :production ? '' : '*'}")).sort_by { |f| File.basename(f) }.reverse
       end
   end
   
