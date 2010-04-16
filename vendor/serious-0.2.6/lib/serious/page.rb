@@ -10,15 +10,19 @@ class Serious::Page < Serious::Article
     def find(permalink)
       all.find_all {|page| page.permalink == File.basename(permalink) }.first
     end
-    
+            
     private
     
       # Returns all page files in pages path
       def page_paths
-        @pages_paths ||= Dir[File.join(Serious.pages, '*')].sort
+        @pages_paths ||= Dir[File.join(Serious.pages, "*.#{Sinatra::Application.environment == :production ? Serious.extension : '*'}")].sort
       end
   end
-  
+
+  def articles
+    @articles = Serious::Article.find_by_category(permalink)
+  end
+    
   def url
     "/#{permalink}"
   end

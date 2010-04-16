@@ -92,7 +92,7 @@ class Serious::Article
   end
   
   def category
-    File.basename(File.dirname(@path)).capitalize
+    @category ||= File.basename(File.dirname(@path)).capitalize
   end
   
   def last_modified

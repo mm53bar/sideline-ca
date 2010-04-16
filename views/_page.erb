@@ -7,3 +7,13 @@
     <%= page.body.formatted %>
   </div>
 </div>
+<% unless page.articles.empty? %>
+<div class="archives">
+  <h2>Articles</h2>
+  <ul>
+  <% page.articles.each do |article| %>
+    <%= render_archive article %>
+  <% end %>
+  </ul>
+</div>
+<% end %>

@@ -215,19 +215,19 @@ blockquote {
   color: #141310;
   background: #e7e6e2 url(/images/theme/blockquote.gif) no-repeat top left;
 }
-.article ul, .c-body ul { margin: 0 0 10px 10px; }
-.article ul li, .c-body ul li {
+.article ul { margin: 0 0 10px 10px; }
+.article ul li {
   display: block;
   margin: 5px 0 0 0;
   padding: 0 0 0 17px;
   background: url(/images/theme/list-star.gif) no-repeat 0 .3em;
 }
-.article ol, .c-body ol { margin: 0 0 15px 30px; }
-.article ol li ol li, .c-body ol li ol li { 
+.article ol { margin: 0 0 15px 30px; }
+.article ol li ol li { 
   font-size: .9em;
   list-style-type: lower-roman; 
 }
-.article ol li, .c-body ol li { 
+.article ol li { 
   margin: 10px 0 0 0; 
   list-style-type: decimal;
   list-style-position: outside;
