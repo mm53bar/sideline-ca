@@ -1,5 +1,9 @@
 <% @page_type ||= 'archives' %>
 <div class="archives">
   <h2><%= @title %></h2>
-  <%= render_archived @articles %>
+  <ul>
+  <% @articles.each do |article| %>
+    <%= render_archive article %>
+  <% end %>
+  </ul>
 </div>

@@ -25,8 +25,8 @@ class Serious < Sinatra::Base
   
   helpers do
     # Helper for rendering partial _archives
-    def render_archived(articles)
-      render :erb, :'_archives', :locals => { :articles => articles }, :layout => false
+    def render_archive(article)
+      render :erb, :'_archive', :locals => { :article => article }, :layout => false
     end
     
     def render_article(article, summary_only=false)
@@ -77,7 +77,7 @@ class Serious < Sinatra::Base
   end
   
   get '/articles' do    
-    @recent = Article.all(:limit => Serious.items_on_index)
+    @articles = Article.all(:limit => Serious.items_on_index)
     erb :articles
   end
     

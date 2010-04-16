@@ -1,7 +1,7 @@
 <% @page_type = 'articles' %>
 
 <div id="articles">
-  <% @recent.each do |article| %>
+  <% @articles.each do |article| %>
     <%= render_article article, true %>
   <% end %>
 </div>
