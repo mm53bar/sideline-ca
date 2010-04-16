@@ -18,7 +18,10 @@
     <% end %>
   </div>
   <div class="footer">
-    <p>from <a href="/<%= article.category.downcase %>"><%= article.category %></a></p>
+    <p class="category">from <a href="/<%= article.category.downcase %>"><%= article.category %></a></p>
+    <% unless summary_only %>  
+    <div class="description">I'm Michael McClenaghan and I'm responsible for everything on this site. You're reading <em>Sideline</em>, a site that documents my journey in software development over the past few years. I spend my time consulting with organizations that want to get better at developing software. While most people think I'm crazy, I seriously get my kicks helping software teams in chaos. It's all worth it when you see happy users.</div>
+    <% end %>
   </div>
   <% unless summary_only %>
     <% if article['disqus_url'] %>
