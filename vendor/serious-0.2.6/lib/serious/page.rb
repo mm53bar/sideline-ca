@@ -15,7 +15,7 @@ class Serious::Page < Serious::Article
     
       # Returns all page files in pages path
       def page_paths
-        @pages_paths ||= Dir[File.join(Serious.pages, "*.#{Sinatra::Application.environment == :production ? Serious.extension : '*'}")].sort
+        @pages_paths ||= Dir[File.join(Serious.pages, "*.#{Serious.extension}#{Sinatra::Application.environment == :production ? '' : '*'}")].sort
       end
   end
 
@@ -31,6 +31,6 @@ class Serious::Page < Serious::Article
   
     # Will extract the permalink from the filename.
     def extract_date_and_permalink!
-      @permalink = File.basename(path).split('.')[0...-1].join("")
+      @permalink = File.basename(path).split('.')[0]
     end
 end
