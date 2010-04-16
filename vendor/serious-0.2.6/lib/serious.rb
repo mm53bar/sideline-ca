@@ -86,12 +86,6 @@ class Serious < Sinatra::Base
     @title = "Archives"
     erb :archives
   end
-  
-  get "/pages" do
-    @articles = Page.all
-    @title = "Pages"
-    erb :archives
-  end
 
   get "*" do
     @page = Page.find(File.join(params[:splat]))
