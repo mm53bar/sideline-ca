@@ -14,7 +14,7 @@ disqus_url: http://blog.sideline.ca/2007/08/08/why-aspnet/
 
 <p>But doesn't it make more sense to simply <a href="http://dotavery.com/blog/archive/2007/07/27/106320.aspx">switch to a framework</a> that is a better fit for what you need?</p>
 
-<p>Those of you that have given Rails a shot know exactly what I mean.  Those of you that haven't tried it out on anything significant probably think I'm an idiot.  Or maybe you're just <a href="http://www.sideline.ca/2007/06/01/net-dollars/">hooked on the money</a>.</p>
+<p>Those of you that have given Rails a shot know exactly what I mean.  Those of you that haven't tried it out on anything significant probably think I'm an idiot.  Or maybe you're just <a href="http://www.sideline.ca/2007/06/01/net-dollars">hooked on the money</a>.</p>
 
 <p>At work, I'm fighting a losing battle to encourage Rails.  We have a significant investment in ASP.Net talent, IP and codebases so it only makes sense to use Rails where appropriate.  But I'm surprised at the level of objection that I'm facing towards using something like Rails even for fringe projects.  To me, that's a short-sighted business decision and has probably got me a little fired up about this topic.</p>
 

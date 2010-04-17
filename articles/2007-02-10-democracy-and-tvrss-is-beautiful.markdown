@@ -4,7 +4,7 @@ layout: post
 title: Democracy and tvRSS is beautiful
 disqus_url: http://blog.sideline.ca/2007/02/10/democracy-and-tvrss-is-beautiful/
 
-I've been a huge fan of <a href="http://en.wikipedia.org/wiki/Usenet">Usenet</a> for a long time.  My friends and family have been hooked on everything from Napster to IRC to Kazaa to eMule to BitTorrents but I've stayed faithful to my good old friend, <a href="http://en.wikipedia.org/wiki/Nntp">NNTP</a>.  Until I <a href="http://www.sideline.ca/2007/01/05/things-are-changing/">moved over to a Mac</a>, I've even been faithful to <a href="http://www.shemes.com/index.php">GrabIt</a>, my beloved newsgroup downloader, for over 7 years.
+I've been a huge fan of <a href="http://en.wikipedia.org/wiki/Usenet">Usenet</a> for a long time.  My friends and family have been hooked on everything from Napster to IRC to Kazaa to eMule to BitTorrents but I've stayed faithful to my good old friend, <a href="http://en.wikipedia.org/wiki/Nntp">NNTP</a>.  Until I <a href="http://www.sideline.ca/2007/01/05/things-are-changing">moved over to a Mac</a>, I've even been faithful to <a href="http://www.shemes.com/index.php">GrabIt</a>, my beloved newsgroup downloader, for over 7 years.
 
 That might have all changed today.   That's because I met <a href="http://tvrss.net/">tvRSS</a>.  And then <a href="http://www.getdemocracy.com/">Democracy</a>.
 

@@ -6,7 +6,7 @@ disqus_url: http://blog.sideline.ca/2009/09/21/fix-your-mistakes/
 
 <img src="http://www.sideline.ca/images/articles/thumbs_up_thumbs_down.jpg" alt="Thumbs Up, Thumbs Down" width="150" height="150" class="left" />Joe certainly seemed like the right fit.  His resume looked fantastic - lots of software development experience with big companies, all the right keywords, enough years to have gained good experience.  His interview was pretty good - he stumbled through some of the questions but a case of the nerves could have easily explained that.  
 
-And it's not like I wanted to be too picky at this point.  I was under pressure to hire a developer while we still had approval.  I had already interviewed at least ten possible candidates and my recruiter was starting to give me that look.  The look that says "I'm getting tired of trying to find developers that will never meet your standards."  I had seen it before but always had enough confidence to put it aside.  But [interview fatigue](http://www.sideline.ca/2009/09/15/how-to-cope-with-interview-fatigue/) was taking its toll on me.
+And it's not like I wanted to be too picky at this point.  I was under pressure to hire a developer while we still had approval.  I had already interviewed at least ten possible candidates and my recruiter was starting to give me that look.  The look that says "I'm getting tired of trying to find developers that will never meet your standards."  I had seen it before but always had enough confidence to put it aside.  But [interview fatigue](http://www.sideline.ca/2009/09/15/how-to-cope-with-interview-fatigue) was taking its toll on me.
 
 So, I pulled the trigger and hired Joe.
 
