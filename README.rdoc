@@ -1,0 +1,3 @@
+= Sideline.ca
+
+This is the source code for Sideline.ca (http://www.sideline.ca). It's based on Serious (http://github.com/colszowka/serious) but has been modified extensively.  To support these modifications, the Serious gem has been vendored.
