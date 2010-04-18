@@ -1,5 +1,6 @@
 title: An easy way to keep your developers productive
 
+*![Tin Can Telephone](/images/articles/tin_can_telephone.jpg)*
 Software developers are a tricky group.  They're smart folks with lots of education.  They're typically highly motivated to do a good job.  These are the kinds of folks who have a blurry line between job and hobby.
 
 But they will kill you as a project manager.  Slowly.

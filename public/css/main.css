@@ -163,7 +163,8 @@ body#articles #nav li.articles a,
 	padding:2px;
 	}
 .article img.left,
-.article div.left {
+.article div.left,
+.article em img {
 		float:left;
 		clear:left;
 		margin: 0 10px 0 0;
