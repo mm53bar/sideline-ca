@@ -2,7 +2,7 @@ title: Getting Serious
 
 Up until recently, I hosted [sideline.ca](http://sideline.ca) on Dreamhost using Wordpress.  While Wordpress has been good, I've been feeling the need to use a simpler solution.  Throw in my desire to move my hosting to something more Rails-friendly and it became obvious that I needed to leave Wordpress.
 
-While Dreamhost has been cheap (less than $10/month), I wanted to do better in terms of cost.  Something closer to...free.  Amazingly, I had a number of options:
+While Dreamhost has been cheap (less than $10/month), I wanted to do better in terms of cost.  Something closer to...free.  ~Amazingly, I had a number of options:
 
 * [GitHub Pages](http://github.com/blog/272-github-pages) - I like the simplicity of maintaining my pages in a git repository as markdown files.  But you need to be a premium member in order to point your domain at your pages.  In addition, I'll be moving another Wordpress instance off of Dreamhost so it would start to get clunky to maintain two different domains here.
 * [Codaset Pages](http://pages.codaset.com/) - Looks to be the same idea as Github Pages.  Again, I would need to create a second user to maintain a different blog.
