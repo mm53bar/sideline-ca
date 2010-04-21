@@ -1,4 +1,0 @@
-title: Contact
-
-<% @page_type = 'contact' %>
-Something about you
