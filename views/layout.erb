@@ -8,12 +8,13 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
     <title><%= @article ? @article.title + " - " : "" %><%= Serious.title %></title>
     <%= render_partial :google_analytics if Serious.google_analytics %> 
+    <%= render_partial :typekit if Serious.typekit %>
   </head>
   <body id="<%= @page_type if @page_type %>">
   <div id="wrapper" class="row">
     <div id="header" class="row clear">
       <div id="tagline" class="column grid_8">
-        <h1 id="title"><a href="/">Sideline</a></h1>
+        <h1 id="title" class="tk-headline"><a href="/">Sideline</a></h1>
       <% unless @page_type == 'home' %>
         <h2><%= Serious.tagline %></h2>
       <% end %>
