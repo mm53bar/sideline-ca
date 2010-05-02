@@ -11,10 +11,11 @@
     <%= render_partial :typekit if Serious.typekit %>
   </head>
   <body id="<%= @page_type if @page_type %>">
+  <a href="/hire_me" target=""><img src="/images/hire_me.gif" border="0" width="150" height="150" style="position:absolute; right:0px; top:0px; margin:0px; padding:0px"></a
   <div id="wrapper" class="row">
     <div id="header" class="row clear">
       <div id="tagline" class="column grid_8">
-        <h1 id="title" class="tk-headline"><a href="/">Sideline</a></h1>
+        <h1 id="title"><a href="/">Sideline</a></h1>
       <% unless @page_type == 'home' %>
         <h2><%= Serious.tagline %></h2>
       <% end %>

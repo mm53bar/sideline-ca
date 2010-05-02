@@ -1,7 +1,7 @@
 <% @page_type ||= 'article' %>
 <div class="article">
   <div class="header">
-    <h2><a href="<%= article.url %>" rel="bookmark" title="Permanent Link to <%= article.title %>"><%= article.title %></a></h2>
+    <h2 class="tk-headline"><a href="<%= article.url %>" rel="bookmark" title="Permanent Link to <%= article.title %>"><%= article.title %></a></h2>
     <div class="meta">
       <span class="author">by <%= article.author %></span>
       <span class="date"><%= article.date %></span>
@@ -21,7 +21,7 @@
     <p class="category">from <a href="/<%= article.category.downcase %>"><%= article.category %></a></p>
     <% unless summary_only %>  
     <div class="description">
-      <p>I'm Michael McClenaghan and I run <a href="http://www.sideline.ca">Sideline Consulting Inc.</a>, a consultancy based in Edmonton, Canada. You're reading <em>Sideline</em>, a site that documents my journey in software development over the past few years. I spend my time consulting with organizations that want to get better at developing software. While most people think I'm crazy, I seriously get my kicks helping software teams in chaos.</p>
+      <p>I'm Michael McClenaghan and I run <a href="http://www.sideline.ca">Sideline Consulting Inc.</a>, a consultancy based in Edmonton, Canada. You're reading <em>Sideline</em>, a site that documents my journey in software development over the past few years. I spend my time consulting with organizations that want to get better at developing software. While most people think I'm crazy, I seriously get my kicks helping software teams in chaos.  You should <a href="/hire_me">hire me</a>!</p>
       <p>In addition to consulting, I run <a href="http://www.agileedmonton.org">Agile Edmonton</a>, a user group that holds free, monthly presentations for anyone in the Edmonton area that's interested in learning more about how agile methods can help their software team.</p>
     </div>
     <% end %>
