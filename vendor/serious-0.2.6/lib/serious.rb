@@ -116,3 +116,4 @@ Serious.set :google_analytics, false
 Serious.set :feed_url, '/atom.xml'
 Serious.set :extension, 'txt'
 Serious.set :typekit, false
+Serious.set :myopenid, false

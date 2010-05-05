@@ -9,6 +9,7 @@
     <title><%= @article ? @article.title + " - " : "" %><%= Serious.title %></title>
     <%= render_partial :google_analytics if Serious.google_analytics %> 
     <%= render_partial :typekit if Serious.typekit %>
+    <%= render_partial :myopenid if Serious.myopenid %>
   </head>
   <body id="<%= @page_type if @page_type %>">
   <a href="/hire_me" target=""><img src="/images/hire_me.gif" border="0" width="150" height="150" style="position:absolute; right:0px; top:0px; margin:0px; padding:0px"></a
