@@ -18,6 +18,8 @@
     <% end %>
   </div>
   <div class="footer">
+    <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+    <a href="http://twitter.com/share" data-via="mm53bar" data-text="<%= article.title %>" data-url="<%= article.full_url %>" class="twitter-share-button">Tweet</a>
     <p class="category">from <a href="/<%= article.category.downcase %>"><%= article.category %></a></p>
     <% unless summary_only %>  
     <div class="description">
